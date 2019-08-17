@@ -1,0 +1,2224 @@
+Neve Yosef ITemp 142721 Wed Nov  2 16:00:00 2016
+Neve Yosef ITemp 146321 Wed Nov  2 15:00:00 2016
+Neve Yosef ITemp 139121 Wed Nov  2 17:00:00 2016
+Neve Yosef ITemp 135521 Wed Nov  2 18:00:00 2016
+Neve Yosef NOX 139121 Wed Nov  2 17:00:00 2016
+Neve Yosef NOX 135521 Wed Nov  2 18:00:00 2016
+Neve Yosef NOX 142721 Wed Nov  2 16:00:00 2016
+Neve Yosef RH 135521 Wed Nov  2 18:00:00 2016
+Neve Yosef RH 139121 Wed Nov  2 17:00:00 2016
+Neve Yosef RH 146321 Wed Nov  2 15:00:00 2016
+Neve Yosef RH 142721 Wed Nov  2 16:00:00 2016
+Neve Yosef TEMP 135521 Wed Nov  2 18:00:00 2016
+Neve Yosef TEMP 139121 Wed Nov  2 17:00:00 2016
+Neve Yosef TEMP 146321 Wed Nov  2 15:00:00 2016
+Neve Yosef TEMP 142721 Wed Nov  2 16:00:00 2016
+Neve Yosef WDD 139121 Wed Nov  2 17:00:00 2016
+Neve Yosef WDD 135521 Wed Nov  2 18:00:00 2016
+Neve Yosef WDD 142721 Wed Nov  2 16:00:00 2016
+Neve Yosef WDD 146321 Wed Nov  2 15:00:00 2016
+Neve Yosef WDS 139121 Wed Nov  2 17:00:00 2016
+Neve Yosef WDS 135521 Wed Nov  2 18:00:00 2016
+Neve Yosef WDS 142721 Wed Nov  2 16:00:00 2016
+Neve Yosef WDS 146321 Wed Nov  2 15:00:00 2016
+Neve Yosef NO2 142721 Wed Nov  2 16:00:00 2016
+Neve Yosef NO2 139121 Wed Nov  2 17:00:00 2016
+Neve Yosef NO2 135521 Wed Nov  2 18:00:00 2016
+Neve Yosef NO 139121 Wed Nov  2 17:00:00 2016
+Neve Yosef NO 135521 Wed Nov  2 18:00:00 2016
+Neve Yosef NO 142721 Wed Nov  2 16:00:00 2016
+Dor chemicals formaldehyde 139121 Wed Nov  2 17:00:00 2016
+Dor chemicals formaldehyde 135521 Wed Nov  2 18:00:00 2016
+Dor chemicals formaldehyde 142721 Wed Nov  2 16:00:00 2016
+Dor chemicals formaldehyde 146321 Wed Nov  2 15:00:00 2016
+Haifa g-30 NG 146321 Wed Nov  2 15:00:00 2016
+Haifa g-30 NG 142721 Wed Nov  2 16:00:00 2016
+Haifa g-30 NG 135521 Wed Nov  2 18:00:00 2016
+Haifa g-30 NG 139121 Wed Nov  2 17:00:00 2016
+Haifa g-30 FO 135521 Wed Nov  2 18:00:00 2016
+Haifa g-30 FO 139121 Wed Nov  2 17:00:00 2016
+Haifa g-30 FO 146321 Wed Nov  2 15:00:00 2016
+Haifa g-30 FO 142721 Wed Nov  2 16:00:00 2016
+Haifa g-30 NOX 146321 Wed Nov  2 15:00:00 2016
+Haifa g-30 NOX 142721 Wed Nov  2 16:00:00 2016
+Haifa g-30 NOX 135521 Wed Nov  2 18:00:00 2016
+Haifa g-30 NOX 139121 Wed Nov  2 17:00:00 2016
+Haifa g-30 MW-AVG 146321 Wed Nov  2 15:00:00 2016
+Haifa g-30 MW-AVG 142721 Wed Nov  2 16:00:00 2016
+Haifa g-30 MW-AVG 135521 Wed Nov  2 18:00:00 2016
+Haifa g-30 MW-AVG 139121 Wed Nov  2 17:00:00 2016
+Haifa g-30 WIND-DIR 135521 Wed Nov  2 18:00:00 2016
+Haifa g-30 WIND-DIR 139121 Wed Nov  2 17:00:00 2016
+Haifa g-30 WIND-DIR 146321 Wed Nov  2 15:00:00 2016
+Haifa g-30 WIND-DIR 142721 Wed Nov  2 16:00:00 2016
+Haifa g-30 WIND-V6 135521 Wed Nov  2 18:00:00 2016
+Haifa g-30 WIND-V6 139121 Wed Nov  2 17:00:00 2016
+Haifa g-30 WIND-V6 146321 Wed Nov  2 15:00:00 2016
+Haifa g-30 WIND-V6 142721 Wed Nov  2 16:00:00 2016
+Bazan-VIS3 NOx Dry 72897 Tue Nov 15 23:00:00 2016
+Bazan-VIS3 NOx Dry 139121 Wed Nov  2 17:00:00 2016
+Bazan-VIS3 NOx Dry 149921 Wed Nov  2 14:00:00 2016
+Bazan-VIS3 NOx Dry 201391 Thu Dec  1 00:00:00 2016
+Bazan-VIS3 NOx Dry 146321 Wed Nov  2 15:00:00 2016
+Bazan-VIS3 NOx Dry 142721 Wed Nov  2 16:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 390262 Sat Nov 26 23:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 70069 Sun Nov 20 23:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 72897 Tue Nov 15 23:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 204991 Wed Nov 30 23:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 149921 Wed Nov  2 14:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 131179 Tue Nov 29 23:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 201391 Thu Dec  1 00:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 52178 Fri Nov 25 23:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 48224 Mon Nov 21 23:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 116394 Fri Nov 18 23:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 224907 Wed Nov 23 23:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 203834 Tue Nov  1 23:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 138543 Thu Nov 24 23:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 117521 Wed Nov  2 23:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 217540 Mon Nov 28 23:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 159232 Mon Nov 14 23:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 146321 Wed Nov  2 15:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 303897 Sun Nov 27 23:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 311272 Tue Nov 22 23:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 311272 Tue Nov 22 23:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 159232 Mon Nov 14 23:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 217540 Mon Nov 28 23:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 146321 Wed Nov  2 15:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 303897 Sun Nov 27 23:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 203834 Tue Nov  1 23:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 138543 Thu Nov 24 23:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 117521 Wed Nov  2 23:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 116394 Fri Nov 18 23:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 224907 Wed Nov 23 23:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 52178 Fri Nov 25 23:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 48224 Mon Nov 21 23:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 131179 Tue Nov 29 23:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 201391 Thu Dec  1 00:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 149921 Wed Nov  2 14:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 204991 Wed Nov 30 23:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 390262 Sat Nov 26 23:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 72897 Tue Nov 15 23:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 70069 Sun Nov 20 23:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 52178 Fri Nov 25 23:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 48224 Mon Nov 21 23:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 201391 Thu Dec  1 00:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 131179 Tue Nov 29 23:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 149921 Wed Nov  2 14:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 204991 Wed Nov 30 23:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 72897 Tue Nov 15 23:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 70069 Sun Nov 20 23:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 390262 Sat Nov 26 23:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 311272 Tue Nov 22 23:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 303897 Sun Nov 27 23:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 159232 Mon Nov 14 23:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 217540 Mon Nov 28 23:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 146321 Wed Nov  2 15:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 138543 Thu Nov 24 23:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 203834 Tue Nov  1 23:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 117521 Wed Nov  2 23:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 224907 Wed Nov 23 23:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 116394 Fri Nov 18 23:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 224907 Wed Nov 23 23:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 116394 Fri Nov 18 23:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 138543 Thu Nov 24 23:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 203834 Tue Nov  1 23:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 117521 Wed Nov  2 23:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 303897 Sun Nov 27 23:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 217540 Mon Nov 28 23:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 159232 Mon Nov 14 23:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 146321 Wed Nov  2 15:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 311272 Tue Nov 22 23:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 72897 Tue Nov 15 23:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 70069 Sun Nov 20 23:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 390262 Sat Nov 26 23:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 149921 Wed Nov  2 14:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 204991 Wed Nov 30 23:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 201391 Thu Dec  1 00:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 131179 Tue Nov 29 23:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 52178 Fri Nov 25 23:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 48224 Mon Nov 21 23:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 390262 Sat Nov 26 23:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 72897 Tue Nov 15 23:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 70069 Sun Nov 20 23:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 149921 Wed Nov  2 14:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 204991 Wed Nov 30 23:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 131179 Tue Nov 29 23:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 201391 Thu Dec  1 00:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 52178 Fri Nov 25 23:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 48224 Mon Nov 21 23:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 116394 Fri Nov 18 23:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 224907 Wed Nov 23 23:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 203834 Tue Nov  1 23:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 138543 Thu Nov 24 23:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 117521 Wed Nov  2 23:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 217540 Mon Nov 28 23:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 146321 Wed Nov  2 15:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 159232 Mon Nov 14 23:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 303897 Sun Nov 27 23:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 311272 Tue Nov 22 23:00:00 2016
+D.CARMEL RH 146321 Wed Nov  2 15:00:00 2016
+D.CARMEL RH 142721 Wed Nov  2 16:00:00 2016
+D.CARMEL RH 135521 Wed Nov  2 18:00:00 2016
+D.CARMEL RH 139121 Wed Nov  2 17:00:00 2016
+D.CARMEL TEMP 135521 Wed Nov  2 18:00:00 2016
+D.CARMEL TEMP 139121 Wed Nov  2 17:00:00 2016
+D.CARMEL TEMP 146321 Wed Nov  2 15:00:00 2016
+D.CARMEL TEMP 142721 Wed Nov  2 16:00:00 2016
+D.CARMEL NOX 139121 Wed Nov  2 17:00:00 2016
+D.CARMEL NOX 135521 Wed Nov  2 18:00:00 2016
+D.CARMEL NOX 142721 Wed Nov  2 16:00:00 2016
+D.CARMEL NOX 146321 Wed Nov  2 15:00:00 2016
+D.CARMEL ITemp 566587 Thu Nov 24 22:00:00 2016
+D.CARMEL ITemp 516224 Fri Nov 25 12:00:00 2016
+D.CARMEL ITemp 562987 Thu Nov 24 23:00:00 2016
+D.CARMEL ITemp 383097 Sun Nov 27 01:00:00 2016
+D.CARMEL ITemp 473024 Sat Nov 26 00:00:00 2016
+D.CARMEL ITemp 505424 Fri Nov 25 15:00:00 2016
+D.CARMEL ITemp 537824 Fri Nov 25 06:00:00 2016
+D.CARMEL ITemp 36600 Mon Nov 28 06:00:00 2016
+D.CARMEL ITemp 501824 Fri Nov 25 16:00:00 2016
+D.CARMEL ITemp 462262 Sat Nov 26 03:00:00 2016
+D.CARMEL ITemp 440662 Sat Nov 26 09:00:00 2016
+D.CARMEL ITemp 343497 Sun Nov 27 12:00:00 2016
+D.CARMEL ITemp 552224 Fri Nov 25 02:00:00 2016
+D.CARMEL ITemp 476624 Fri Nov 25 23:00:00 2016
+D.CARMEL ITemp 408262 Sat Nov 26 18:00:00 2016
+D.CARMEL ITemp 411862 Sat Nov 26 17:00:00 2016
+D.CARMEL ITemp 570187 Thu Nov 24 21:00:00 2016
+D.CARMEL ITemp 483824 Fri Nov 25 21:00:00 2016
+D.CARMEL ITemp 444262 Sat Nov 26 08:00:00 2016
+D.CARMEL ITemp 419062 Sat Nov 26 15:00:00 2016
+D.CARMEL ITemp 47400 Mon Nov 28 03:00:00 2016
+D.CARMEL ITemp 523424 Fri Nov 25 10:00:00 2016
+D.CARMEL ITemp 455062 Sat Nov 26 05:00:00 2016
+D.CARMEL ITemp 541424 Fri Nov 25 05:00:00 2016
+D.CARMEL ITemp 580987 Thu Nov 24 18:00:00 2016
+D.CARMEL ITemp 602587 Thu Nov 24 12:00:00 2016
+D.CARMEL ITemp 329097 Sun Nov 27 16:00:00 2016
+D.CARMEL ITemp 494624 Fri Nov 25 18:00:00 2016
+D.CARMEL ITemp 314697 Sun Nov 27 20:00:00 2016
+D.CARMEL ITemp 311097 Sun Nov 27 21:00:00 2016
+D.CARMEL ITemp 336297 Sun Nov 27 14:00:00 2016
+D.CARMEL ITemp 375897 Sun Nov 27 03:00:00 2016
+D.CARMEL ITemp 458662 Sat Nov 26 04:00:00 2016
+D.CARMEL ITemp 350697 Sun Nov 27 10:00:00 2016
+D.CARMEL ITemp 307497 Sun Nov 27 22:00:00 2016
+D.CARMEL ITemp 429862 Sat Nov 26 12:00:00 2016
+D.CARMEL ITemp 527024 Fri Nov 25 09:00:00 2016
+D.CARMEL ITemp 627787 Thu Nov 24 05:00:00 2016
+D.CARMEL ITemp 325497 Sun Nov 27 17:00:00 2016
+D.CARMEL ITemp 437062 Sat Nov 26 10:00:00 2016
+D.CARMEL ITemp 332697 Sun Nov 27 15:00:00 2016
+D.CARMEL ITemp 43800 Mon Nov 28 04:00:00 2016
+D.CARMEL ITemp 595387 Thu Nov 24 14:00:00 2016
+D.CARMEL ITemp 447862 Sat Nov 26 07:00:00 2016
+D.CARMEL ITemp 469462 Sat Nov 26 01:00:00 2016
+D.CARMEL ITemp 609787 Thu Nov 24 10:00:00 2016
+D.CARMEL ITemp 613387 Thu Nov 24 09:00:00 2016
+D.CARMEL ITemp 465862 Sat Nov 26 02:00:00 2016
+D.CARMEL ITemp 357897 Sun Nov 27 08:00:00 2016
+D.CARMEL ITemp 487424 Fri Nov 25 20:00:00 2016
+D.CARMEL ITemp 509024 Fri Nov 25 14:00:00 2016
+D.CARMEL ITemp 415462 Sat Nov 26 16:00:00 2016
+D.CARMEL ITemp 54600 Mon Nov 28 01:00:00 2016
+D.CARMEL ITemp 354297 Sun Nov 27 09:00:00 2016
+D.CARMEL ITemp 559387 Fri Nov 25 00:00:00 2016
+D.CARMEL ITemp 426262 Sat Nov 26 13:00:00 2016
+D.CARMEL ITemp 368697 Sun Nov 27 05:00:00 2016
+D.CARMEL ITemp 58200 Mon Nov 28 00:00:00 2016
+D.CARMEL ITemp 498224 Fri Nov 25 17:00:00 2016
+D.CARMEL ITemp 512624 Fri Nov 25 13:00:00 2016
+D.CARMEL ITemp 365097 Sun Nov 27 06:00:00 2016
+D.CARMEL ITemp 591787 Thu Nov 24 15:00:00 2016
+D.CARMEL ITemp 534224 Fri Nov 25 07:00:00 2016
+D.CARMEL ITemp 616987 Thu Nov 24 08:00:00 2016
+D.CARMEL ITemp 347097 Sun Nov 27 11:00:00 2016
+D.CARMEL ITemp 361497 Sun Nov 27 07:00:00 2016
+D.CARMEL ITemp 624187 Thu Nov 24 06:00:00 2016
+D.CARMEL ITemp 480224 Fri Nov 25 22:00:00 2016
+D.CARMEL ITemp 40200 Mon Nov 28 05:00:00 2016
+D.CARMEL ITemp 372297 Sun Nov 27 04:00:00 2016
+D.CARMEL ITemp 379497 Sun Nov 27 02:00:00 2016
+D.CARMEL ITemp 404662 Sat Nov 26 19:00:00 2016
+D.CARMEL ITemp 318297 Sun Nov 27 19:00:00 2016
+D.CARMEL ITemp 584587 Thu Nov 24 17:00:00 2016
+D.CARMEL ITemp 606187 Thu Nov 24 11:00:00 2016
+D.CARMEL ITemp 577387 Thu Nov 24 19:00:00 2016
+D.CARMEL ITemp 397462 Sat Nov 26 21:00:00 2016
+D.CARMEL ITemp 598987 Thu Nov 24 13:00:00 2016
+D.CARMEL ITemp 545024 Fri Nov 25 04:00:00 2016
+D.CARMEL ITemp 303897 Sun Nov 27 23:00:00 2016
+D.CARMEL ITemp 51000 Mon Nov 28 02:00:00 2016
+D.CARMEL ITemp 401062 Sat Nov 26 20:00:00 2016
+D.CARMEL ITemp 519824 Fri Nov 25 11:00:00 2016
+D.CARMEL ITemp 530624 Fri Nov 25 08:00:00 2016
+D.CARMEL ITemp 339897 Sun Nov 27 13:00:00 2016
+D.CARMEL ITemp 642187 Thu Nov 24 01:00:00 2016
+D.CARMEL ITemp 433462 Sat Nov 26 11:00:00 2016
+D.CARMEL ITemp 491024 Fri Nov 25 19:00:00 2016
+D.CARMEL ITemp 321897 Sun Nov 27 18:00:00 2016
+D.CARMEL ITemp 620587 Thu Nov 24 07:00:00 2016
+D.CARMEL ITemp 451462 Sat Nov 26 06:00:00 2016
+D.CARMEL ITemp 631387 Thu Nov 24 04:00:00 2016
+D.CARMEL ITemp 634987 Thu Nov 24 03:00:00 2016
+D.CARMEL ITemp 573787 Thu Nov 24 20:00:00 2016
+D.CARMEL ITemp 638587 Thu Nov 24 02:00:00 2016
+D.CARMEL ITemp 393862 Sat Nov 26 22:00:00 2016
+D.CARMEL ITemp 588187 Thu Nov 24 16:00:00 2016
+D.CARMEL ITemp 386662 Sun Nov 27 00:00:00 2016
+D.CARMEL ITemp 390262 Sat Nov 26 23:00:00 2016
+D.CARMEL ITemp 422662 Sat Nov 26 14:00:00 2016
+D.CARMEL ITemp 548624 Fri Nov 25 03:00:00 2016
+D.CARMEL ITemp 645787 Thu Nov 24 00:00:00 2016
+D.CARMEL ITemp 555824 Fri Nov 25 01:00:00 2016
+D.CARMEL SO2 142721 Wed Nov  2 16:00:00 2016
+D.CARMEL SO2 146321 Wed Nov  2 15:00:00 2016
+D.CARMEL SO2 139121 Wed Nov  2 17:00:00 2016
+D.CARMEL SO2 135521 Wed Nov  2 18:00:00 2016
+D.CARMEL StWd 142721 Wed Nov  2 16:00:00 2016
+D.CARMEL StWd 146321 Wed Nov  2 15:00:00 2016
+D.CARMEL StWd 139121 Wed Nov  2 17:00:00 2016
+D.CARMEL StWd 135521 Wed Nov  2 18:00:00 2016
+D.CARMEL WDD 142721 Wed Nov  2 16:00:00 2016
+D.CARMEL WDD 146321 Wed Nov  2 15:00:00 2016
+D.CARMEL WDD 139121 Wed Nov  2 17:00:00 2016
+D.CARMEL WDD 135521 Wed Nov  2 18:00:00 2016
+D.CARMEL NO2 146321 Wed Nov  2 15:00:00 2016
+D.CARMEL NO2 142721 Wed Nov  2 16:00:00 2016
+D.CARMEL NO2 135521 Wed Nov  2 18:00:00 2016
+D.CARMEL NO2 139121 Wed Nov  2 17:00:00 2016
+D.CARMEL NO 139121 Wed Nov  2 17:00:00 2016
+D.CARMEL NO 135521 Wed Nov  2 18:00:00 2016
+D.CARMEL NO 142721 Wed Nov  2 16:00:00 2016
+D.CARMEL NO 146321 Wed Nov  2 15:00:00 2016
+D.CARMEL WDS 142721 Wed Nov  2 16:00:00 2016
+D.CARMEL WDS 146321 Wed Nov  2 15:00:00 2016
+D.CARMEL WDS 139121 Wed Nov  2 17:00:00 2016
+D.CARMEL WDS 135521 Wed Nov  2 18:00:00 2016
+CAOL_New NOB2 201391 Thu Dec  1 00:00:00 2016
+CAOL_New NOB2 149921 Wed Nov  2 14:00:00 2016
+CAOL_New NOB2 139121 Wed Nov  2 17:00:00 2016
+CAOL_New NOB2 72897 Tue Nov 15 23:00:00 2016
+CAOL_New NOB2 142721 Wed Nov  2 16:00:00 2016
+CAOL_New NOB2 146321 Wed Nov  2 15:00:00 2016
+CAOL_New Boiler2-Stat 72897 Tue Nov 15 23:00:00 2016
+CAOL_New Boiler2-Stat 139121 Wed Nov  2 17:00:00 2016
+CAOL_New Boiler2-Stat 149921 Wed Nov  2 14:00:00 2016
+CAOL_New Boiler2-Stat 201391 Thu Dec  1 00:00:00 2016
+CAOL_New Boiler2-Stat 146321 Wed Nov  2 15:00:00 2016
+CAOL_New Boiler2-Stat 142721 Wed Nov  2 16:00:00 2016
+CAOL_New Boiler1-Stat 146321 Wed Nov  2 15:00:00 2016
+CAOL_New Boiler1-Stat 142721 Wed Nov  2 16:00:00 2016
+CAOL_New Boiler1-Stat 72897 Tue Nov 15 23:00:00 2016
+CAOL_New Boiler1-Stat 139121 Wed Nov  2 17:00:00 2016
+CAOL_New Boiler1-Stat 149921 Wed Nov  2 14:00:00 2016
+CAOL_New Boiler1-Stat 201391 Thu Dec  1 00:00:00 2016
+CAOL_New NOB3 139121 Wed Nov  2 17:00:00 2016
+CAOL_New NOB3 149921 Wed Nov  2 14:00:00 2016
+CAOL_New NOB3 72897 Tue Nov 15 23:00:00 2016
+CAOL_New NOB3 201391 Thu Dec  1 00:00:00 2016
+CAOL_New NOB3 142721 Wed Nov  2 16:00:00 2016
+CAOL_New NOB3 146321 Wed Nov  2 15:00:00 2016
+CAOL_New Boiler3-Stat 142721 Wed Nov  2 16:00:00 2016
+CAOL_New Boiler3-Stat 146321 Wed Nov  2 15:00:00 2016
+CAOL_New Boiler3-Stat 201391 Thu Dec  1 00:00:00 2016
+CAOL_New Boiler3-Stat 139121 Wed Nov  2 17:00:00 2016
+CAOL_New Boiler3-Stat 149921 Wed Nov  2 14:00:00 2016
+CAOL_New Boiler3-Stat 72897 Tue Nov 15 23:00:00 2016
+CAOL_New NOB1 142721 Wed Nov  2 16:00:00 2016
+CAOL_New NOB1 146321 Wed Nov  2 15:00:00 2016
+CAOL_New NOB1 201391 Thu Dec  1 00:00:00 2016
+CAOL_New NOB1 139121 Wed Nov  2 17:00:00 2016
+CAOL_New NOB1 149921 Wed Nov  2 14:00:00 2016
+CAOL_New NOB1 72897 Tue Nov 15 23:00:00 2016
+Carmelia LXpk_max 146321 Wed Nov  2 15:00:00 2016
+Carmelia LXpk_max 142721 Wed Nov  2 16:00:00 2016
+Carmelia LXpk_max 135521 Wed Nov  2 18:00:00 2016
+Carmelia LXpk_max 139121 Wed Nov  2 17:00:00 2016
+Carmelia CO 139121 Wed Nov  2 17:00:00 2016
+Carmelia CO 135521 Wed Nov  2 18:00:00 2016
+Carmelia CO 142721 Wed Nov  2 16:00:00 2016
+Carmelia CO 146321 Wed Nov  2 15:00:00 2016
+Carmelia TEMP 142721 Wed Nov  2 16:00:00 2016
+Carmelia TEMP 146321 Wed Nov  2 15:00:00 2016
+Carmelia TEMP 139121 Wed Nov  2 17:00:00 2016
+Carmelia TEMP 135521 Wed Nov  2 18:00:00 2016
+Carmelia LAim 139121 Wed Nov  2 17:00:00 2016
+Carmelia LAim 135521 Wed Nov  2 18:00:00 2016
+Carmelia LAim 142721 Wed Nov  2 16:00:00 2016
+Carmelia LAim 146321 Wed Nov  2 15:00:00 2016
+Carmelia WDD 135521 Wed Nov  2 18:00:00 2016
+Carmelia WDD 139121 Wed Nov  2 17:00:00 2016
+Carmelia WDD 146321 Wed Nov  2 15:00:00 2016
+Carmelia WDD 142721 Wed Nov  2 16:00:00 2016
+Carmelia LAeq 139121 Wed Nov  2 17:00:00 2016
+Carmelia LAeq 135521 Wed Nov  2 18:00:00 2016
+Carmelia LAeq 142721 Wed Nov  2 16:00:00 2016
+Carmelia LAeq 146321 Wed Nov  2 15:00:00 2016
+Carmelia LAF_max 139121 Wed Nov  2 17:00:00 2016
+Carmelia LAF_max 135521 Wed Nov  2 18:00:00 2016
+Carmelia LAF_max 142721 Wed Nov  2 16:00:00 2016
+Carmelia LAF_max 146321 Wed Nov  2 15:00:00 2016
+Carmelia LXeq 139121 Wed Nov  2 17:00:00 2016
+Carmelia LXeq 135521 Wed Nov  2 18:00:00 2016
+Carmelia LXeq 142721 Wed Nov  2 16:00:00 2016
+Carmelia LXeq 146321 Wed Nov  2 15:00:00 2016
+Carmelia ITemp 146321 Wed Nov  2 15:00:00 2016
+Carmelia ITemp 142721 Wed Nov  2 16:00:00 2016
+Carmelia ITemp 135521 Wed Nov  2 18:00:00 2016
+Carmelia ITemp 139121 Wed Nov  2 17:00:00 2016
+Carmelia NOX 146321 Wed Nov  2 15:00:00 2016
+Carmelia NOX 142721 Wed Nov  2 16:00:00 2016
+Carmelia NOX 135521 Wed Nov  2 18:00:00 2016
+Carmelia NOX 139121 Wed Nov  2 17:00:00 2016
+Carmelia LAF_min 142721 Wed Nov  2 16:00:00 2016
+Carmelia LAF_min 146321 Wed Nov  2 15:00:00 2016
+Carmelia LAF_min 139121 Wed Nov  2 17:00:00 2016
+Carmelia LAF_min 135521 Wed Nov  2 18:00:00 2016
+Carmelia RH 142721 Wed Nov  2 16:00:00 2016
+Carmelia RH 146321 Wed Nov  2 15:00:00 2016
+Carmelia RH 139121 Wed Nov  2 17:00:00 2016
+Carmelia RH 135521 Wed Nov  2 18:00:00 2016
+Carmelia WDS 139121 Wed Nov  2 17:00:00 2016
+Carmelia WDS 135521 Wed Nov  2 18:00:00 2016
+Carmelia WDS 142721 Wed Nov  2 16:00:00 2016
+Carmelia WDS 146321 Wed Nov  2 15:00:00 2016
+Carmelia NO2 139121 Wed Nov  2 17:00:00 2016
+Carmelia NO2 135521 Wed Nov  2 18:00:00 2016
+Carmelia NO2 142721 Wed Nov  2 16:00:00 2016
+Carmelia NO2 146321 Wed Nov  2 15:00:00 2016
+Carmelia NO 139121 Wed Nov  2 17:00:00 2016
+Carmelia NO 135521 Wed Nov  2 18:00:00 2016
+Carmelia NO 142721 Wed Nov  2 16:00:00 2016
+Carmelia NO 146321 Wed Nov  2 15:00:00 2016
+Carmelia PM10 146321 Wed Nov  2 15:00:00 2016
+Carmelia PM10 142721 Wed Nov  2 16:00:00 2016
+Carmelia PM10 135521 Wed Nov  2 18:00:00 2016
+Carmelia PM10 139121 Wed Nov  2 17:00:00 2016
+Igud (check-post) WDD 135521 Wed Nov  2 18:00:00 2016
+Igud (check-post) WDD 139121 Wed Nov  2 17:00:00 2016
+Igud (check-post) WDD 146321 Wed Nov  2 15:00:00 2016
+Igud (check-post) WDD 142721 Wed Nov  2 16:00:00 2016
+Igud (check-post) TEMP 135521 Wed Nov  2 18:00:00 2016
+Igud (check-post) TEMP 139121 Wed Nov  2 17:00:00 2016
+Igud (check-post) TEMP 146321 Wed Nov  2 15:00:00 2016
+Igud (check-post) TEMP 142721 Wed Nov  2 16:00:00 2016
+Igud (check-post) Filter 142721 Wed Nov  2 16:00:00 2016
+Igud (check-post) Filter 146321 Wed Nov  2 15:00:00 2016
+Igud (check-post) Filter 139121 Wed Nov  2 17:00:00 2016
+Igud (check-post) Filter 135521 Wed Nov  2 18:00:00 2016
+Igud (check-post) O3 135521 Wed Nov  2 18:00:00 2016
+Igud (check-post) O3 139121 Wed Nov  2 17:00:00 2016
+Igud (check-post) O3 146321 Wed Nov  2 15:00:00 2016
+Igud (check-post) O3 142721 Wed Nov  2 16:00:00 2016
+Igud (check-post) SO2 139121 Wed Nov  2 17:00:00 2016
+Igud (check-post) SO2 135521 Wed Nov  2 18:00:00 2016
+Igud (check-post) SO2 142721 Wed Nov  2 16:00:00 2016
+Igud (check-post) SO2 146321 Wed Nov  2 15:00:00 2016
+Igud (check-post) BENZN 139121 Wed Nov  2 17:00:00 2016
+Igud (check-post) BENZN 135521 Wed Nov  2 18:00:00 2016
+Igud (check-post) BENZN 142721 Wed Nov  2 16:00:00 2016
+Igud (check-post) BENZN 146321 Wed Nov  2 15:00:00 2016
+Igud (check-post) PM10 146321 Wed Nov  2 15:00:00 2016
+Igud (check-post) PM10 142721 Wed Nov  2 16:00:00 2016
+Igud (check-post) PM10 135521 Wed Nov  2 18:00:00 2016
+Igud (check-post) PM10 139121 Wed Nov  2 17:00:00 2016
+Igud (check-post) NO2 135521 Wed Nov  2 18:00:00 2016
+Igud (check-post) NO2 139121 Wed Nov  2 17:00:00 2016
+Igud (check-post) NO2 146321 Wed Nov  2 15:00:00 2016
+Igud (check-post) NO2 142721 Wed Nov  2 16:00:00 2016
+Igud (check-post) NO 135521 Wed Nov  2 18:00:00 2016
+Igud (check-post) NO 139121 Wed Nov  2 17:00:00 2016
+Igud (check-post) NO 146321 Wed Nov  2 15:00:00 2016
+Igud (check-post) NO 142721 Wed Nov  2 16:00:00 2016
+Igud (check-post) WDS 135521 Wed Nov  2 18:00:00 2016
+Igud (check-post) WDS 139121 Wed Nov  2 17:00:00 2016
+Igud (check-post) WDS 146321 Wed Nov  2 15:00:00 2016
+Igud (check-post) WDS 142721 Wed Nov  2 16:00:00 2016
+Igud (check-post) ITemp 135521 Wed Nov  2 18:00:00 2016
+Igud (check-post) ITemp 139121 Wed Nov  2 17:00:00 2016
+Igud (check-post) ITemp 146321 Wed Nov  2 15:00:00 2016
+Igud (check-post) ITemp 142721 Wed Nov  2 16:00:00 2016
+Igud (check-post) PREC 146321 Wed Nov  2 15:00:00 2016
+Igud (check-post) PREC 142721 Wed Nov  2 16:00:00 2016
+Igud (check-post) PREC 135521 Wed Nov  2 18:00:00 2016
+Igud (check-post) PREC 139121 Wed Nov  2 17:00:00 2016
+Igud (check-post) EthylB 135521 Wed Nov  2 18:00:00 2016
+Igud (check-post) EthylB 139121 Wed Nov  2 17:00:00 2016
+Igud (check-post) EthylB 146321 Wed Nov  2 15:00:00 2016
+Igud (check-post) EthylB 142721 Wed Nov  2 16:00:00 2016
+Igud (check-post) NOX 135521 Wed Nov  2 18:00:00 2016
+Igud (check-post) NOX 139121 Wed Nov  2 17:00:00 2016
+Igud (check-post) NOX 146321 Wed Nov  2 15:00:00 2016
+Igud (check-post) NOX 142721 Wed Nov  2 16:00:00 2016
+Igud (check-post) O-Xyle 135521 Wed Nov  2 18:00:00 2016
+Igud (check-post) O-Xyle 139121 Wed Nov  2 17:00:00 2016
+Igud (check-post) O-Xyle 146321 Wed Nov  2 15:00:00 2016
+Igud (check-post) O-Xyle 142721 Wed Nov  2 16:00:00 2016
+Igud (check-post) TOLUEN 146321 Wed Nov  2 15:00:00 2016
+Igud (check-post) TOLUEN 142721 Wed Nov  2 16:00:00 2016
+Igud (check-post) TOLUEN 135521 Wed Nov  2 18:00:00 2016
+Igud (check-post) TOLUEN 139121 Wed Nov  2 17:00:00 2016
+Igud (check-post) StWd 139121 Wed Nov  2 17:00:00 2016
+Igud (check-post) StWd 135521 Wed Nov  2 18:00:00 2016
+Igud (check-post) StWd 142721 Wed Nov  2 16:00:00 2016
+Igud (check-post) StWd 146321 Wed Nov  2 15:00:00 2016
+Deshanim Status 149921 Wed Nov  2 14:00:00 2016
+Deshanim Status 139121 Wed Nov  2 17:00:00 2016
+Deshanim Status 142721 Wed Nov  2 16:00:00 2016
+Deshanim Status 146321 Wed Nov  2 15:00:00 2016
+Deshanim NOX 149921 Wed Nov  2 14:00:00 2016
+Deshanim NOX 139121 Wed Nov  2 17:00:00 2016
+Deshanim NOX 142721 Wed Nov  2 16:00:00 2016
+Deshanim NOX 146321 Wed Nov  2 15:00:00 2016
+Delek TOC 54600 Sat Nov 26 04:00:00 2016
+Delek TOC 65400 Sat Nov 26 01:00:00 2016
+Delek TOC 43800 Sat Nov 26 07:00:00 2016
+Delek TOC 61800 Sat Nov 26 02:00:00 2016
+Delek TOC 58200 Sat Nov 26 03:00:00 2016
+Delek TOC 36600 Sat Nov 26 09:00:00 2016
+Delek TOC 69000 Sat Nov 26 00:00:00 2016
+Delek TOC 51000 Sat Nov 26 05:00:00 2016
+Delek TOC 40200 Sat Nov 26 08:00:00 2016
+Delek TOC 47400 Sat Nov 26 06:00:00 2016
+Paz TOC 142721 Wed Nov  2 16:00:00 2016
+Paz TOC 146321 Wed Nov  2 15:00:00 2016
+Paz TOC 139121 Wed Nov  2 17:00:00 2016
+Paz TOC 135521 Wed Nov  2 18:00:00 2016
+Kiryat Yam StWd 184432 Mon Nov 14 16:00:00 2016
+Kiryat Yam StWd 36600 Tue Nov 15 04:00:00 2016
+Kiryat Yam StWd 180832 Mon Nov 14 17:00:00 2016
+Kiryat Yam StWd 173632 Mon Nov 14 19:00:00 2016
+Kiryat Yam StWd 170032 Mon Nov 14 20:00:00 2016
+Kiryat Yam StWd 40200 Tue Nov 15 03:00:00 2016
+Kiryat Yam StWd 43800 Tue Nov 15 02:00:00 2016
+Kiryat Yam StWd 159232 Mon Nov 14 23:00:00 2016
+Kiryat Yam StWd 188032 Mon Nov 14 15:00:00 2016
+Kiryat Yam StWd 177232 Mon Nov 14 18:00:00 2016
+Kiryat Yam StWd 51000 Tue Nov 15 00:00:00 2016
+Kiryat Yam StWd 166432 Mon Nov 14 21:00:00 2016
+Kiryat Yam StWd 162832 Mon Nov 14 22:00:00 2016
+Kiryat Yam StWd 47400 Tue Nov 15 01:00:00 2016
+Kiryat Yam SO2 184432 Mon Nov 14 16:00:00 2016
+Kiryat Yam SO2 173632 Mon Nov 14 19:00:00 2016
+Kiryat Yam SO2 180832 Mon Nov 14 17:00:00 2016
+Kiryat Yam SO2 170032 Mon Nov 14 20:00:00 2016
+Kiryat Yam SO2 40200 Tue Nov 15 03:00:00 2016
+Kiryat Yam SO2 43800 Tue Nov 15 02:00:00 2016
+Kiryat Yam SO2 177232 Mon Nov 14 18:00:00 2016
+Kiryat Yam SO2 188032 Mon Nov 14 15:00:00 2016
+Kiryat Yam SO2 159232 Mon Nov 14 23:00:00 2016
+Kiryat Yam SO2 51000 Tue Nov 15 00:00:00 2016
+Kiryat Yam SO2 162832 Mon Nov 14 22:00:00 2016
+Kiryat Yam SO2 47400 Tue Nov 15 01:00:00 2016
+Kiryat Yam SO2 166432 Mon Nov 14 21:00:00 2016
+Kiryat Yam WDS 40200 Tue Nov 15 03:00:00 2016
+Kiryat Yam WDS 170032 Mon Nov 14 20:00:00 2016
+Kiryat Yam WDS 173632 Mon Nov 14 19:00:00 2016
+Kiryat Yam WDS 180832 Mon Nov 14 17:00:00 2016
+Kiryat Yam WDS 162832 Mon Nov 14 22:00:00 2016
+Kiryat Yam WDS 47400 Tue Nov 15 01:00:00 2016
+Kiryat Yam WDS 166432 Mon Nov 14 21:00:00 2016
+Kiryat Yam WDS 51000 Tue Nov 15 00:00:00 2016
+Kiryat Yam WDS 188032 Mon Nov 14 15:00:00 2016
+Kiryat Yam WDS 177232 Mon Nov 14 18:00:00 2016
+Kiryat Yam WDS 159232 Mon Nov 14 23:00:00 2016
+Kiryat Yam WDS 43800 Tue Nov 15 02:00:00 2016
+Kiryat Yam WDS 36600 Tue Nov 15 04:00:00 2016
+Kiryat Yam WDS 184432 Mon Nov 14 16:00:00 2016
+Kiryat Yam WDD 159232 Mon Nov 14 23:00:00 2016
+Kiryat Yam WDD 188032 Mon Nov 14 15:00:00 2016
+Kiryat Yam WDD 177232 Mon Nov 14 18:00:00 2016
+Kiryat Yam WDD 43800 Tue Nov 15 02:00:00 2016
+Kiryat Yam WDD 166432 Mon Nov 14 21:00:00 2016
+Kiryat Yam WDD 47400 Tue Nov 15 01:00:00 2016
+Kiryat Yam WDD 162832 Mon Nov 14 22:00:00 2016
+Kiryat Yam WDD 51000 Tue Nov 15 00:00:00 2016
+Kiryat Yam WDD 180832 Mon Nov 14 17:00:00 2016
+Kiryat Yam WDD 173632 Mon Nov 14 19:00:00 2016
+Kiryat Yam WDD 40200 Tue Nov 15 03:00:00 2016
+Kiryat Yam WDD 170032 Mon Nov 14 20:00:00 2016
+Kiryat Yam WDD 184432 Mon Nov 14 16:00:00 2016
+Kiryat Yam WDD 36600 Tue Nov 15 04:00:00 2016
+Bazan-CU1 NOx Dry 201391 Thu Dec  1 00:00:00 2016
+Bazan-CU1 NOx Dry 72897 Tue Nov 15 23:00:00 2016
+Bazan-CU1 NOx Dry 139121 Wed Nov  2 17:00:00 2016
+Bazan-CU1 NOx Dry 149921 Wed Nov  2 14:00:00 2016
+Bazan-CU1 NOx Dry 146321 Wed Nov  2 15:00:00 2016
+Bazan-CU1 NOx Dry 142721 Wed Nov  2 16:00:00 2016
+Ahuza ITemp 139121 Wed Nov  2 17:00:00 2016
+Ahuza ITemp 135521 Wed Nov  2 18:00:00 2016
+Ahuza ITemp 142721 Wed Nov  2 16:00:00 2016
+Ahuza ITemp 146321 Wed Nov  2 15:00:00 2016
+Ahuza NOX TRAFIC 142721 Wed Nov  2 16:00:00 2016
+Ahuza NOX TRAFIC 146321 Wed Nov  2 15:00:00 2016
+Ahuza NOX TRAFIC 139121 Wed Nov  2 17:00:00 2016
+Ahuza NOX TRAFIC 135521 Wed Nov  2 18:00:00 2016
+Ahuza NOX 142721 Wed Nov  2 16:00:00 2016
+Ahuza NOX 146321 Wed Nov  2 15:00:00 2016
+Ahuza NOX 139121 Wed Nov  2 17:00:00 2016
+Ahuza NOX 135521 Wed Nov  2 18:00:00 2016
+Ahuza TEMP 135521 Wed Nov  2 18:00:00 2016
+Ahuza TEMP 139121 Wed Nov  2 17:00:00 2016
+Ahuza TEMP 146321 Wed Nov  2 15:00:00 2016
+Ahuza TEMP 142721 Wed Nov  2 16:00:00 2016
+Ahuza PM2.5 146321 Wed Nov  2 15:00:00 2016
+Ahuza PM2.5 142721 Wed Nov  2 16:00:00 2016
+Ahuza PM2.5 135521 Wed Nov  2 18:00:00 2016
+Ahuza PM2.5 139121 Wed Nov  2 17:00:00 2016
+Ahuza StWd 146321 Wed Nov  2 15:00:00 2016
+Ahuza StWd 142721 Wed Nov  2 16:00:00 2016
+Ahuza StWd 135521 Wed Nov  2 18:00:00 2016
+Ahuza StWd 139121 Wed Nov  2 17:00:00 2016
+Ahuza Filter 146321 Wed Nov  2 15:00:00 2016
+Ahuza Filter 142721 Wed Nov  2 16:00:00 2016
+Ahuza Filter 135521 Wed Nov  2 18:00:00 2016
+Ahuza Filter 139121 Wed Nov  2 17:00:00 2016
+Ahuza SO2 142721 Wed Nov  2 16:00:00 2016
+Ahuza SO2 146321 Wed Nov  2 15:00:00 2016
+Ahuza SO2 139121 Wed Nov  2 17:00:00 2016
+Ahuza SO2 135521 Wed Nov  2 18:00:00 2016
+Ahuza WDD 135521 Wed Nov  2 18:00:00 2016
+Ahuza WDD 139121 Wed Nov  2 17:00:00 2016
+Ahuza WDD 146321 Wed Nov  2 15:00:00 2016
+Ahuza WDD 142721 Wed Nov  2 16:00:00 2016
+Ahuza CO TRAFIC 142721 Wed Nov  2 16:00:00 2016
+Ahuza CO TRAFIC 146321 Wed Nov  2 15:00:00 2016
+Ahuza CO TRAFIC 139121 Wed Nov  2 17:00:00 2016
+Ahuza CO TRAFIC 135521 Wed Nov  2 18:00:00 2016
+Ahuza NO2 TRAFIC 146321 Wed Nov  2 15:00:00 2016
+Ahuza NO2 TRAFIC 142721 Wed Nov  2 16:00:00 2016
+Ahuza NO2 TRAFIC 135521 Wed Nov  2 18:00:00 2016
+Ahuza NO2 TRAFIC 139121 Wed Nov  2 17:00:00 2016
+Ahuza NO TRAFIC 142721 Wed Nov  2 16:00:00 2016
+Ahuza NO TRAFIC 146321 Wed Nov  2 15:00:00 2016
+Ahuza NO TRAFIC 139121 Wed Nov  2 17:00:00 2016
+Ahuza NO TRAFIC 135521 Wed Nov  2 18:00:00 2016
+Ahuza WDS 139121 Wed Nov  2 17:00:00 2016
+Ahuza WDS 135521 Wed Nov  2 18:00:00 2016
+Ahuza WDS 142721 Wed Nov  2 16:00:00 2016
+Ahuza WDS 146321 Wed Nov  2 15:00:00 2016
+Ahuza NO 146321 Wed Nov  2 15:00:00 2016
+Ahuza NO 142721 Wed Nov  2 16:00:00 2016
+Ahuza NO 135521 Wed Nov  2 18:00:00 2016
+Ahuza NO 139121 Wed Nov  2 17:00:00 2016
+Ahuza NO2 139121 Wed Nov  2 17:00:00 2016
+Ahuza NO2 135521 Wed Nov  2 18:00:00 2016
+Ahuza NO2 142721 Wed Nov  2 16:00:00 2016
+Ahuza NO2 146321 Wed Nov  2 15:00:00 2016
+TARO TOC 139121 Wed Nov  2 17:00:00 2016
+TARO TOC 135521 Wed Nov  2 18:00:00 2016
+TARO TOC 142721 Wed Nov  2 16:00:00 2016
+TARO TOC 146321 Wed Nov  2 15:00:00 2016
+Paz Shmanim TOC 142721 Wed Nov  2 16:00:00 2016
+Paz Shmanim TOC 146321 Wed Nov  2 15:00:00 2016
+Paz Shmanim TOC 139121 Wed Nov  2 17:00:00 2016
+Paz Shmanim TOC 135521 Wed Nov  2 18:00:00 2016
+Kfar Hasidim ITemp 139121 Wed Nov  2 17:00:00 2016
+Kfar Hasidim ITemp 135521 Wed Nov  2 18:00:00 2016
+Kfar Hasidim ITemp 142721 Wed Nov  2 16:00:00 2016
+Kfar Hasidim ITemp 146321 Wed Nov  2 15:00:00 2016
+Kfar Hasidim WDD 135521 Wed Nov  2 18:00:00 2016
+Kfar Hasidim WDD 139121 Wed Nov  2 17:00:00 2016
+Kfar Hasidim WDD 146321 Wed Nov  2 15:00:00 2016
+Kfar Hasidim WDD 142721 Wed Nov  2 16:00:00 2016
+Kfar Hasidim StWd 139121 Wed Nov  2 17:00:00 2016
+Kfar Hasidim StWd 135521 Wed Nov  2 18:00:00 2016
+Kfar Hasidim StWd 142721 Wed Nov  2 16:00:00 2016
+Kfar Hasidim StWd 146321 Wed Nov  2 15:00:00 2016
+Kfar Hasidim WDS 146321 Wed Nov  2 15:00:00 2016
+Kfar Hasidim WDS 142721 Wed Nov  2 16:00:00 2016
+Kfar Hasidim WDS 135521 Wed Nov  2 18:00:00 2016
+Kfar Hasidim WDS 139121 Wed Nov  2 17:00:00 2016
+Kfar Hasidim SO2 142721 Wed Nov  2 16:00:00 2016
+Kfar Hasidim SO2 146321 Wed Nov  2 15:00:00 2016
+Kfar Hasidim SO2 139121 Wed Nov  2 17:00:00 2016
+Kfar Hasidim SO2 135521 Wed Nov  2 18:00:00 2016
+OP-GADIV STAT2 139121 Wed Nov  2 17:00:00 2016
+OP-GADIV STAT2 149921 Wed Nov  2 14:00:00 2016
+OP-GADIV STAT2 142721 Wed Nov  2 16:00:00 2016
+OP-GADIV STAT2 146321 Wed Nov  2 15:00:00 2016
+OP-GADIV XLNHT 149921 Wed Nov  2 14:00:00 2016
+OP-GADIV XLNHT 139121 Wed Nov  2 17:00:00 2016
+OP-GADIV XLNHT 142721 Wed Nov  2 16:00:00 2016
+OP-GADIV XLNHT 146321 Wed Nov  2 15:00:00 2016
+OP-GADIV PRXHT 139121 Wed Nov  2 17:00:00 2016
+OP-GADIV PRXHT 149921 Wed Nov  2 14:00:00 2016
+OP-GADIV PRXHT 146321 Wed Nov  2 15:00:00 2016
+OP-GADIV PRXHT 142721 Wed Nov  2 16:00:00 2016
+OP-GADIV TLNHT 146321 Wed Nov  2 15:00:00 2016
+OP-GADIV TLNHT 142721 Wed Nov  2 16:00:00 2016
+OP-GADIV TLNHT 149921 Wed Nov  2 14:00:00 2016
+OP-GADIV TLNHT 139121 Wed Nov  2 17:00:00 2016
+OP-GADIV SPLHT 149921 Wed Nov  2 14:00:00 2016
+OP-GADIV SPLHT 139121 Wed Nov  2 17:00:00 2016
+OP-GADIV SPLHT 146321 Wed Nov  2 15:00:00 2016
+OP-GADIV SPLHT 142721 Wed Nov  2 16:00:00 2016
+OP-GADIV STAT1 149921 Wed Nov  2 14:00:00 2016
+OP-GADIV STAT1 139121 Wed Nov  2 17:00:00 2016
+OP-GADIV STAT1 142721 Wed Nov  2 16:00:00 2016
+OP-GADIV STAT1 146321 Wed Nov  2 15:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 52178 Fri Nov 25 23:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 48224 Mon Nov 21 23:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 201391 Thu Dec  1 00:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 131179 Tue Nov 29 23:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 204991 Wed Nov 30 23:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 149921 Wed Nov  2 14:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 70069 Sun Nov 20 23:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 72897 Tue Nov 15 23:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 390262 Sat Nov 26 23:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 311272 Tue Nov 22 23:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 303897 Sun Nov 27 23:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 217540 Mon Nov 28 23:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 146321 Wed Nov  2 15:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 159232 Mon Nov 14 23:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 138543 Thu Nov 24 23:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 203834 Tue Nov  1 23:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 117521 Wed Nov  2 23:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 224907 Wed Nov 23 23:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 116394 Fri Nov 18 23:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 390262 Sat Nov 26 23:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 72897 Tue Nov 15 23:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 70069 Sun Nov 20 23:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 149921 Wed Nov  2 14:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 204991 Wed Nov 30 23:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 131179 Tue Nov 29 23:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 201391 Thu Dec  1 00:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 52178 Fri Nov 25 23:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 48224 Mon Nov 21 23:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 116394 Fri Nov 18 23:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 224907 Wed Nov 23 23:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 203834 Tue Nov  1 23:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 138543 Thu Nov 24 23:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 117521 Wed Nov  2 23:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 217540 Mon Nov 28 23:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 146321 Wed Nov  2 15:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 159232 Mon Nov 14 23:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 303897 Sun Nov 27 23:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 311272 Tue Nov 22 23:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 149921 Wed Nov  2 14:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 204991 Wed Nov 30 23:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 390262 Sat Nov 26 23:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 72897 Tue Nov 15 23:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 70069 Sun Nov 20 23:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 48224 Mon Nov 21 23:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 52178 Fri Nov 25 23:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 131179 Tue Nov 29 23:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 201391 Thu Dec  1 00:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 117521 Wed Nov  2 23:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 203834 Tue Nov  1 23:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 138543 Thu Nov 24 23:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 116394 Fri Nov 18 23:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 224907 Wed Nov 23 23:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 311272 Tue Nov 22 23:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 159232 Mon Nov 14 23:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 217540 Mon Nov 28 23:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 146321 Wed Nov  2 15:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 303897 Sun Nov 27 23:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 117521 Wed Nov  2 23:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 138543 Thu Nov 24 23:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 203834 Tue Nov  1 23:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 224907 Wed Nov 23 23:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 116394 Fri Nov 18 23:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 311272 Tue Nov 22 23:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 303897 Sun Nov 27 23:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 217540 Mon Nov 28 23:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 146321 Wed Nov  2 15:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 159232 Mon Nov 14 23:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 204991 Wed Nov 30 23:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 149921 Wed Nov  2 14:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 70069 Sun Nov 20 23:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 72897 Tue Nov 15 23:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 390262 Sat Nov 26 23:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 48224 Mon Nov 21 23:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 52178 Fri Nov 25 23:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 201391 Thu Dec  1 00:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 131179 Tue Nov 29 23:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 146321 Wed Nov  2 15:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 217540 Mon Nov 28 23:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 159232 Mon Nov 14 23:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 303897 Sun Nov 27 23:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 311272 Tue Nov 22 23:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 116394 Fri Nov 18 23:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 224907 Wed Nov 23 23:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 117521 Wed Nov  2 23:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 203834 Tue Nov  1 23:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 138543 Thu Nov 24 23:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 131179 Tue Nov 29 23:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 201391 Thu Dec  1 00:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 48224 Mon Nov 21 23:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 52178 Fri Nov 25 23:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 390262 Sat Nov 26 23:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 70069 Sun Nov 20 23:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 72897 Tue Nov 15 23:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 204991 Wed Nov 30 23:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 149921 Wed Nov  2 14:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 52178 Fri Nov 25 23:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 48224 Mon Nov 21 23:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 201391 Thu Dec  1 00:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 131179 Tue Nov 29 23:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 204991 Wed Nov 30 23:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 149921 Wed Nov  2 14:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 70069 Sun Nov 20 23:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 72897 Tue Nov 15 23:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 390262 Sat Nov 26 23:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 311272 Tue Nov 22 23:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 303897 Sun Nov 27 23:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 217540 Mon Nov 28 23:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 159232 Mon Nov 14 23:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 146321 Wed Nov  2 15:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 138543 Thu Nov 24 23:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 203834 Tue Nov  1 23:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 117521 Wed Nov  2 23:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 224907 Wed Nov 23 23:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 116394 Fri Nov 18 23:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 72897 Tue Nov 15 23:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 70069 Sun Nov 20 23:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 390262 Sat Nov 26 23:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 149921 Wed Nov  2 14:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 204991 Wed Nov 30 23:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 201391 Thu Dec  1 00:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 131179 Tue Nov 29 23:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 52178 Fri Nov 25 23:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 48224 Mon Nov 21 23:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 224907 Wed Nov 23 23:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 116394 Fri Nov 18 23:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 138543 Thu Nov 24 23:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 203834 Tue Nov  1 23:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 117521 Wed Nov  2 23:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 303897 Sun Nov 27 23:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 217540 Mon Nov 28 23:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 159232 Mon Nov 14 23:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 146321 Wed Nov  2 15:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 311272 Tue Nov 22 23:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 303897 Sun Nov 27 23:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 146321 Wed Nov  2 15:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 217540 Mon Nov 28 23:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 159232 Mon Nov 14 23:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 311272 Tue Nov 22 23:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 224907 Wed Nov 23 23:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 116394 Fri Nov 18 23:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 138543 Thu Nov 24 23:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 203834 Tue Nov  1 23:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 117521 Wed Nov  2 23:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 201391 Thu Dec  1 00:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 131179 Tue Nov 29 23:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 52178 Fri Nov 25 23:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 48224 Mon Nov 21 23:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 70069 Sun Nov 20 23:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 72897 Tue Nov 15 23:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 390262 Sat Nov 26 23:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 204991 Wed Nov 30 23:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 149921 Wed Nov  2 14:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 217540 Mon Nov 28 23:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 159232 Mon Nov 14 23:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 146321 Wed Nov  2 15:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 303897 Sun Nov 27 23:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 311272 Tue Nov 22 23:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 116394 Fri Nov 18 23:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 224907 Wed Nov 23 23:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 203834 Tue Nov  1 23:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 138543 Thu Nov 24 23:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 117521 Wed Nov  2 23:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 131179 Tue Nov 29 23:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 201391 Thu Dec  1 00:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 52178 Fri Nov 25 23:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 48224 Mon Nov 21 23:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 390262 Sat Nov 26 23:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 72897 Tue Nov 15 23:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 70069 Sun Nov 20 23:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 149921 Wed Nov  2 14:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 204991 Wed Nov 30 23:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 303897 Sun Nov 27 23:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 217540 Mon Nov 28 23:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 146321 Wed Nov  2 15:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 159232 Mon Nov 14 23:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 311272 Tue Nov 22 23:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 224907 Wed Nov 23 23:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 116394 Fri Nov 18 23:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 138543 Thu Nov 24 23:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 203834 Tue Nov  1 23:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 117521 Wed Nov  2 23:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 201391 Thu Dec  1 00:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 131179 Tue Nov 29 23:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 52178 Fri Nov 25 23:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 48224 Mon Nov 21 23:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 72897 Tue Nov 15 23:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 70069 Sun Nov 20 23:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 390262 Sat Nov 26 23:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 149921 Wed Nov  2 14:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 204991 Wed Nov 30 23:00:00 2016
+bazan NOx emission rate B11-Nox emission rate 117521 Wed Nov  2 23:00:00 2016
+bazan NOx emission rate B11-Nox emission rate 203834 Tue Nov  1 23:00:00 2016
+bazan NOx emission rate B11-Nox emission rate 138543 Thu Nov 24 23:00:00 2016
+bazan NOx emission rate B11-Nox emission rate 116394 Fri Nov 18 23:00:00 2016
+bazan NOx emission rate B11-Nox emission rate 224907 Wed Nov 23 23:00:00 2016
+bazan NOx emission rate B11-Nox emission rate 311272 Tue Nov 22 23:00:00 2016
+bazan NOx emission rate B11-Nox emission rate 217540 Mon Nov 28 23:00:00 2016
+bazan NOx emission rate B11-Nox emission rate 159232 Mon Nov 14 23:00:00 2016
+bazan NOx emission rate B11-Nox emission rate 146321 Wed Nov  2 15:00:00 2016
+bazan NOx emission rate B11-Nox emission rate 303897 Sun Nov 27 23:00:00 2016
+bazan NOx emission rate B11-Nox emission rate 204991 Wed Nov 30 23:00:00 2016
+bazan NOx emission rate B11-Nox emission rate 149921 Wed Nov  2 14:00:00 2016
+bazan NOx emission rate B11-Nox emission rate 390262 Sat Nov 26 23:00:00 2016
+bazan NOx emission rate B11-Nox emission rate 70069 Sun Nov 20 23:00:00 2016
+bazan NOx emission rate B11-Nox emission rate 72897 Tue Nov 15 23:00:00 2016
+bazan NOx emission rate B11-Nox emission rate 48224 Mon Nov 21 23:00:00 2016
+bazan NOx emission rate B11-Nox emission rate 52178 Fri Nov 25 23:00:00 2016
+bazan NOx emission rate B11-Nox emission rate 131179 Tue Nov 29 23:00:00 2016
+bazan NOx emission rate B11-Nox emission rate 201391 Thu Dec  1 00:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 303897 Sun Nov 27 23:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 159232 Mon Nov 14 23:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 217540 Mon Nov 28 23:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 146321 Wed Nov  2 15:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 311272 Tue Nov 22 23:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 224907 Wed Nov 23 23:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 116394 Fri Nov 18 23:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 138543 Thu Nov 24 23:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 203834 Tue Nov  1 23:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 117521 Wed Nov  2 23:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 201391 Thu Dec  1 00:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 131179 Tue Nov 29 23:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 52178 Fri Nov 25 23:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 48224 Mon Nov 21 23:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 72897 Tue Nov 15 23:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 70069 Sun Nov 20 23:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 390262 Sat Nov 26 23:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 149921 Wed Nov  2 14:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 204991 Wed Nov 30 23:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 224907 Wed Nov 23 23:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 116394 Fri Nov 18 23:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 138543 Thu Nov 24 23:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 203834 Tue Nov  1 23:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 117521 Wed Nov  2 23:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 303897 Sun Nov 27 23:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 217540 Mon Nov 28 23:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 146321 Wed Nov  2 15:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 159232 Mon Nov 14 23:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 311272 Tue Nov 22 23:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 70069 Sun Nov 20 23:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 72897 Tue Nov 15 23:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 390262 Sat Nov 26 23:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 204991 Wed Nov 30 23:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 149921 Wed Nov  2 14:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 201391 Thu Dec  1 00:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 131179 Tue Nov 29 23:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 52178 Fri Nov 25 23:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 48224 Mon Nov 21 23:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 311272 Tue Nov 22 23:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 159232 Mon Nov 14 23:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 217540 Mon Nov 28 23:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 146321 Wed Nov  2 15:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 303897 Sun Nov 27 23:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 203834 Tue Nov  1 23:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 138543 Thu Nov 24 23:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 117521 Wed Nov  2 23:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 116394 Fri Nov 18 23:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 224907 Wed Nov 23 23:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 52178 Fri Nov 25 23:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 48224 Mon Nov 21 23:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 131179 Tue Nov 29 23:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 201391 Thu Dec  1 00:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 204991 Wed Nov 30 23:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 149921 Wed Nov  2 14:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 390262 Sat Nov 26 23:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 70069 Sun Nov 20 23:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 72897 Tue Nov 15 23:00:00 2016
+BAZAN-CU4 Stack_NOx 72897 Tue Nov 15 23:00:00 2016
+BAZAN-CU4 Stack_NOx 139121 Wed Nov  2 17:00:00 2016
+BAZAN-CU4 Stack_NOx 149921 Wed Nov  2 14:00:00 2016
+BAZAN-CU4 Stack_NOx 201391 Thu Dec  1 00:00:00 2016
+BAZAN-CU4 Stack_NOx 146321 Wed Nov  2 15:00:00 2016
+BAZAN-CU4 Stack_NOx 142721 Wed Nov  2 16:00:00 2016
+CAOL RTO TOC 201391 Thu Dec  1 00:00:00 2016
+CAOL RTO TOC 72897 Tue Nov 15 23:00:00 2016
+CAOL RTO TOC 139121 Wed Nov  2 17:00:00 2016
+CAOL RTO TOC 149921 Wed Nov  2 14:00:00 2016
+CAOL RTO TOC 146321 Wed Nov  2 15:00:00 2016
+CAOL RTO TOC 142721 Wed Nov  2 16:00:00 2016
+BAZAN TO-1,2 TOC 72897 Tue Nov 15 23:00:00 2016
+BAZAN TO-1,2 TOC 149921 Wed Nov  2 14:00:00 2016
+BAZAN TO-1,2 TOC 139121 Wed Nov  2 17:00:00 2016
+BAZAN TO-1,2 TOC 201391 Thu Dec  1 00:00:00 2016
+BAZAN TO-1,2 TOC 146321 Wed Nov  2 15:00:00 2016
+BAZAN TO-1,2 TOC 142721 Wed Nov  2 16:00:00 2016
+BAZAN-FCC NOx Dry 146321 Wed Nov  2 15:00:00 2016
+BAZAN-FCC NOx Dry 142721 Wed Nov  2 16:00:00 2016
+BAZAN-FCC NOx Dry 72897 Tue Nov 15 23:00:00 2016
+BAZAN-FCC NOx Dry 149921 Wed Nov  2 14:00:00 2016
+BAZAN-FCC NOx Dry 139121 Wed Nov  2 17:00:00 2016
+BAZAN-FCC NOx Dry 201391 Thu Dec  1 00:00:00 2016
+BAZAN TO-4 TOC 142721 Wed Nov  2 16:00:00 2016
+BAZAN TO-4 TOC 146321 Wed Nov  2 15:00:00 2016
+BAZAN TO-4 TOC 149921 Wed Nov  2 14:00:00 2016
+BAZAN TO-4 TOC 139121 Wed Nov  2 17:00:00 2016
+BAZAN TO-4 TOC 72897 Tue Nov 15 23:00:00 2016
+BAZAN TO-4 TOC 201391 Thu Dec  1 00:00:00 2016
+BAZAN_HDS NOx Dry 142721 Wed Nov  2 16:00:00 2016
+BAZAN_HDS NOx Dry 146321 Wed Nov  2 15:00:00 2016
+BAZAN_HDS NOx Dry 139121 Wed Nov  2 17:00:00 2016
+BAZAN_HDS NOx Dry 149921 Wed Nov  2 14:00:00 2016
+BAZAN_HDS NOx Dry 72897 Tue Nov 15 23:00:00 2016
+BAZAN_HDS NOx Dry 201391 Thu Dec  1 00:00:00 2016
+BAZAN-B21 NOx Dry 142721 Wed Nov  2 16:00:00 2016
+BAZAN-B21 NOx Dry 146321 Wed Nov  2 15:00:00 2016
+BAZAN-B21 NOx Dry 201391 Thu Dec  1 00:00:00 2016
+BAZAN-B21 NOx Dry 149921 Wed Nov  2 14:00:00 2016
+BAZAN-B21 NOx Dry 139121 Wed Nov  2 17:00:00 2016
+BAZAN-B21 NOx Dry 72897 Tue Nov 15 23:00:00 2016
+Einstein NO2 135521 Wed Nov  2 18:00:00 2016
+Einstein NO2 139121 Wed Nov  2 17:00:00 2016
+Einstein NO2 146321 Wed Nov  2 15:00:00 2016
+Einstein NO2 142721 Wed Nov  2 16:00:00 2016
+Einstein NO 146321 Wed Nov  2 15:00:00 2016
+Einstein NO 142721 Wed Nov  2 16:00:00 2016
+Einstein NO 135521 Wed Nov  2 18:00:00 2016
+Einstein NO 139121 Wed Nov  2 17:00:00 2016
+Einstein WDS 135521 Wed Nov  2 18:00:00 2016
+Einstein WDS 139121 Wed Nov  2 17:00:00 2016
+Einstein WDS 146321 Wed Nov  2 15:00:00 2016
+Einstein WDS 142721 Wed Nov  2 16:00:00 2016
+Einstein WDD 142721 Wed Nov  2 16:00:00 2016
+Einstein WDD 146321 Wed Nov  2 15:00:00 2016
+Einstein WDD 139121 Wed Nov  2 17:00:00 2016
+Einstein WDD 135521 Wed Nov  2 18:00:00 2016
+Einstein StWd 142721 Wed Nov  2 16:00:00 2016
+Einstein StWd 146321 Wed Nov  2 15:00:00 2016
+Einstein StWd 139121 Wed Nov  2 17:00:00 2016
+Einstein StWd 135521 Wed Nov  2 18:00:00 2016
+Einstein SO2 135521 Wed Nov  2 18:00:00 2016
+Einstein SO2 139121 Wed Nov  2 17:00:00 2016
+Einstein SO2 146321 Wed Nov  2 15:00:00 2016
+Einstein SO2 142721 Wed Nov  2 16:00:00 2016
+Einstein ITemp 135521 Wed Nov  2 18:00:00 2016
+Einstein ITemp 139121 Wed Nov  2 17:00:00 2016
+Einstein ITemp 146321 Wed Nov  2 15:00:00 2016
+Einstein ITemp 142721 Wed Nov  2 16:00:00 2016
+Einstein NOX 135521 Wed Nov  2 18:00:00 2016
+Einstein NOX 139121 Wed Nov  2 17:00:00 2016
+Einstein NOX 146321 Wed Nov  2 15:00:00 2016
+Einstein NOX 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 OpaHD 146321 Wed Nov  2 15:00:00 2016
+OP-BZN1 OpaHD 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 OpaHD 139121 Wed Nov  2 17:00:00 2016
+OP-BZN1 OpaHD 149921 Wed Nov  2 14:00:00 2016
+OP-BZN1 OPB31 139121 Wed Nov  2 17:00:00 2016
+OP-BZN1 OPB31 149921 Wed Nov  2 14:00:00 2016
+OP-BZN1 OPB31 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 OPB31 146321 Wed Nov  2 15:00:00 2016
+OP-BZN1 STAT5 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 STAT5 146321 Wed Nov  2 15:00:00 2016
+OP-BZN1 STAT5 139121 Wed Nov  2 17:00:00 2016
+OP-BZN1 STAT5 149921 Wed Nov  2 14:00:00 2016
+OP-BZN1 Opa11 149921 Wed Nov  2 14:00:00 2016
+OP-BZN1 Opa11 139121 Wed Nov  2 17:00:00 2016
+OP-BZN1 Opa11 146321 Wed Nov  2 15:00:00 2016
+OP-BZN1 Opa11 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 B201B CU3 149921 Wed Nov  2 14:00:00 2016
+OP-BZN1 B201B CU3 139121 Wed Nov  2 17:00:00 2016
+OP-BZN1 B201B CU3 146321 Wed Nov  2 15:00:00 2016
+OP-BZN1 B201B CU3 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 OpaGH 149921 Wed Nov  2 14:00:00 2016
+OP-BZN1 OpaGH 139121 Wed Nov  2 17:00:00 2016
+OP-BZN1 OpaGH 146321 Wed Nov  2 15:00:00 2016
+OP-BZN1 OpaGH 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 STAT1 149921 Wed Nov  2 14:00:00 2016
+OP-BZN1 STAT1 139121 Wed Nov  2 17:00:00 2016
+OP-BZN1 STAT1 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 STAT1 146321 Wed Nov  2 15:00:00 2016
+OP-BZN1 Opa21 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 Opa21 146321 Wed Nov  2 15:00:00 2016
+OP-BZN1 Opa21 139121 Wed Nov  2 17:00:00 2016
+OP-BZN1 Opa21 149921 Wed Nov  2 14:00:00 2016
+OP-BZN1 OPB31-Stat 149921 Wed Nov  2 14:00:00 2016
+OP-BZN1 OPB31-Stat 139121 Wed Nov  2 17:00:00 2016
+OP-BZN1 OPB31-Stat 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 OPB31-Stat 146321 Wed Nov  2 15:00:00 2016
+OP-BZN1 cu1 B4 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 cu1 B4 146321 Wed Nov  2 15:00:00 2016
+OP-BZN1 cu1 B4 149921 Wed Nov  2 14:00:00 2016
+OP-BZN1 cu1 B4 139121 Wed Nov  2 17:00:00 2016
+OP-BZN1 OpaC3 149921 Wed Nov  2 14:00:00 2016
+OP-BZN1 OpaC3 139121 Wed Nov  2 17:00:00 2016
+OP-BZN1 OpaC3 146321 Wed Nov  2 15:00:00 2016
+OP-BZN1 OpaC3 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 ISO 149921 Wed Nov  2 14:00:00 2016
+OP-BZN1 ISO 139121 Wed Nov  2 17:00:00 2016
+OP-BZN1 ISO 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 ISO 146321 Wed Nov  2 15:00:00 2016
+OP-BZN1 OpaCR 149921 Wed Nov  2 14:00:00 2016
+OP-BZN1 OpaCR 139121 Wed Nov  2 17:00:00 2016
+OP-BZN1 OpaCR 146321 Wed Nov  2 15:00:00 2016
+OP-BZN1 OpaCR 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 OpaC1 139121 Wed Nov  2 17:00:00 2016
+OP-BZN1 OpaC1 149921 Wed Nov  2 14:00:00 2016
+OP-BZN1 OpaC1 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 OpaC1 146321 Wed Nov  2 15:00:00 2016
+OP-BZN1 OpaC4 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 OpaC4 146321 Wed Nov  2 15:00:00 2016
+OP-BZN1 OpaC4 139121 Wed Nov  2 17:00:00 2016
+OP-BZN1 OpaC4 149921 Wed Nov  2 14:00:00 2016
+OP-BZN1 STAT2 149921 Wed Nov  2 14:00:00 2016
+OP-BZN1 STAT2 139121 Wed Nov  2 17:00:00 2016
+OP-BZN1 STAT2 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 STAT2 146321 Wed Nov  2 15:00:00 2016
+OP-BZN1 OpaFC 149921 Wed Nov  2 14:00:00 2016
+OP-BZN1 OpaFC 139121 Wed Nov  2 17:00:00 2016
+OP-BZN1 OpaFC 146321 Wed Nov  2 15:00:00 2016
+OP-BZN1 OpaFC 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 STAT3 139121 Wed Nov  2 17:00:00 2016
+OP-BZN1 STAT3 149921 Wed Nov  2 14:00:00 2016
+OP-BZN1 STAT3 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 STAT3 146321 Wed Nov  2 15:00:00 2016
+OP-BZN1 OpaV3 142721 Wed Nov  2 16:00:00 2016
+OP-BZN1 OpaV3 146321 Wed Nov  2 15:00:00 2016
+OP-BZN1 OpaV3 139121 Wed Nov  2 17:00:00 2016
+OP-BZN1 OpaV3 149921 Wed Nov  2 14:00:00 2016
+Shemen TOC 142721 Wed Nov  2 16:00:00 2016
+Shemen TOC 146321 Wed Nov  2 15:00:00 2016
+Shemen TOC 149921 Wed Nov  2 14:00:00 2016
+Shemen TOC 139121 Wed Nov  2 17:00:00 2016
+Nesher ITemp 135521 Wed Nov  2 18:00:00 2016
+Nesher ITemp 139121 Wed Nov  2 17:00:00 2016
+Nesher ITemp 146321 Wed Nov  2 15:00:00 2016
+Nesher ITemp 142721 Wed Nov  2 16:00:00 2016
+Nesher PREC 142721 Wed Nov  2 16:00:00 2016
+Nesher PREC 146321 Wed Nov  2 15:00:00 2016
+Nesher PREC 139121 Wed Nov  2 17:00:00 2016
+Nesher PREC 135521 Wed Nov  2 18:00:00 2016
+Nesher RH 142721 Wed Nov  2 16:00:00 2016
+Nesher RH 146321 Wed Nov  2 15:00:00 2016
+Nesher RH 139121 Wed Nov  2 17:00:00 2016
+Nesher RH 135521 Wed Nov  2 18:00:00 2016
+Nesher PM2.5 146321 Wed Nov  2 15:00:00 2016
+Nesher PM2.5 142721 Wed Nov  2 16:00:00 2016
+Nesher PM2.5 135521 Wed Nov  2 18:00:00 2016
+Nesher PM2.5 139121 Wed Nov  2 17:00:00 2016
+Nesher NOX 135521 Wed Nov  2 18:00:00 2016
+Nesher NOX 139121 Wed Nov  2 17:00:00 2016
+Nesher NOX 146321 Wed Nov  2 15:00:00 2016
+Nesher NOX 142721 Wed Nov  2 16:00:00 2016
+Nesher SR 142721 Wed Nov  2 16:00:00 2016
+Nesher SR 146321 Wed Nov  2 15:00:00 2016
+Nesher SR 139121 Wed Nov  2 17:00:00 2016
+Nesher SR 135521 Wed Nov  2 18:00:00 2016
+Nesher FILTER-2.5 146321 Wed Nov  2 15:00:00 2016
+Nesher FILTER-2.5 142721 Wed Nov  2 16:00:00 2016
+Nesher FILTER-2.5 135521 Wed Nov  2 18:00:00 2016
+Nesher FILTER-2.5 139121 Wed Nov  2 17:00:00 2016
+Nesher PM10 135521 Wed Nov  2 18:00:00 2016
+Nesher PM10 139121 Wed Nov  2 17:00:00 2016
+Nesher PM10 146321 Wed Nov  2 15:00:00 2016
+Nesher PM10 142721 Wed Nov  2 16:00:00 2016
+Nesher NO 139121 Wed Nov  2 17:00:00 2016
+Nesher NO 135521 Wed Nov  2 18:00:00 2016
+Nesher NO 142721 Wed Nov  2 16:00:00 2016
+Nesher NO 146321 Wed Nov  2 15:00:00 2016
+Nesher NO2 135521 Wed Nov  2 18:00:00 2016
+Nesher NO2 139121 Wed Nov  2 17:00:00 2016
+Nesher NO2 146321 Wed Nov  2 15:00:00 2016
+Nesher NO2 142721 Wed Nov  2 16:00:00 2016
+Nesher CO 135521 Wed Nov  2 18:00:00 2016
+Nesher CO 139121 Wed Nov  2 17:00:00 2016
+Nesher CO 146321 Wed Nov  2 15:00:00 2016
+Nesher CO 142721 Wed Nov  2 16:00:00 2016
+Nesher TEMP 146321 Wed Nov  2 15:00:00 2016
+Nesher TEMP 142721 Wed Nov  2 16:00:00 2016
+Nesher TEMP 135521 Wed Nov  2 18:00:00 2016
+Nesher TEMP 139121 Wed Nov  2 17:00:00 2016
+Nesher pm(10-2.5) 135521 Wed Nov  2 18:00:00 2016
+Nesher pm(10-2.5) 139121 Wed Nov  2 17:00:00 2016
+Nesher pm(10-2.5) 146321 Wed Nov  2 15:00:00 2016
+Nesher pm(10-2.5) 142721 Wed Nov  2 16:00:00 2016
+Nesher BP 146321 Wed Nov  2 15:00:00 2016
+Nesher BP 142721 Wed Nov  2 16:00:00 2016
+Nesher BP 135521 Wed Nov  2 18:00:00 2016
+Nesher BP 139121 Wed Nov  2 17:00:00 2016
+Nesher Filter 146321 Wed Nov  2 15:00:00 2016
+Nesher Filter 142721 Wed Nov  2 16:00:00 2016
+Nesher Filter 135521 Wed Nov  2 18:00:00 2016
+Nesher Filter 139121 Wed Nov  2 17:00:00 2016
+Nesher O3 135521 Wed Nov  2 18:00:00 2016
+Nesher O3 139121 Wed Nov  2 17:00:00 2016
+Nesher O3 146321 Wed Nov  2 15:00:00 2016
+Nesher O3 142721 Wed Nov  2 16:00:00 2016
+Nesher SO2 135521 Wed Nov  2 18:00:00 2016
+Nesher SO2 139121 Wed Nov  2 17:00:00 2016
+Nesher SO2 146321 Wed Nov  2 15:00:00 2016
+Nesher SO2 142721 Wed Nov  2 16:00:00 2016
+Shprintzak NOX 36600 Mon Nov 14 06:00:00 2016
+Shprintzak NOX 146321 Wed Nov  2 15:00:00 2016
+Shprintzak NOX 40200 Mon Nov 14 05:00:00 2016
+Shprintzak NOX 58200 Mon Nov 14 00:00:00 2016
+Shprintzak NOX 47400 Mon Nov 14 03:00:00 2016
+Shprintzak NOX 135521 Wed Nov  2 18:00:00 2016
+Shprintzak NOX 54600 Mon Nov 14 01:00:00 2016
+Shprintzak NOX 139121 Wed Nov  2 17:00:00 2016
+Shprintzak NOX 43800 Mon Nov 14 04:00:00 2016
+Shprintzak ITemp 43800 Mon Nov 14 04:00:00 2016
+Shprintzak ITemp 139121 Wed Nov  2 17:00:00 2016
+Shprintzak ITemp 54600 Mon Nov 14 01:00:00 2016
+Shprintzak ITemp 135521 Wed Nov  2 18:00:00 2016
+Shprintzak ITemp 47400 Mon Nov 14 03:00:00 2016
+Shprintzak ITemp 142721 Wed Nov  2 16:00:00 2016
+Shprintzak ITemp 51000 Mon Nov 14 02:00:00 2016
+Shprintzak ITemp 58200 Mon Nov 14 00:00:00 2016
+Shprintzak ITemp 40200 Mon Nov 14 05:00:00 2016
+Shprintzak ITemp 146321 Wed Nov  2 15:00:00 2016
+Shprintzak ITemp 36600 Mon Nov 14 06:00:00 2016
+Shprintzak O3 54600 Mon Nov 14 01:00:00 2016
+Shprintzak O3 43800 Mon Nov 14 04:00:00 2016
+Shprintzak O3 139121 Wed Nov  2 17:00:00 2016
+Shprintzak O3 135521 Wed Nov  2 18:00:00 2016
+Shprintzak O3 51000 Mon Nov 14 02:00:00 2016
+Shprintzak O3 146321 Wed Nov  2 15:00:00 2016
+Shprintzak O3 36600 Mon Nov 14 06:00:00 2016
+Shprintzak O3 40200 Mon Nov 14 05:00:00 2016
+Shprintzak O3 58200 Mon Nov 14 00:00:00 2016
+Shprintzak SO2 40200 Mon Nov 14 05:00:00 2016
+Shprintzak SO2 146321 Wed Nov  2 15:00:00 2016
+Shprintzak SO2 36600 Mon Nov 14 06:00:00 2016
+Shprintzak SO2 58200 Mon Nov 14 00:00:00 2016
+Shprintzak SO2 51000 Mon Nov 14 02:00:00 2016
+Shprintzak SO2 142721 Wed Nov  2 16:00:00 2016
+Shprintzak SO2 47400 Mon Nov 14 03:00:00 2016
+Shprintzak SO2 135521 Wed Nov  2 18:00:00 2016
+Shprintzak SO2 54600 Mon Nov 14 01:00:00 2016
+Shprintzak SO2 139121 Wed Nov  2 17:00:00 2016
+Shprintzak StWd 54600 Mon Nov 14 01:00:00 2016
+Shprintzak StWd 139121 Wed Nov  2 17:00:00 2016
+Shprintzak StWd 43800 Mon Nov 14 04:00:00 2016
+Shprintzak StWd 47400 Mon Nov 14 03:00:00 2016
+Shprintzak StWd 135521 Wed Nov  2 18:00:00 2016
+Shprintzak StWd 51000 Mon Nov 14 02:00:00 2016
+Shprintzak StWd 142721 Wed Nov  2 16:00:00 2016
+Shprintzak StWd 36600 Mon Nov 14 06:00:00 2016
+Shprintzak StWd 146321 Wed Nov  2 15:00:00 2016
+Shprintzak StWd 40200 Mon Nov 14 05:00:00 2016
+Shprintzak StWd 58200 Mon Nov 14 00:00:00 2016
+Shprintzak WDD 58200 Mon Nov 14 00:00:00 2016
+Shprintzak WDD 36600 Mon Nov 14 06:00:00 2016
+Shprintzak WDD 146321 Wed Nov  2 15:00:00 2016
+Shprintzak WDD 40200 Mon Nov 14 05:00:00 2016
+Shprintzak WDD 142721 Wed Nov  2 16:00:00 2016
+Shprintzak WDD 51000 Mon Nov 14 02:00:00 2016
+Shprintzak WDD 135521 Wed Nov  2 18:00:00 2016
+Shprintzak WDD 47400 Mon Nov 14 03:00:00 2016
+Shprintzak WDD 139121 Wed Nov  2 17:00:00 2016
+Shprintzak WDD 43800 Mon Nov 14 04:00:00 2016
+Shprintzak WDD 54600 Mon Nov 14 01:00:00 2016
+Shprintzak NO 58200 Mon Nov 14 00:00:00 2016
+Shprintzak NO 146321 Wed Nov  2 15:00:00 2016
+Shprintzak NO 36600 Mon Nov 14 06:00:00 2016
+Shprintzak NO 40200 Mon Nov 14 05:00:00 2016
+Shprintzak NO 135521 Wed Nov  2 18:00:00 2016
+Shprintzak NO 47400 Mon Nov 14 03:00:00 2016
+Shprintzak NO 43800 Mon Nov 14 04:00:00 2016
+Shprintzak NO 139121 Wed Nov  2 17:00:00 2016
+Shprintzak NO 54600 Mon Nov 14 01:00:00 2016
+Shprintzak NO2 40200 Mon Nov 14 05:00:00 2016
+Shprintzak NO2 146321 Wed Nov  2 15:00:00 2016
+Shprintzak NO2 36600 Mon Nov 14 06:00:00 2016
+Shprintzak NO2 58200 Mon Nov 14 00:00:00 2016
+Shprintzak NO2 54600 Mon Nov 14 01:00:00 2016
+Shprintzak NO2 43800 Mon Nov 14 04:00:00 2016
+Shprintzak NO2 139121 Wed Nov  2 17:00:00 2016
+Shprintzak NO2 47400 Mon Nov 14 03:00:00 2016
+Shprintzak NO2 135521 Wed Nov  2 18:00:00 2016
+Shprintzak WDS 54600 Mon Nov 14 01:00:00 2016
+Shprintzak WDS 43800 Mon Nov 14 04:00:00 2016
+Shprintzak WDS 139121 Wed Nov  2 17:00:00 2016
+Shprintzak WDS 47400 Mon Nov 14 03:00:00 2016
+Shprintzak WDS 135521 Wed Nov  2 18:00:00 2016
+Shprintzak WDS 51000 Mon Nov 14 02:00:00 2016
+Shprintzak WDS 142721 Wed Nov  2 16:00:00 2016
+Shprintzak WDS 146321 Wed Nov  2 15:00:00 2016
+Shprintzak WDS 36600 Mon Nov 14 06:00:00 2016
+Shprintzak WDS 40200 Mon Nov 14 05:00:00 2016
+Shprintzak WDS 58200 Mon Nov 14 00:00:00 2016
+BAZAN6-SO2 SO2S3 146321 Wed Nov  2 15:00:00 2016
+BAZAN6-SO2 SO2S3 142721 Wed Nov  2 16:00:00 2016
+BAZAN6-SO2 SO2S3 201391 Thu Dec  1 00:00:00 2016
+BAZAN6-SO2 SO2S3 72897 Tue Nov 15 23:00:00 2016
+BAZAN6-SO2 SO2S3 139121 Wed Nov  2 17:00:00 2016
+BAZAN6-SO2 SO2S3 149921 Wed Nov  2 14:00:00 2016
+BAZAN6-SO2 SO2FC 72897 Tue Nov 15 23:00:00 2016
+BAZAN6-SO2 SO2FC 149921 Wed Nov  2 14:00:00 2016
+BAZAN6-SO2 SO2FC 139121 Wed Nov  2 17:00:00 2016
+BAZAN6-SO2 SO2FC 201391 Thu Dec  1 00:00:00 2016
+BAZAN6-SO2 SO2FC 146321 Wed Nov  2 15:00:00 2016
+BAZAN6-SO2 SO2FC 142721 Wed Nov  2 16:00:00 2016
+BAZAN6-SO2 SO2S4 72897 Tue Nov 15 23:00:00 2016
+BAZAN6-SO2 SO2S4 149921 Wed Nov  2 14:00:00 2016
+BAZAN6-SO2 SO2S4 139121 Wed Nov  2 17:00:00 2016
+BAZAN6-SO2 SO2S4 201391 Thu Dec  1 00:00:00 2016
+BAZAN6-SO2 SO2S4 146321 Wed Nov  2 15:00:00 2016
+BAZAN6-SO2 SO2S4 142721 Wed Nov  2 16:00:00 2016
+HaifaChem N2 Status 142721 Wed Nov  2 16:00:00 2016
+HaifaChem N2 Status 146321 Wed Nov  2 15:00:00 2016
+HaifaChem N2 Status 139121 Wed Nov  2 17:00:00 2016
+HaifaChem N2 Status 135521 Wed Nov  2 18:00:00 2016
+HaifaChem N1 Status 135521 Wed Nov  2 18:00:00 2016
+HaifaChem N1 Status 139121 Wed Nov  2 17:00:00 2016
+HaifaChem N1 Status 146321 Wed Nov  2 15:00:00 2016
+HaifaChem N1 Status 142721 Wed Nov  2 16:00:00 2016
+HaifaChem Nox - N2 146321 Wed Nov  2 15:00:00 2016
+HaifaChem Nox - N2 142721 Wed Nov  2 16:00:00 2016
+HaifaChem Nox - N2 135521 Wed Nov  2 18:00:00 2016
+HaifaChem Nox - N2 139121 Wed Nov  2 17:00:00 2016
+HaifaChem Nox N1 142721 Wed Nov  2 16:00:00 2016
+HaifaChem Nox N1 146321 Wed Nov  2 15:00:00 2016
+HaifaChem Nox N1 139121 Wed Nov  2 17:00:00 2016
+HaifaChem Nox N1 135521 Wed Nov  2 18:00:00 2016
+Kiryat Ata pm(10-2.5) 146321 Wed Nov  2 15:00:00 2016
+Kiryat Ata pm(10-2.5) 142721 Wed Nov  2 16:00:00 2016
+Kiryat Ata pm(10-2.5) 135521 Wed Nov  2 18:00:00 2016
+Kiryat Ata pm(10-2.5) 139121 Wed Nov  2 17:00:00 2016
+Kiryat Ata TEMP 139121 Wed Nov  2 17:00:00 2016
+Kiryat Ata TEMP 135521 Wed Nov  2 18:00:00 2016
+Kiryat Ata TEMP 142721 Wed Nov  2 16:00:00 2016
+Kiryat Ata TEMP 146321 Wed Nov  2 15:00:00 2016
+Kiryat Ata Filter 142721 Wed Nov  2 16:00:00 2016
+Kiryat Ata Filter 146321 Wed Nov  2 15:00:00 2016
+Kiryat Ata Filter 139121 Wed Nov  2 17:00:00 2016
+Kiryat Ata Filter 135521 Wed Nov  2 18:00:00 2016
+Kiryat Ata BP 135521 Wed Nov  2 18:00:00 2016
+Kiryat Ata BP 139121 Wed Nov  2 17:00:00 2016
+Kiryat Ata BP 146321 Wed Nov  2 15:00:00 2016
+Kiryat Ata BP 142721 Wed Nov  2 16:00:00 2016
+Kiryat Ata O3 146321 Wed Nov  2 15:00:00 2016
+Kiryat Ata O3 142721 Wed Nov  2 16:00:00 2016
+Kiryat Ata O3 135521 Wed Nov  2 18:00:00 2016
+Kiryat Ata O3 139121 Wed Nov  2 17:00:00 2016
+Kiryat Ata SO2 142721 Wed Nov  2 16:00:00 2016
+Kiryat Ata SO2 146321 Wed Nov  2 15:00:00 2016
+Kiryat Ata SO2 139121 Wed Nov  2 17:00:00 2016
+Kiryat Ata SO2 135521 Wed Nov  2 18:00:00 2016
+Kiryat Ata WDD 142721 Wed Nov  2 16:00:00 2016
+Kiryat Ata WDD 146321 Wed Nov  2 15:00:00 2016
+Kiryat Ata WDD 139121 Wed Nov  2 17:00:00 2016
+Kiryat Ata WDD 135521 Wed Nov  2 18:00:00 2016
+Kiryat Ata ITemp 142721 Wed Nov  2 16:00:00 2016
+Kiryat Ata ITemp 146321 Wed Nov  2 15:00:00 2016
+Kiryat Ata ITemp 139121 Wed Nov  2 17:00:00 2016
+Kiryat Ata ITemp 135521 Wed Nov  2 18:00:00 2016
+Kiryat Ata NOX 135521 Wed Nov  2 18:00:00 2016
+Kiryat Ata NOX 139121 Wed Nov  2 17:00:00 2016
+Kiryat Ata NOX 146321 Wed Nov  2 15:00:00 2016
+Kiryat Ata NOX 142721 Wed Nov  2 16:00:00 2016
+Kiryat Ata PREC 139121 Wed Nov  2 17:00:00 2016
+Kiryat Ata PREC 135521 Wed Nov  2 18:00:00 2016
+Kiryat Ata PREC 142721 Wed Nov  2 16:00:00 2016
+Kiryat Ata PREC 146321 Wed Nov  2 15:00:00 2016
+Kiryat Ata PM2.5 146321 Wed Nov  2 15:00:00 2016
+Kiryat Ata PM2.5 142721 Wed Nov  2 16:00:00 2016
+Kiryat Ata PM2.5 135521 Wed Nov  2 18:00:00 2016
+Kiryat Ata PM2.5 139121 Wed Nov  2 17:00:00 2016
+Kiryat Ata StWd 142721 Wed Nov  2 16:00:00 2016
+Kiryat Ata StWd 146321 Wed Nov  2 15:00:00 2016
+Kiryat Ata StWd 139121 Wed Nov  2 17:00:00 2016
+Kiryat Ata StWd 135521 Wed Nov  2 18:00:00 2016
+Kiryat Ata SR 142721 Wed Nov  2 16:00:00 2016
+Kiryat Ata SR 146321 Wed Nov  2 15:00:00 2016
+Kiryat Ata SR 139121 Wed Nov  2 17:00:00 2016
+Kiryat Ata SR 135521 Wed Nov  2 18:00:00 2016
+Kiryat Ata FILTER-2.5 142721 Wed Nov  2 16:00:00 2016
+Kiryat Ata FILTER-2.5 146321 Wed Nov  2 15:00:00 2016
+Kiryat Ata FILTER-2.5 139121 Wed Nov  2 17:00:00 2016
+Kiryat Ata FILTER-2.5 135521 Wed Nov  2 18:00:00 2016
+Kiryat Ata PM10 139121 Wed Nov  2 17:00:00 2016
+Kiryat Ata PM10 135521 Wed Nov  2 18:00:00 2016
+Kiryat Ata PM10 142721 Wed Nov  2 16:00:00 2016
+Kiryat Ata PM10 146321 Wed Nov  2 15:00:00 2016
+Kiryat Ata WDS 135521 Wed Nov  2 18:00:00 2016
+Kiryat Ata WDS 139121 Wed Nov  2 17:00:00 2016
+Kiryat Ata WDS 146321 Wed Nov  2 15:00:00 2016
+Kiryat Ata WDS 142721 Wed Nov  2 16:00:00 2016
+Kiryat Ata NO2 135521 Wed Nov  2 18:00:00 2016
+Kiryat Ata NO2 139121 Wed Nov  2 17:00:00 2016
+Kiryat Ata NO2 146321 Wed Nov  2 15:00:00 2016
+Kiryat Ata NO2 142721 Wed Nov  2 16:00:00 2016
+Kiryat Ata NO 146321 Wed Nov  2 15:00:00 2016
+Kiryat Ata NO 142721 Wed Nov  2 16:00:00 2016
+Kiryat Ata NO 135521 Wed Nov  2 18:00:00 2016
+Kiryat Ata NO 139121 Wed Nov  2 17:00:00 2016
+CAUL STAT2 139121 Wed Nov  2 17:00:00 2016
+CAUL STAT2 149921 Wed Nov  2 14:00:00 2016
+CAUL STAT2 146321 Wed Nov  2 15:00:00 2016
+CAUL STAT2 142721 Wed Nov  2 16:00:00 2016
+CAUL OPCB3 146321 Wed Nov  2 15:00:00 2016
+CAUL OPCB3 142721 Wed Nov  2 16:00:00 2016
+CAUL OPCB3 149921 Wed Nov  2 14:00:00 2016
+CAUL OPCB3 139121 Wed Nov  2 17:00:00 2016
+CAUL OPCB1 146321 Wed Nov  2 15:00:00 2016
+CAUL OPCB1 142721 Wed Nov  2 16:00:00 2016
+CAUL OPCB1 149921 Wed Nov  2 14:00:00 2016
+CAUL OPCB1 139121 Wed Nov  2 17:00:00 2016
+CAUL STAT3 149921 Wed Nov  2 14:00:00 2016
+CAUL STAT3 139121 Wed Nov  2 17:00:00 2016
+CAUL STAT3 142721 Wed Nov  2 16:00:00 2016
+CAUL STAT3 146321 Wed Nov  2 15:00:00 2016
+CAUL STAT1 146321 Wed Nov  2 15:00:00 2016
+CAUL STAT1 142721 Wed Nov  2 16:00:00 2016
+CAUL STAT1 149921 Wed Nov  2 14:00:00 2016
+CAUL STAT1 139121 Wed Nov  2 17:00:00 2016
+CAUL OPCB2 149921 Wed Nov  2 14:00:00 2016
+CAUL OPCB2 139121 Wed Nov  2 17:00:00 2016
+CAUL OPCB2 142721 Wed Nov  2 16:00:00 2016
+CAUL OPCB2 146321 Wed Nov  2 15:00:00 2016
+Kiryat Motzkin SO2 139121 Wed Nov  2 17:00:00 2016
+Kiryat Motzkin SO2 135521 Wed Nov  2 18:00:00 2016
+Kiryat Motzkin SO2 142721 Wed Nov  2 16:00:00 2016
+Kiryat Motzkin SO2 146321 Wed Nov  2 15:00:00 2016
+Kiryat Haim-Degania O-Xyle 156379 Tue Nov 29 16:00:00 2016
+Kiryat Haim-Degania O-Xyle 146321 Wed Nov  2 15:00:00 2016
+Kiryat Haim-Degania O-Xyle 142721 Wed Nov  2 16:00:00 2016
+Kiryat Haim-Degania O-Xyle 36600 Wed Nov 30 00:00:00 2016
+Kiryat Haim-Degania O-Xyle 135521 Wed Nov  2 18:00:00 2016
+Kiryat Haim-Degania O-Xyle 152779 Tue Nov 29 17:00:00 2016
+Kiryat Haim-Degania O-Xyle 134779 Tue Nov 29 22:00:00 2016
+Kiryat Haim-Degania O-Xyle 141979 Tue Nov 29 20:00:00 2016
+Kiryat Haim-Degania O-Xyle 159979 Tue Nov 29 15:00:00 2016
+Kiryat Haim-Degania O-Xyle 145579 Tue Nov 29 19:00:00 2016
+Kiryat Haim-Degania O-Xyle 139121 Wed Nov  2 17:00:00 2016
+Kiryat Haim-Degania O-Xyle 131179 Tue Nov 29 23:00:00 2016
+Kiryat Haim-Degania O-Xyle 138379 Tue Nov 29 21:00:00 2016
+Kiryat Haim-Degania O-Xyle 149179 Tue Nov 29 18:00:00 2016
+Kiryat Haim-Degania O-Xyle 163579 Tue Nov 29 14:00:00 2016
+Kiryat Haim-Degania Filter 138379 Tue Nov 29 21:00:00 2016
+Kiryat Haim-Degania Filter 149179 Tue Nov 29 18:00:00 2016
+Kiryat Haim-Degania Filter 163579 Tue Nov 29 14:00:00 2016
+Kiryat Haim-Degania Filter 131179 Tue Nov 29 23:00:00 2016
+Kiryat Haim-Degania Filter 139121 Wed Nov  2 17:00:00 2016
+Kiryat Haim-Degania Filter 135521 Wed Nov  2 18:00:00 2016
+Kiryat Haim-Degania Filter 152779 Tue Nov 29 17:00:00 2016
+Kiryat Haim-Degania Filter 134779 Tue Nov 29 22:00:00 2016
+Kiryat Haim-Degania Filter 141979 Tue Nov 29 20:00:00 2016
+Kiryat Haim-Degania Filter 159979 Tue Nov 29 15:00:00 2016
+Kiryat Haim-Degania Filter 145579 Tue Nov 29 19:00:00 2016
+Kiryat Haim-Degania Filter 142721 Wed Nov  2 16:00:00 2016
+Kiryat Haim-Degania Filter 36600 Wed Nov 30 00:00:00 2016
+Kiryat Haim-Degania Filter 146321 Wed Nov  2 15:00:00 2016
+Kiryat Haim-Degania Filter 156379 Tue Nov 29 16:00:00 2016
+Kiryat Haim-Degania TOLUEN 159979 Tue Nov 29 15:00:00 2016
+Kiryat Haim-Degania TOLUEN 145579 Tue Nov 29 19:00:00 2016
+Kiryat Haim-Degania TOLUEN 141979 Tue Nov 29 20:00:00 2016
+Kiryat Haim-Degania TOLUEN 134779 Tue Nov 29 22:00:00 2016
+Kiryat Haim-Degania TOLUEN 152779 Tue Nov 29 17:00:00 2016
+Kiryat Haim-Degania TOLUEN 135521 Wed Nov  2 18:00:00 2016
+Kiryat Haim-Degania TOLUEN 139121 Wed Nov  2 17:00:00 2016
+Kiryat Haim-Degania TOLUEN 131179 Tue Nov 29 23:00:00 2016
+Kiryat Haim-Degania TOLUEN 163579 Tue Nov 29 14:00:00 2016
+Kiryat Haim-Degania TOLUEN 149179 Tue Nov 29 18:00:00 2016
+Kiryat Haim-Degania TOLUEN 138379 Tue Nov 29 21:00:00 2016
+Kiryat Haim-Degania TOLUEN 156379 Tue Nov 29 16:00:00 2016
+Kiryat Haim-Degania TOLUEN 146321 Wed Nov  2 15:00:00 2016
+Kiryat Haim-Degania TOLUEN 36600 Wed Nov 30 00:00:00 2016
+Kiryat Haim-Degania TOLUEN 142721 Wed Nov  2 16:00:00 2016
+Kiryat Haim-Degania NOX 131179 Tue Nov 29 23:00:00 2016
+Kiryat Haim-Degania NOX 149179 Tue Nov 29 18:00:00 2016
+Kiryat Haim-Degania NOX 138379 Tue Nov 29 21:00:00 2016
+Kiryat Haim-Degania NOX 163579 Tue Nov 29 14:00:00 2016
+Kiryat Haim-Degania NOX 135521 Wed Nov  2 18:00:00 2016
+Kiryat Haim-Degania NOX 141979 Tue Nov 29 20:00:00 2016
+Kiryat Haim-Degania NOX 134779 Tue Nov 29 22:00:00 2016
+Kiryat Haim-Degania NOX 152779 Tue Nov 29 17:00:00 2016
+Kiryat Haim-Degania NOX 159979 Tue Nov 29 15:00:00 2016
+Kiryat Haim-Degania NOX 145579 Tue Nov 29 19:00:00 2016
+Kiryat Haim-Degania NOX 139121 Wed Nov  2 17:00:00 2016
+Kiryat Haim-Degania NOX 146321 Wed Nov  2 15:00:00 2016
+Kiryat Haim-Degania NOX 142721 Wed Nov  2 16:00:00 2016
+Kiryat Haim-Degania NOX 36600 Wed Nov 30 00:00:00 2016
+Kiryat Haim-Degania NOX 156379 Tue Nov 29 16:00:00 2016
+Kiryat Haim-Degania EthylB 149179 Tue Nov 29 18:00:00 2016
+Kiryat Haim-Degania EthylB 138379 Tue Nov 29 21:00:00 2016
+Kiryat Haim-Degania EthylB 163579 Tue Nov 29 14:00:00 2016
+Kiryat Haim-Degania EthylB 131179 Tue Nov 29 23:00:00 2016
+Kiryat Haim-Degania EthylB 139121 Wed Nov  2 17:00:00 2016
+Kiryat Haim-Degania EthylB 135521 Wed Nov  2 18:00:00 2016
+Kiryat Haim-Degania EthylB 134779 Tue Nov 29 22:00:00 2016
+Kiryat Haim-Degania EthylB 141979 Tue Nov 29 20:00:00 2016
+Kiryat Haim-Degania EthylB 152779 Tue Nov 29 17:00:00 2016
+Kiryat Haim-Degania EthylB 159979 Tue Nov 29 15:00:00 2016
+Kiryat Haim-Degania EthylB 145579 Tue Nov 29 19:00:00 2016
+Kiryat Haim-Degania EthylB 142721 Wed Nov  2 16:00:00 2016
+Kiryat Haim-Degania EthylB 36600 Wed Nov 30 00:00:00 2016
+Kiryat Haim-Degania EthylB 146321 Wed Nov  2 15:00:00 2016
+Kiryat Haim-Degania EthylB 156379 Tue Nov 29 16:00:00 2016
+Kiryat Haim-Degania NO2 156379 Tue Nov 29 16:00:00 2016
+Kiryat Haim-Degania NO2 146321 Wed Nov  2 15:00:00 2016
+Kiryat Haim-Degania NO2 142721 Wed Nov  2 16:00:00 2016
+Kiryat Haim-Degania NO2 36600 Wed Nov 30 00:00:00 2016
+Kiryat Haim-Degania NO2 134779 Tue Nov 29 22:00:00 2016
+Kiryat Haim-Degania NO2 141979 Tue Nov 29 20:00:00 2016
+Kiryat Haim-Degania NO2 152779 Tue Nov 29 17:00:00 2016
+Kiryat Haim-Degania NO2 145579 Tue Nov 29 19:00:00 2016
+Kiryat Haim-Degania NO2 159979 Tue Nov 29 15:00:00 2016
+Kiryat Haim-Degania NO2 135521 Wed Nov  2 18:00:00 2016
+Kiryat Haim-Degania NO2 139121 Wed Nov  2 17:00:00 2016
+Kiryat Haim-Degania NO2 131179 Tue Nov 29 23:00:00 2016
+Kiryat Haim-Degania NO2 163579 Tue Nov 29 14:00:00 2016
+Kiryat Haim-Degania NO2 149179 Tue Nov 29 18:00:00 2016
+Kiryat Haim-Degania NO2 138379 Tue Nov 29 21:00:00 2016
+Kiryat Haim-Degania NO 146321 Wed Nov  2 15:00:00 2016
+Kiryat Haim-Degania NO 142721 Wed Nov  2 16:00:00 2016
+Kiryat Haim-Degania NO 36600 Wed Nov 30 00:00:00 2016
+Kiryat Haim-Degania NO 156379 Tue Nov 29 16:00:00 2016
+Kiryat Haim-Degania NO 131179 Tue Nov 29 23:00:00 2016
+Kiryat Haim-Degania NO 138379 Tue Nov 29 21:00:00 2016
+Kiryat Haim-Degania NO 149179 Tue Nov 29 18:00:00 2016
+Kiryat Haim-Degania NO 163579 Tue Nov 29 14:00:00 2016
+Kiryat Haim-Degania NO 135521 Wed Nov  2 18:00:00 2016
+Kiryat Haim-Degania NO 152779 Tue Nov 29 17:00:00 2016
+Kiryat Haim-Degania NO 134779 Tue Nov 29 22:00:00 2016
+Kiryat Haim-Degania NO 141979 Tue Nov 29 20:00:00 2016
+Kiryat Haim-Degania NO 145579 Tue Nov 29 19:00:00 2016
+Kiryat Haim-Degania NO 159979 Tue Nov 29 15:00:00 2016
+Kiryat Haim-Degania NO 139121 Wed Nov  2 17:00:00 2016
+Kiryat Haim-Degania WDS 156379 Tue Nov 29 16:00:00 2016
+Kiryat Haim-Degania WDS 142721 Wed Nov  2 16:00:00 2016
+Kiryat Haim-Degania WDS 36600 Wed Nov 30 00:00:00 2016
+Kiryat Haim-Degania WDS 146321 Wed Nov  2 15:00:00 2016
+Kiryat Haim-Degania WDS 139121 Wed Nov  2 17:00:00 2016
+Kiryat Haim-Degania WDS 134779 Tue Nov 29 22:00:00 2016
+Kiryat Haim-Degania WDS 141979 Tue Nov 29 20:00:00 2016
+Kiryat Haim-Degania WDS 152779 Tue Nov 29 17:00:00 2016
+Kiryat Haim-Degania WDS 145579 Tue Nov 29 19:00:00 2016
+Kiryat Haim-Degania WDS 159979 Tue Nov 29 15:00:00 2016
+Kiryat Haim-Degania WDS 135521 Wed Nov  2 18:00:00 2016
+Kiryat Haim-Degania WDS 163579 Tue Nov 29 14:00:00 2016
+Kiryat Haim-Degania WDS 149179 Tue Nov 29 18:00:00 2016
+Kiryat Haim-Degania WDS 138379 Tue Nov 29 21:00:00 2016
+Kiryat Haim-Degania WDS 131179 Tue Nov 29 23:00:00 2016
+Kiryat Haim-Degania BENZN 156379 Tue Nov 29 16:00:00 2016
+Kiryat Haim-Degania BENZN 146321 Wed Nov  2 15:00:00 2016
+Kiryat Haim-Degania BENZN 36600 Wed Nov 30 00:00:00 2016
+Kiryat Haim-Degania BENZN 142721 Wed Nov  2 16:00:00 2016
+Kiryat Haim-Degania BENZN 159979 Tue Nov 29 15:00:00 2016
+Kiryat Haim-Degania BENZN 145579 Tue Nov 29 19:00:00 2016
+Kiryat Haim-Degania BENZN 134779 Tue Nov 29 22:00:00 2016
+Kiryat Haim-Degania BENZN 141979 Tue Nov 29 20:00:00 2016
+Kiryat Haim-Degania BENZN 152779 Tue Nov 29 17:00:00 2016
+Kiryat Haim-Degania BENZN 135521 Wed Nov  2 18:00:00 2016
+Kiryat Haim-Degania BENZN 139121 Wed Nov  2 17:00:00 2016
+Kiryat Haim-Degania BENZN 131179 Tue Nov 29 23:00:00 2016
+Kiryat Haim-Degania BENZN 163579 Tue Nov 29 14:00:00 2016
+Kiryat Haim-Degania BENZN 149179 Tue Nov 29 18:00:00 2016
+Kiryat Haim-Degania BENZN 138379 Tue Nov 29 21:00:00 2016
+Kiryat Haim-Degania PM10 139121 Wed Nov  2 17:00:00 2016
+Kiryat Haim-Degania PM10 159979 Tue Nov 29 15:00:00 2016
+Kiryat Haim-Degania PM10 145579 Tue Nov 29 19:00:00 2016
+Kiryat Haim-Degania PM10 134779 Tue Nov 29 22:00:00 2016
+Kiryat Haim-Degania PM10 141979 Tue Nov 29 20:00:00 2016
+Kiryat Haim-Degania PM10 152779 Tue Nov 29 17:00:00 2016
+Kiryat Haim-Degania PM10 135521 Wed Nov  2 18:00:00 2016
+Kiryat Haim-Degania PM10 163579 Tue Nov 29 14:00:00 2016
+Kiryat Haim-Degania PM10 149179 Tue Nov 29 18:00:00 2016
+Kiryat Haim-Degania PM10 138379 Tue Nov 29 21:00:00 2016
+Kiryat Haim-Degania PM10 131179 Tue Nov 29 23:00:00 2016
+Kiryat Haim-Degania PM10 156379 Tue Nov 29 16:00:00 2016
+Kiryat Haim-Degania PM10 36600 Wed Nov 30 00:00:00 2016
+Kiryat Haim-Degania PM10 142721 Wed Nov  2 16:00:00 2016
+Kiryat Haim-Degania PM10 146321 Wed Nov  2 15:00:00 2016
+Kiryat Haim-Degania WDD 152779 Tue Nov 29 17:00:00 2016
+Kiryat Haim-Degania WDD 134779 Tue Nov 29 22:00:00 2016
+Kiryat Haim-Degania WDD 141979 Tue Nov 29 20:00:00 2016
+Kiryat Haim-Degania WDD 145579 Tue Nov 29 19:00:00 2016
+Kiryat Haim-Degania WDD 159979 Tue Nov 29 15:00:00 2016
+Kiryat Haim-Degania WDD 135521 Wed Nov  2 18:00:00 2016
+Kiryat Haim-Degania WDD 139121 Wed Nov  2 17:00:00 2016
+Kiryat Haim-Degania WDD 131179 Tue Nov 29 23:00:00 2016
+Kiryat Haim-Degania WDD 163579 Tue Nov 29 14:00:00 2016
+Kiryat Haim-Degania WDD 138379 Tue Nov 29 21:00:00 2016
+Kiryat Haim-Degania WDD 149179 Tue Nov 29 18:00:00 2016
+Kiryat Haim-Degania WDD 156379 Tue Nov 29 16:00:00 2016
+Kiryat Haim-Degania WDD 146321 Wed Nov  2 15:00:00 2016
+Kiryat Haim-Degania WDD 142721 Wed Nov  2 16:00:00 2016
+Kiryat Haim-Degania WDD 36600 Wed Nov 30 00:00:00 2016
+GADIV_OPER XYL-start 142721 Wed Nov  2 16:00:00 2016
+GADIV_OPER XYL-start 146321 Wed Nov  2 15:00:00 2016
+GADIV_OPER XYL-start 139121 Wed Nov  2 17:00:00 2016
+GADIV_OPER XYL-start 149921 Wed Nov  2 14:00:00 2016
+GADIV_OPER XYL-start 72897 Tue Nov 15 23:00:00 2016
+GADIV_OPER XYL-start 201391 Thu Dec  1 00:00:00 2016
+GADIV_OPER Boil-start 139121 Wed Nov  2 17:00:00 2016
+GADIV_OPER Boil-start 149921 Wed Nov  2 14:00:00 2016
+GADIV_OPER Boil-start 72897 Tue Nov 15 23:00:00 2016
+GADIV_OPER Boil-start 201391 Thu Dec  1 00:00:00 2016
+GADIV_OPER Boil-start 142721 Wed Nov  2 16:00:00 2016
+GADIV_OPER Boil-start 146321 Wed Nov  2 15:00:00 2016
+GADIV_OPER TOL-start 146321 Wed Nov  2 15:00:00 2016
+GADIV_OPER TOL-start 142721 Wed Nov  2 16:00:00 2016
+GADIV_OPER TOL-start 201391 Thu Dec  1 00:00:00 2016
+GADIV_OPER TOL-start 72897 Tue Nov 15 23:00:00 2016
+GADIV_OPER TOL-start 149921 Wed Nov  2 14:00:00 2016
+GADIV_OPER TOL-start 139121 Wed Nov  2 17:00:00 2016
+GADIV_OPER PRX-start 149921 Wed Nov  2 14:00:00 2016
+GADIV_OPER PRX-start 139121 Wed Nov  2 17:00:00 2016
+GADIV_OPER PRX-start 72897 Tue Nov 15 23:00:00 2016
+GADIV_OPER PRX-start 201391 Thu Dec  1 00:00:00 2016
+GADIV_OPER PRX-start 142721 Wed Nov  2 16:00:00 2016
+GADIV_OPER PRX-start 146321 Wed Nov  2 15:00:00 2016
+GADIV_OPER SPL_start 146321 Wed Nov  2 15:00:00 2016
+GADIV_OPER SPL_start 142721 Wed Nov  2 16:00:00 2016
+GADIV_OPER SPL_start 72897 Tue Nov 15 23:00:00 2016
+GADIV_OPER SPL_start 139121 Wed Nov  2 17:00:00 2016
+GADIV_OPER SPL_start 149921 Wed Nov  2 14:00:00 2016
+GADIV_OPER SPL_start 201391 Thu Dec  1 00:00:00 2016
+Kiryat Binyamin O-Xyle 142721 Wed Nov  2 16:00:00 2016
+Kiryat Binyamin O-Xyle 146321 Wed Nov  2 15:00:00 2016
+Kiryat Binyamin O-Xyle 139121 Wed Nov  2 17:00:00 2016
+Kiryat Binyamin O-Xyle 135521 Wed Nov  2 18:00:00 2016
+Kiryat Binyamin StWd 142721 Wed Nov  2 16:00:00 2016
+Kiryat Binyamin StWd 146321 Wed Nov  2 15:00:00 2016
+Kiryat Binyamin StWd 139121 Wed Nov  2 17:00:00 2016
+Kiryat Binyamin StWd 135521 Wed Nov  2 18:00:00 2016
+Kiryat Binyamin SO2 139121 Wed Nov  2 17:00:00 2016
+Kiryat Binyamin SO2 135521 Wed Nov  2 18:00:00 2016
+Kiryat Binyamin SO2 142721 Wed Nov  2 16:00:00 2016
+Kiryat Binyamin SO2 146321 Wed Nov  2 15:00:00 2016
+Kiryat Binyamin TEMP 139121 Wed Nov  2 17:00:00 2016
+Kiryat Binyamin TEMP 135521 Wed Nov  2 18:00:00 2016
+Kiryat Binyamin TEMP 142721 Wed Nov  2 16:00:00 2016
+Kiryat Binyamin TEMP 146321 Wed Nov  2 15:00:00 2016
+Kiryat Binyamin PM2.5 139121 Wed Nov  2 17:00:00 2016
+Kiryat Binyamin PM2.5 135521 Wed Nov  2 18:00:00 2016
+Kiryat Binyamin PM2.5 142721 Wed Nov  2 16:00:00 2016
+Kiryat Binyamin PM2.5 146321 Wed Nov  2 15:00:00 2016
+Kiryat Binyamin EthylB 135521 Wed Nov  2 18:00:00 2016
+Kiryat Binyamin EthylB 139121 Wed Nov  2 17:00:00 2016
+Kiryat Binyamin EthylB 146321 Wed Nov  2 15:00:00 2016
+Kiryat Binyamin EthylB 142721 Wed Nov  2 16:00:00 2016
+Kiryat Binyamin NOX 135521 Wed Nov  2 18:00:00 2016
+Kiryat Binyamin NOX 139121 Wed Nov  2 17:00:00 2016
+Kiryat Binyamin NOX 146321 Wed Nov  2 15:00:00 2016
+Kiryat Binyamin NOX 142721 Wed Nov  2 16:00:00 2016
+Kiryat Binyamin NO2 142721 Wed Nov  2 16:00:00 2016
+Kiryat Binyamin NO2 146321 Wed Nov  2 15:00:00 2016
+Kiryat Binyamin NO2 139121 Wed Nov  2 17:00:00 2016
+Kiryat Binyamin NO2 135521 Wed Nov  2 18:00:00 2016
+Kiryat Binyamin TOL 139121 Wed Nov  2 17:00:00 2016
+Kiryat Binyamin TOL 135521 Wed Nov  2 18:00:00 2016
+Kiryat Binyamin TOL 142721 Wed Nov  2 16:00:00 2016
+Kiryat Binyamin TOL 146321 Wed Nov  2 15:00:00 2016
+Kiryat Binyamin NO 142721 Wed Nov  2 16:00:00 2016
+Kiryat Binyamin NO 146321 Wed Nov  2 15:00:00 2016
+Kiryat Binyamin NO 139121 Wed Nov  2 17:00:00 2016
+Kiryat Binyamin NO 135521 Wed Nov  2 18:00:00 2016
+Kiryat Binyamin WDS 142721 Wed Nov  2 16:00:00 2016
+Kiryat Binyamin WDS 146321 Wed Nov  2 15:00:00 2016
+Kiryat Binyamin WDS 139121 Wed Nov  2 17:00:00 2016
+Kiryat Binyamin WDS 135521 Wed Nov  2 18:00:00 2016
+Kiryat Binyamin BENZN 139121 Wed Nov  2 17:00:00 2016
+Kiryat Binyamin BENZN 135521 Wed Nov  2 18:00:00 2016
+Kiryat Binyamin BENZN 142721 Wed Nov  2 16:00:00 2016
+Kiryat Binyamin BENZN 146321 Wed Nov  2 15:00:00 2016
+Kiryat Binyamin WDD 146321 Wed Nov  2 15:00:00 2016
+Kiryat Binyamin WDD 142721 Wed Nov  2 16:00:00 2016
+Kiryat Binyamin WDD 135521 Wed Nov  2 18:00:00 2016
+Kiryat Binyamin WDD 139121 Wed Nov  2 17:00:00 2016
+Gadiv-AS2XYL1 NOx Dry 146321 Wed Nov  2 15:00:00 2016
+Gadiv-AS2XYL1 NOx Dry 142721 Wed Nov  2 16:00:00 2016
+Gadiv-AS2XYL1 NOx Dry 201391 Thu Dec  1 00:00:00 2016
+Gadiv-AS2XYL1 NOx Dry 72897 Tue Nov 15 23:00:00 2016
+Gadiv-AS2XYL1 NOx Dry 149921 Wed Nov  2 14:00:00 2016
+Gadiv-AS2XYL1 NOx Dry 139121 Wed Nov  2 17:00:00 2016
+OP-HCU OP-HCU 139121 Wed Nov  2 17:00:00 2016
+OP-HCU OP-HCU 149921 Wed Nov  2 14:00:00 2016
+OP-HCU OP-HCU 142721 Wed Nov  2 16:00:00 2016
+OP-HCU OP-HCU 146321 Wed Nov  2 15:00:00 2016
+OP-HCU Stat-HPU 139121 Wed Nov  2 17:00:00 2016
+OP-HCU Stat-HPU 149921 Wed Nov  2 14:00:00 2016
+OP-HCU Stat-HPU 146321 Wed Nov  2 15:00:00 2016
+OP-HCU Stat-HPU 142721 Wed Nov  2 16:00:00 2016
+OP-HCU Stat-HCU 146321 Wed Nov  2 15:00:00 2016
+OP-HCU Stat-HCU 142721 Wed Nov  2 16:00:00 2016
+OP-HCU Stat-HCU 139121 Wed Nov  2 17:00:00 2016
+OP-HCU Stat-HCU 149921 Wed Nov  2 14:00:00 2016
+OP-HCU OP_HPU 146321 Wed Nov  2 15:00:00 2016
+OP-HCU OP_HPU 142721 Wed Nov  2 16:00:00 2016
+OP-HCU OP_HPU 149921 Wed Nov  2 14:00:00 2016
+OP-HCU OP_HPU 139121 Wed Nov  2 17:00:00 2016
+mahzam 30 FO 139121 Wed Nov  2 17:00:00 2016
+mahzam 30 FO 135521 Wed Nov  2 18:00:00 2016
+mahzam 30 FO 142721 Wed Nov  2 16:00:00 2016
+mahzam 30 FO 146321 Wed Nov  2 15:00:00 2016
+mahzam 30 NOXEMISS 139121 Wed Nov  2 17:00:00 2016
+mahzam 30 NOXEMISS 135521 Wed Nov  2 18:00:00 2016
+mahzam 30 NOXEMISS 142721 Wed Nov  2 16:00:00 2016
+mahzam 30 NOXEMISS 146321 Wed Nov  2 15:00:00 2016
+mahzam 30 NG 146321 Wed Nov  2 15:00:00 2016
+mahzam 30 NG 142721 Wed Nov  2 16:00:00 2016
+mahzam 30 NG 135521 Wed Nov  2 18:00:00 2016
+mahzam 30 NG 139121 Wed Nov  2 17:00:00 2016
+mahzam 30 WIND-V6 135521 Wed Nov  2 18:00:00 2016
+mahzam 30 WIND-V6 139121 Wed Nov  2 17:00:00 2016
+mahzam 30 WIND-V6 146321 Wed Nov  2 15:00:00 2016
+mahzam 30 WIND-V6 142721 Wed Nov  2 16:00:00 2016
+mahzam 30 WIND-DIR 146321 Wed Nov  2 15:00:00 2016
+mahzam 30 WIND-DIR 142721 Wed Nov  2 16:00:00 2016
+mahzam 30 WIND-DIR 135521 Wed Nov  2 18:00:00 2016
+mahzam 30 WIND-DIR 139121 Wed Nov  2 17:00:00 2016
+mahzam 30 MW-AVG 142721 Wed Nov  2 16:00:00 2016
+mahzam 30 MW-AVG 146321 Wed Nov  2 15:00:00 2016
+mahzam 30 MW-AVG 139121 Wed Nov  2 17:00:00 2016
+mahzam 30 MW-AVG 135521 Wed Nov  2 18:00:00 2016
+mahzam 30 NOX 135521 Wed Nov  2 18:00:00 2016
+mahzam 30 NOX 139121 Wed Nov  2 17:00:00 2016
+mahzam 30 NOX 146321 Wed Nov  2 15:00:00 2016
+mahzam 30 NOX 142721 Wed Nov  2 16:00:00 2016
+Mobile_New BENZN 146321 Wed Nov  2 15:00:00 2016
+Mobile_New BENZN 142721 Wed Nov  2 16:00:00 2016
+Mobile_New BENZN 135521 Wed Nov  2 18:00:00 2016
+Mobile_New BENZN 139121 Wed Nov  2 17:00:00 2016
+Mobile_New PM10 135521 Wed Nov  2 18:00:00 2016
+Mobile_New PM10 139121 Wed Nov  2 17:00:00 2016
+Mobile_New PM10 146321 Wed Nov  2 15:00:00 2016
+Mobile_New PM10 142721 Wed Nov  2 16:00:00 2016
+Mobile_New NO 135521 Wed Nov  2 18:00:00 2016
+Mobile_New NO 139121 Wed Nov  2 17:00:00 2016
+Mobile_New NO 146321 Wed Nov  2 15:00:00 2016
+Mobile_New NO 142721 Wed Nov  2 16:00:00 2016
+Mobile_New NO2 142721 Wed Nov  2 16:00:00 2016
+Mobile_New NO2 146321 Wed Nov  2 15:00:00 2016
+Mobile_New NO2 139121 Wed Nov  2 17:00:00 2016
+Mobile_New NO2 135521 Wed Nov  2 18:00:00 2016
+Mobile_New CO 135521 Wed Nov  2 18:00:00 2016
+Mobile_New CO 139121 Wed Nov  2 17:00:00 2016
+Mobile_New CO 142721 Wed Nov  2 16:00:00 2016
+Mobile_New PM2.5 135521 Wed Nov  2 18:00:00 2016
+Mobile_New PM2.5 139121 Wed Nov  2 17:00:00 2016
+Mobile_New PM2.5 146321 Wed Nov  2 15:00:00 2016
+Mobile_New PM2.5 142721 Wed Nov  2 16:00:00 2016
+Mobile_New NOX 146321 Wed Nov  2 15:00:00 2016
+Mobile_New NOX 142721 Wed Nov  2 16:00:00 2016
+Mobile_New NOX 135521 Wed Nov  2 18:00:00 2016
+Mobile_New NOX 139121 Wed Nov  2 17:00:00 2016
+Mobile_New EthylB 146321 Wed Nov  2 15:00:00 2016
+Mobile_New EthylB 142721 Wed Nov  2 16:00:00 2016
+Mobile_New EthylB 135521 Wed Nov  2 18:00:00 2016
+Mobile_New EthylB 139121 Wed Nov  2 17:00:00 2016
+Mobile_New O-Xyle 135521 Wed Nov  2 18:00:00 2016
+Mobile_New O-Xyle 139121 Wed Nov  2 17:00:00 2016
+Mobile_New O-Xyle 146321 Wed Nov  2 15:00:00 2016
+Mobile_New O-Xyle 142721 Wed Nov  2 16:00:00 2016
+Mobile_New TOLUEN 135521 Wed Nov  2 18:00:00 2016
+Mobile_New TOLUEN 139121 Wed Nov  2 17:00:00 2016
+Mobile_New TOLUEN 146321 Wed Nov  2 15:00:00 2016
+Mobile_New TOLUEN 142721 Wed Nov  2 16:00:00 2016
+Mobile_New O3 135521 Wed Nov  2 18:00:00 2016
+Mobile_New O3 139121 Wed Nov  2 17:00:00 2016
+Mobile_New O3 146321 Wed Nov  2 15:00:00 2016
+Mobile_New O3 142721 Wed Nov  2 16:00:00 2016
+Kiryat Tivon ITemp 142721 Wed Nov  2 16:00:00 2016
+Kiryat Tivon ITemp 146321 Wed Nov  2 15:00:00 2016
+Kiryat Tivon ITemp 139121 Wed Nov  2 17:00:00 2016
+Kiryat Tivon ITemp 135521 Wed Nov  2 18:00:00 2016
+Kiryat Tivon PM2.5 135521 Wed Nov  2 18:00:00 2016
+Kiryat Tivon PM2.5 139121 Wed Nov  2 17:00:00 2016
+Kiryat Tivon PM2.5 146321 Wed Nov  2 15:00:00 2016
+Kiryat Tivon PM2.5 142721 Wed Nov  2 16:00:00 2016
+Kiryat Tivon NOX 142721 Wed Nov  2 16:00:00 2016
+Kiryat Tivon NOX 146321 Wed Nov  2 15:00:00 2016
+Kiryat Tivon NOX 139121 Wed Nov  2 17:00:00 2016
+Kiryat Tivon NOX 135521 Wed Nov  2 18:00:00 2016
+Kiryat Tivon StWd 135521 Wed Nov  2 18:00:00 2016
+Kiryat Tivon StWd 139121 Wed Nov  2 17:00:00 2016
+Kiryat Tivon StWd 146321 Wed Nov  2 15:00:00 2016
+Kiryat Tivon StWd 142721 Wed Nov  2 16:00:00 2016
+Kiryat Tivon Filter 146321 Wed Nov  2 15:00:00 2016
+Kiryat Tivon Filter 142721 Wed Nov  2 16:00:00 2016
+Kiryat Tivon Filter 135521 Wed Nov  2 18:00:00 2016
+Kiryat Tivon Filter 139121 Wed Nov  2 17:00:00 2016
+Kiryat Tivon O3 146321 Wed Nov  2 15:00:00 2016
+Kiryat Tivon O3 142721 Wed Nov  2 16:00:00 2016
+Kiryat Tivon O3 135521 Wed Nov  2 18:00:00 2016
+Kiryat Tivon O3 139121 Wed Nov  2 17:00:00 2016
+Kiryat Tivon SO2 139121 Wed Nov  2 17:00:00 2016
+Kiryat Tivon SO2 135521 Wed Nov  2 18:00:00 2016
+Kiryat Tivon SO2 142721 Wed Nov  2 16:00:00 2016
+Kiryat Tivon SO2 146321 Wed Nov  2 15:00:00 2016
+Kiryat Tivon WDD 139121 Wed Nov  2 17:00:00 2016
+Kiryat Tivon WDD 135521 Wed Nov  2 18:00:00 2016
+Kiryat Tivon WDD 142721 Wed Nov  2 16:00:00 2016
+Kiryat Tivon WDD 146321 Wed Nov  2 15:00:00 2016
+Kiryat Tivon NO2 142721 Wed Nov  2 16:00:00 2016
+Kiryat Tivon NO2 146321 Wed Nov  2 15:00:00 2016
+Kiryat Tivon NO2 139121 Wed Nov  2 17:00:00 2016
+Kiryat Tivon NO2 135521 Wed Nov  2 18:00:00 2016
+Kiryat Tivon NO 139121 Wed Nov  2 17:00:00 2016
+Kiryat Tivon NO 135521 Wed Nov  2 18:00:00 2016
+Kiryat Tivon NO 142721 Wed Nov  2 16:00:00 2016
+Kiryat Tivon NO 146321 Wed Nov  2 15:00:00 2016
+Kiryat Tivon WDS 146321 Wed Nov  2 15:00:00 2016
+Kiryat Tivon WDS 142721 Wed Nov  2 16:00:00 2016
+Kiryat Tivon WDS 135521 Wed Nov  2 18:00:00 2016
+Kiryat Tivon WDS 139121 Wed Nov  2 17:00:00 2016
+BAZAN-B11 Stack_NOx 146321 Wed Nov  2 15:00:00 2016
+BAZAN-B11 Stack_NOx 142721 Wed Nov  2 16:00:00 2016
+BAZAN-B11 Stack_NOx 201391 Thu Dec  1 00:00:00 2016
+BAZAN-B11 Stack_NOx 72897 Tue Nov 15 23:00:00 2016
+BAZAN-B11 Stack_NOx 149921 Wed Nov  2 14:00:00 2016
+BAZAN-B11 Stack_NOx 139121 Wed Nov  2 17:00:00 2016
+Bazan-CU1-B4 NOx Dry 201391 Thu Dec  1 00:00:00 2016
+Bazan-CU1-B4 NOx Dry 72897 Tue Nov 15 23:00:00 2016
+Bazan-CU1-B4 NOx Dry 149921 Wed Nov  2 14:00:00 2016
+Bazan-CU1-B4 NOx Dry 139121 Wed Nov  2 17:00:00 2016
+Bazan-CU1-B4 NOx Dry 146321 Wed Nov  2 15:00:00 2016
+Bazan-CU1-B4 NOx Dry 142721 Wed Nov  2 16:00:00 2016
+BAZAN-CCR NOx Dry 149921 Wed Nov  2 14:00:00 2016
+BAZAN-CCR NOx Dry 139121 Wed Nov  2 17:00:00 2016
+BAZAN-CCR NOx Dry 72897 Tue Nov 15 23:00:00 2016
+BAZAN-CCR NOx Dry 201391 Thu Dec  1 00:00:00 2016
+BAZAN-CCR NOx Dry 142721 Wed Nov  2 16:00:00 2016
+BAZAN-CCR NOx Dry 146321 Wed Nov  2 15:00:00 2016
+Neve Shaanan WDD 146321 Wed Nov  2 15:00:00 2016
+Neve Shaanan WDD 142721 Wed Nov  2 16:00:00 2016
+Neve Shaanan WDD 135521 Wed Nov  2 18:00:00 2016
+Neve Shaanan WDD 139121 Wed Nov  2 17:00:00 2016
+Neve Shaanan CO 146321 Wed Nov  2 15:00:00 2016
+Neve Shaanan CO 142721 Wed Nov  2 16:00:00 2016
+Neve Shaanan CO 135521 Wed Nov  2 18:00:00 2016
+Neve Shaanan CO 139121 Wed Nov  2 17:00:00 2016
+Neve Shaanan TEMP 146321 Wed Nov  2 15:00:00 2016
+Neve Shaanan TEMP 142721 Wed Nov  2 16:00:00 2016
+Neve Shaanan TEMP 135521 Wed Nov  2 18:00:00 2016
+Neve Shaanan TEMP 139121 Wed Nov  2 17:00:00 2016
+Neve Shaanan pm(10-2.5) 146321 Wed Nov  2 15:00:00 2016
+Neve Shaanan pm(10-2.5) 142721 Wed Nov  2 16:00:00 2016
+Neve Shaanan pm(10-2.5) 135521 Wed Nov  2 18:00:00 2016
+Neve Shaanan pm(10-2.5) 139121 Wed Nov  2 17:00:00 2016
+Neve Shaanan Filter 135521 Wed Nov  2 18:00:00 2016
+Neve Shaanan Filter 139121 Wed Nov  2 17:00:00 2016
+Neve Shaanan Filter 146321 Wed Nov  2 15:00:00 2016
+Neve Shaanan Filter 142721 Wed Nov  2 16:00:00 2016
+Neve Shaanan SO2 146321 Wed Nov  2 15:00:00 2016
+Neve Shaanan SO2 142721 Wed Nov  2 16:00:00 2016
+Neve Shaanan SO2 135521 Wed Nov  2 18:00:00 2016
+Neve Shaanan SO2 139121 Wed Nov  2 17:00:00 2016
+Neve Shaanan O3 142721 Wed Nov  2 16:00:00 2016
+Neve Shaanan O3 146321 Wed Nov  2 15:00:00 2016
+Neve Shaanan O3 139121 Wed Nov  2 17:00:00 2016
+Neve Shaanan O3 135521 Wed Nov  2 18:00:00 2016
+Neve Shaanan FILTER-2.5 146321 Wed Nov  2 15:00:00 2016
+Neve Shaanan FILTER-2.5 142721 Wed Nov  2 16:00:00 2016
+Neve Shaanan FILTER-2.5 135521 Wed Nov  2 18:00:00 2016
+Neve Shaanan FILTER-2.5 139121 Wed Nov  2 17:00:00 2016
+Neve Shaanan PM10 139121 Wed Nov  2 17:00:00 2016
+Neve Shaanan PM10 135521 Wed Nov  2 18:00:00 2016
+Neve Shaanan PM10 142721 Wed Nov  2 16:00:00 2016
+Neve Shaanan PM10 146321 Wed Nov  2 15:00:00 2016
+Neve Shaanan NO 142721 Wed Nov  2 16:00:00 2016
+Neve Shaanan NO 146321 Wed Nov  2 15:00:00 2016
+Neve Shaanan NO 139121 Wed Nov  2 17:00:00 2016
+Neve Shaanan NO 135521 Wed Nov  2 18:00:00 2016
+Neve Shaanan NO2 139121 Wed Nov  2 17:00:00 2016
+Neve Shaanan NO2 135521 Wed Nov  2 18:00:00 2016
+Neve Shaanan NO2 142721 Wed Nov  2 16:00:00 2016
+Neve Shaanan NO2 146321 Wed Nov  2 15:00:00 2016
+Neve Shaanan WDS 142721 Wed Nov  2 16:00:00 2016
+Neve Shaanan WDS 146321 Wed Nov  2 15:00:00 2016
+Neve Shaanan WDS 139121 Wed Nov  2 17:00:00 2016
+Neve Shaanan WDS 135521 Wed Nov  2 18:00:00 2016
+Neve Shaanan ITemp 139121 Wed Nov  2 17:00:00 2016
+Neve Shaanan ITemp 135521 Wed Nov  2 18:00:00 2016
+Neve Shaanan ITemp 142721 Wed Nov  2 16:00:00 2016
+Neve Shaanan ITemp 146321 Wed Nov  2 15:00:00 2016
+Neve Shaanan RH 142721 Wed Nov  2 16:00:00 2016
+Neve Shaanan RH 146321 Wed Nov  2 15:00:00 2016
+Neve Shaanan RH 139121 Wed Nov  2 17:00:00 2016
+Neve Shaanan RH 135521 Wed Nov  2 18:00:00 2016
+Neve Shaanan PREC 146321 Wed Nov  2 15:00:00 2016
+Neve Shaanan PREC 142721 Wed Nov  2 16:00:00 2016
+Neve Shaanan PREC 135521 Wed Nov  2 18:00:00 2016
+Neve Shaanan PREC 139121 Wed Nov  2 17:00:00 2016
+Neve Shaanan PM2.5 146321 Wed Nov  2 15:00:00 2016
+Neve Shaanan PM2.5 142721 Wed Nov  2 16:00:00 2016
+Neve Shaanan PM2.5 135521 Wed Nov  2 18:00:00 2016
+Neve Shaanan PM2.5 139121 Wed Nov  2 17:00:00 2016
+Neve Shaanan NOX 142721 Wed Nov  2 16:00:00 2016
+Neve Shaanan NOX 146321 Wed Nov  2 15:00:00 2016
+Neve Shaanan NOX 139121 Wed Nov  2 17:00:00 2016
+Neve Shaanan NOX 135521 Wed Nov  2 18:00:00 2016
+Bazan-CU3-B201B NOx Dry 142721 Wed Nov  2 16:00:00 2016
+Bazan-CU3-B201B NOx Dry 146321 Wed Nov  2 15:00:00 2016
+Bazan-CU3-B201B NOx Dry 149921 Wed Nov  2 14:00:00 2016
+Bazan-CU3-B201B NOx Dry 139121 Wed Nov  2 17:00:00 2016
+Bazan-CU3-B201B NOx Dry 72897 Tue Nov 15 23:00:00 2016
+Bazan-CU3-B201B NOx Dry 201391 Thu Dec  1 00:00:00 2016
+BAZAN HCU HCU Stat 201391 Thu Dec  1 00:00:00 2016
+BAZAN HCU HCU Stat 72897 Tue Nov 15 23:00:00 2016
+BAZAN HCU HCU Stat 149921 Wed Nov  2 14:00:00 2016
+BAZAN HCU HCU Stat 139121 Wed Nov  2 17:00:00 2016
+BAZAN HCU HCU Stat 146321 Wed Nov  2 15:00:00 2016
+BAZAN HCU HCU Stat 142721 Wed Nov  2 16:00:00 2016
+BAZAN HCU NOx Dry 139121 Wed Nov  2 17:00:00 2016
+BAZAN HCU NOx Dry 149921 Wed Nov  2 14:00:00 2016
+BAZAN HCU NOx Dry 72897 Tue Nov 15 23:00:00 2016
+BAZAN HCU NOx Dry 201391 Thu Dec  1 00:00:00 2016
+BAZAN HCU NOx Dry 142721 Wed Nov  2 16:00:00 2016
+BAZAN HCU NOx Dry 146321 Wed Nov  2 15:00:00 2016
+mahzam 40 NOXEMISS 142721 Wed Nov  2 16:00:00 2016
+mahzam 40 NOXEMISS 146321 Wed Nov  2 15:00:00 2016
+mahzam 40 NOXEMISS 139121 Wed Nov  2 17:00:00 2016
+mahzam 40 NOXEMISS 135521 Wed Nov  2 18:00:00 2016
+mahzam 40 FO 139121 Wed Nov  2 17:00:00 2016
+mahzam 40 FO 135521 Wed Nov  2 18:00:00 2016
+mahzam 40 FO 142721 Wed Nov  2 16:00:00 2016
+mahzam 40 FO 146321 Wed Nov  2 15:00:00 2016
+mahzam 40 NG 142721 Wed Nov  2 16:00:00 2016
+mahzam 40 NG 146321 Wed Nov  2 15:00:00 2016
+mahzam 40 NG 139121 Wed Nov  2 17:00:00 2016
+mahzam 40 NG 135521 Wed Nov  2 18:00:00 2016
+mahzam 40 WIND-V6 142721 Wed Nov  2 16:00:00 2016
+mahzam 40 WIND-V6 146321 Wed Nov  2 15:00:00 2016
+mahzam 40 WIND-V6 139121 Wed Nov  2 17:00:00 2016
+mahzam 40 WIND-V6 135521 Wed Nov  2 18:00:00 2016
+mahzam 40 WIND-DIR 142721 Wed Nov  2 16:00:00 2016
+mahzam 40 WIND-DIR 146321 Wed Nov  2 15:00:00 2016
+mahzam 40 WIND-DIR 139121 Wed Nov  2 17:00:00 2016
+mahzam 40 WIND-DIR 135521 Wed Nov  2 18:00:00 2016
+mahzam 40 NOX 135521 Wed Nov  2 18:00:00 2016
+mahzam 40 NOX 139121 Wed Nov  2 17:00:00 2016
+mahzam 40 NOX 146321 Wed Nov  2 15:00:00 2016
+mahzam 40 NOX 142721 Wed Nov  2 16:00:00 2016
+mahzam 40 MW-AVG 135521 Wed Nov  2 18:00:00 2016
+mahzam 40 MW-AVG 139121 Wed Nov  2 17:00:00 2016
+mahzam 40 MW-AVG 146321 Wed Nov  2 15:00:00 2016
+mahzam 40 MW-AVG 142721 Wed Nov  2 16:00:00 2016
+Yizraelia TEMP 146321 Wed Nov  2 15:00:00 2016
+Yizraelia TEMP 142721 Wed Nov  2 16:00:00 2016
+Yizraelia TEMP 135521 Wed Nov  2 18:00:00 2016
+Yizraelia TEMP 139121 Wed Nov  2 17:00:00 2016
+Yizraelia CO 139121 Wed Nov  2 17:00:00 2016
+Yizraelia CO 135521 Wed Nov  2 18:00:00 2016
+Yizraelia CO 142721 Wed Nov  2 16:00:00 2016
+Yizraelia CO 146321 Wed Nov  2 15:00:00 2016
+Yizraelia LXpk_max 146321 Wed Nov  2 15:00:00 2016
+Yizraelia LXpk_max 142721 Wed Nov  2 16:00:00 2016
+Yizraelia LXpk_max 135521 Wed Nov  2 18:00:00 2016
+Yizraelia LXpk_max 139121 Wed Nov  2 17:00:00 2016
+Yizraelia WDD 139121 Wed Nov  2 17:00:00 2016
+Yizraelia WDD 135521 Wed Nov  2 18:00:00 2016
+Yizraelia WDD 142721 Wed Nov  2 16:00:00 2016
+Yizraelia WDD 146321 Wed Nov  2 15:00:00 2016
+Yizraelia LAeq 146321 Wed Nov  2 15:00:00 2016
+Yizraelia LAeq 142721 Wed Nov  2 16:00:00 2016
+Yizraelia LAeq 135521 Wed Nov  2 18:00:00 2016
+Yizraelia LAeq 139121 Wed Nov  2 17:00:00 2016
+Yizraelia LAF_max 142721 Wed Nov  2 16:00:00 2016
+Yizraelia LAF_max 146321 Wed Nov  2 15:00:00 2016
+Yizraelia LAF_max 139121 Wed Nov  2 17:00:00 2016
+Yizraelia LAF_max 135521 Wed Nov  2 18:00:00 2016
+Yizraelia LAim 135521 Wed Nov  2 18:00:00 2016
+Yizraelia LAim 139121 Wed Nov  2 17:00:00 2016
+Yizraelia LAim 146321 Wed Nov  2 15:00:00 2016
+Yizraelia LAim 142721 Wed Nov  2 16:00:00 2016
+Yizraelia NOX 139121 Wed Nov  2 17:00:00 2016
+Yizraelia NOX 135521 Wed Nov  2 18:00:00 2016
+Yizraelia NOX 142721 Wed Nov  2 16:00:00 2016
+Yizraelia NOX 146321 Wed Nov  2 15:00:00 2016
+Yizraelia LAF_min 146321 Wed Nov  2 15:00:00 2016
+Yizraelia LAF_min 142721 Wed Nov  2 16:00:00 2016
+Yizraelia LAF_min 135521 Wed Nov  2 18:00:00 2016
+Yizraelia LAF_min 139121 Wed Nov  2 17:00:00 2016
+Yizraelia RH 142721 Wed Nov  2 16:00:00 2016
+Yizraelia RH 146321 Wed Nov  2 15:00:00 2016
+Yizraelia RH 139121 Wed Nov  2 17:00:00 2016
+Yizraelia RH 135521 Wed Nov  2 18:00:00 2016
+Yizraelia ITemp 146321 Wed Nov  2 15:00:00 2016
+Yizraelia ITemp 142721 Wed Nov  2 16:00:00 2016
+Yizraelia ITemp 135521 Wed Nov  2 18:00:00 2016
+Yizraelia ITemp 139121 Wed Nov  2 17:00:00 2016
+Yizraelia LXeq 139121 Wed Nov  2 17:00:00 2016
+Yizraelia LXeq 135521 Wed Nov  2 18:00:00 2016
+Yizraelia LXeq 142721 Wed Nov  2 16:00:00 2016
+Yizraelia LXeq 146321 Wed Nov  2 15:00:00 2016
+Yizraelia PM10 142721 Wed Nov  2 16:00:00 2016
+Yizraelia PM10 146321 Wed Nov  2 15:00:00 2016
+Yizraelia PM10 139121 Wed Nov  2 17:00:00 2016
+Yizraelia PM10 135521 Wed Nov  2 18:00:00 2016
+Yizraelia WDS 146321 Wed Nov  2 15:00:00 2016
+Yizraelia WDS 142721 Wed Nov  2 16:00:00 2016
+Yizraelia WDS 135521 Wed Nov  2 18:00:00 2016
+Yizraelia WDS 139121 Wed Nov  2 17:00:00 2016
+Yizraelia NO2 135521 Wed Nov  2 18:00:00 2016
+Yizraelia NO2 139121 Wed Nov  2 17:00:00 2016
+Yizraelia NO2 146321 Wed Nov  2 15:00:00 2016
+Yizraelia NO2 142721 Wed Nov  2 16:00:00 2016
+Yizraelia NO 146321 Wed Nov  2 15:00:00 2016
+Yizraelia NO 142721 Wed Nov  2 16:00:00 2016
+Yizraelia NO 135521 Wed Nov  2 18:00:00 2016
+Yizraelia NO 139121 Wed Nov  2 17:00:00 2016
+Gadiv-Boiler NOx Dry 72897 Tue Nov 15 23:00:00 2016
+Gadiv-Boiler NOx Dry 149921 Wed Nov  2 14:00:00 2016
+Gadiv-Boiler NOx Dry 139121 Wed Nov  2 17:00:00 2016
+Gadiv-Boiler NOx Dry 201391 Thu Dec  1 00:00:00 2016
+Gadiv-Boiler NOx Dry 146321 Wed Nov  2 15:00:00 2016
+Gadiv-Boiler NOx Dry 142721 Wed Nov  2 16:00:00 2016
+BAZAN_Oper CCR 142721 Wed Nov  2 16:00:00 2016
+BAZAN_Oper CCR 146321 Wed Nov  2 15:00:00 2016
+BAZAN_Oper CCR 201391 Thu Dec  1 00:00:00 2016
+BAZAN_Oper CCR 149921 Wed Nov  2 14:00:00 2016
+BAZAN_Oper CCR 139121 Wed Nov  2 17:00:00 2016
+BAZAN_Oper CCR 72897 Tue Nov 15 23:00:00 2016
+BAZAN_Oper FCC 149921 Wed Nov  2 14:00:00 2016
+BAZAN_Oper FCC 139121 Wed Nov  2 17:00:00 2016
+BAZAN_Oper FCC 72897 Tue Nov 15 23:00:00 2016
+BAZAN_Oper FCC 201391 Thu Dec  1 00:00:00 2016
+BAZAN_Oper FCC 142721 Wed Nov  2 16:00:00 2016
+BAZAN_Oper FCC 146321 Wed Nov  2 15:00:00 2016
+BAZAN_Oper B11 201391 Thu Dec  1 00:00:00 2016
+BAZAN_Oper B11 72897 Tue Nov 15 23:00:00 2016
+BAZAN_Oper B11 139121 Wed Nov  2 17:00:00 2016
+BAZAN_Oper B11 149921 Wed Nov  2 14:00:00 2016
+BAZAN_Oper B11 146321 Wed Nov  2 15:00:00 2016
+BAZAN_Oper B11 142721 Wed Nov  2 16:00:00 2016
+BAZAN_Oper GO HDS 142721 Wed Nov  2 16:00:00 2016
+BAZAN_Oper GO HDS 146321 Wed Nov  2 15:00:00 2016
+BAZAN_Oper GO HDS 201391 Thu Dec  1 00:00:00 2016
+BAZAN_Oper GO HDS 149921 Wed Nov  2 14:00:00 2016
+BAZAN_Oper GO HDS 139121 Wed Nov  2 17:00:00 2016
+BAZAN_Oper GO HDS 72897 Tue Nov 15 23:00:00 2016
+BAZAN_Oper KERO HDS 142721 Wed Nov  2 16:00:00 2016
+BAZAN_Oper KERO HDS 146321 Wed Nov  2 15:00:00 2016
+BAZAN_Oper KERO HDS 139121 Wed Nov  2 17:00:00 2016
+BAZAN_Oper KERO HDS 149921 Wed Nov  2 14:00:00 2016
+BAZAN_Oper KERO HDS 72897 Tue Nov 15 23:00:00 2016
+BAZAN_Oper KERO HDS 201391 Thu Dec  1 00:00:00 2016
+BAZAN_Oper CU.4 139121 Wed Nov  2 17:00:00 2016
+BAZAN_Oper CU.4 149921 Wed Nov  2 14:00:00 2016
+BAZAN_Oper CU.4 72897 Tue Nov 15 23:00:00 2016
+BAZAN_Oper CU.4 201391 Thu Dec  1 00:00:00 2016
+BAZAN_Oper CU.4 142721 Wed Nov  2 16:00:00 2016
+BAZAN_Oper CU.4 146321 Wed Nov  2 15:00:00 2016
+BAZAN_Oper Vis3. 142721 Wed Nov  2 16:00:00 2016
+BAZAN_Oper Vis3. 146321 Wed Nov  2 15:00:00 2016
+BAZAN_Oper Vis3. 139121 Wed Nov  2 17:00:00 2016
+BAZAN_Oper Vis3. 149921 Wed Nov  2 14:00:00 2016
+BAZAN_Oper Vis3. 72897 Tue Nov 15 23:00:00 2016
+BAZAN_Oper Vis3. 201391 Thu Dec  1 00:00:00 2016
+BAZAN_Oper Benzine HDS 139121 Wed Nov  2 17:00:00 2016
+BAZAN_Oper Benzine HDS 149921 Wed Nov  2 14:00:00 2016
+BAZAN_Oper Benzine HDS 72897 Tue Nov 15 23:00:00 2016
+BAZAN_Oper Benzine HDS 201391 Thu Dec  1 00:00:00 2016
+BAZAN_Oper Benzine HDS 142721 Wed Nov  2 16:00:00 2016
+BAZAN_Oper Benzine HDS 146321 Wed Nov  2 15:00:00 2016
+BAZAN_Oper CU.3 146321 Wed Nov  2 15:00:00 2016
+BAZAN_Oper CU.3 142721 Wed Nov  2 16:00:00 2016
+BAZAN_Oper CU.3 201391 Thu Dec  1 00:00:00 2016
+BAZAN_Oper CU.3 72897 Tue Nov 15 23:00:00 2016
+BAZAN_Oper CU.3 139121 Wed Nov  2 17:00:00 2016
+BAZAN_Oper CU.3 149921 Wed Nov  2 14:00:00 2016
+BAZAN_Oper Isomer 201391 Thu Dec  1 00:00:00 2016
+BAZAN_Oper Isomer 72897 Tue Nov 15 23:00:00 2016
+BAZAN_Oper Isomer 149921 Wed Nov  2 14:00:00 2016
+BAZAN_Oper Isomer 139121 Wed Nov  2 17:00:00 2016
+BAZAN_Oper Isomer 146321 Wed Nov  2 15:00:00 2016
+BAZAN_Oper Isomer 142721 Wed Nov  2 16:00:00 2016
+BAZAN_Oper B21 146321 Wed Nov  2 15:00:00 2016
+BAZAN_Oper B21 142721 Wed Nov  2 16:00:00 2016
+BAZAN_Oper B21 72897 Tue Nov 15 23:00:00 2016
+BAZAN_Oper B21 149921 Wed Nov  2 14:00:00 2016
+BAZAN_Oper B21 139121 Wed Nov  2 17:00:00 2016
+BAZAN_Oper B21 201391 Thu Dec  1 00:00:00 2016
+BAZAN_Oper HVGO HSD 149921 Wed Nov  2 14:00:00 2016
+BAZAN_Oper HVGO HSD 139121 Wed Nov  2 17:00:00 2016
+BAZAN_Oper HVGO HSD 72897 Tue Nov 15 23:00:00 2016
+BAZAN_Oper HVGO HSD 201391 Thu Dec  1 00:00:00 2016
+BAZAN_Oper HVGO HSD 142721 Wed Nov  2 16:00:00 2016
+BAZAN_Oper HVGO HSD 146321 Wed Nov  2 15:00:00 2016
+BAZAN_Oper Boiler31 146321 Wed Nov  2 15:00:00 2016
+BAZAN_Oper Boiler31 142721 Wed Nov  2 16:00:00 2016
+BAZAN_Oper Boiler31 201391 Thu Dec  1 00:00:00 2016
+BAZAN_Oper Boiler31 72897 Tue Nov 15 23:00:00 2016
+BAZAN_Oper Boiler31 149921 Wed Nov  2 14:00:00 2016
+BAZAN_Oper Boiler31 139121 Wed Nov  2 17:00:00 2016
+BAZAN_Oper CU.1 72897 Tue Nov 15 23:00:00 2016
+BAZAN_Oper CU.1 149921 Wed Nov  2 14:00:00 2016
+BAZAN_Oper CU.1 139121 Wed Nov  2 17:00:00 2016
+BAZAN_Oper CU.1 201391 Thu Dec  1 00:00:00 2016
+BAZAN_Oper CU.1 146321 Wed Nov  2 15:00:00 2016
+BAZAN_Oper CU.1 142721 Wed Nov  2 16:00:00 2016
+BAZAN-IHDS-GO NOx Dry 146321 Wed Nov  2 15:00:00 2016
+BAZAN-IHDS-GO NOx Dry 142721 Wed Nov  2 16:00:00 2016
+BAZAN-IHDS-GO NOx Dry 72897 Tue Nov 15 23:00:00 2016
+BAZAN-IHDS-GO NOx Dry 149921 Wed Nov  2 14:00:00 2016
+BAZAN-IHDS-GO NOx Dry 139121 Wed Nov  2 17:00:00 2016
+BAZAN-IHDS-GO NOx Dry 201391 Thu Dec  1 00:00:00 2016
+Romema ITemp 142721 Wed Nov  2 16:00:00 2016
+Romema ITemp 146321 Wed Nov  2 15:00:00 2016
+Romema ITemp 139121 Wed Nov  2 17:00:00 2016
+Romema ITemp 602587 Thu Nov 24 12:00:00 2016
+Romema ITemp 135521 Wed Nov  2 18:00:00 2016
+Romema NOX 146321 Wed Nov  2 15:00:00 2016
+Romema NOX 142721 Wed Nov  2 16:00:00 2016
+Romema NOX 135521 Wed Nov  2 18:00:00 2016
+Romema NOX 139121 Wed Nov  2 17:00:00 2016
+Romema NOX 602587 Thu Nov 24 12:00:00 2016
+Romema RH 146321 Wed Nov  2 15:00:00 2016
+Romema RH 142721 Wed Nov  2 16:00:00 2016
+Romema RH 135521 Wed Nov  2 18:00:00 2016
+Romema RH 139121 Wed Nov  2 17:00:00 2016
+Romema RH 602587 Thu Nov 24 12:00:00 2016
+Romema PM10 142721 Wed Nov  2 16:00:00 2016
+Romema PM10 146321 Wed Nov  2 15:00:00 2016
+Romema PM10 602587 Thu Nov 24 12:00:00 2016
+Romema PM10 139121 Wed Nov  2 17:00:00 2016
+Romema PM10 135521 Wed Nov  2 18:00:00 2016
+Romema WDS 602587 Thu Nov 24 12:00:00 2016
+Romema WDS 139121 Wed Nov  2 17:00:00 2016
+Romema WDS 135521 Wed Nov  2 18:00:00 2016
+Romema WDS 142721 Wed Nov  2 16:00:00 2016
+Romema WDS 146321 Wed Nov  2 15:00:00 2016
+Romema NO2 146321 Wed Nov  2 15:00:00 2016
+Romema NO2 142721 Wed Nov  2 16:00:00 2016
+Romema NO2 135521 Wed Nov  2 18:00:00 2016
+Romema NO2 602587 Thu Nov 24 12:00:00 2016
+Romema NO2 139121 Wed Nov  2 17:00:00 2016
+Romema NO 135521 Wed Nov  2 18:00:00 2016
+Romema NO 139121 Wed Nov  2 17:00:00 2016
+Romema NO 602587 Thu Nov 24 12:00:00 2016
+Romema NO 146321 Wed Nov  2 15:00:00 2016
+Romema NO 142721 Wed Nov  2 16:00:00 2016
+Romema CO 139121 Wed Nov  2 17:00:00 2016
+Romema CO 602587 Thu Nov 24 12:00:00 2016
+Romema CO 135521 Wed Nov  2 18:00:00 2016
+Romema CO 142721 Wed Nov  2 16:00:00 2016
+Romema CO 146321 Wed Nov  2 15:00:00 2016
+Romema TEMP 142721 Wed Nov  2 16:00:00 2016
+Romema TEMP 146321 Wed Nov  2 15:00:00 2016
+Romema TEMP 602587 Thu Nov 24 12:00:00 2016
+Romema TEMP 139121 Wed Nov  2 17:00:00 2016
+Romema TEMP 135521 Wed Nov  2 18:00:00 2016
+Romema Filter 142721 Wed Nov  2 16:00:00 2016
+Romema Filter 146321 Wed Nov  2 15:00:00 2016
+Romema Filter 602587 Thu Nov 24 12:00:00 2016
+Romema Filter 135521 Wed Nov  2 18:00:00 2016
+Romema WDD 139121 Wed Nov  2 17:00:00 2016
+Romema WDD 602587 Thu Nov 24 12:00:00 2016
+Romema WDD 135521 Wed Nov  2 18:00:00 2016
+Romema WDD 142721 Wed Nov  2 16:00:00 2016
+Romema WDD 146321 Wed Nov  2 15:00:00 2016
+BAZAN VRU CONC 142721 Wed Nov  2 16:00:00 2016
+BAZAN VRU CONC 146321 Wed Nov  2 15:00:00 2016
+BAZAN VRU CONC 201391 Thu Dec  1 00:00:00 2016
+BAZAN VRU CONC 139121 Wed Nov  2 17:00:00 2016
+BAZAN VRU CONC 149921 Wed Nov  2 14:00:00 2016
+BAZAN VRU CONC 72897 Tue Nov 15 23:00:00 2016
+BAZAN VRU Activity 139121 Wed Nov  2 17:00:00 2016
+BAZAN VRU Activity 149921 Wed Nov  2 14:00:00 2016
+BAZAN VRU Activity 72897 Tue Nov 15 23:00:00 2016
+BAZAN VRU Activity 201391 Thu Dec  1 00:00:00 2016
+BAZAN VRU Activity 142721 Wed Nov  2 16:00:00 2016
+BAZAN VRU Activity 146321 Wed Nov  2 15:00:00 2016
+Sonol TOC 139121 Wed Nov  2 17:00:00 2016
+Sonol TOC 149921 Wed Nov  2 14:00:00 2016
+Sonol TOC 142721 Wed Nov  2 16:00:00 2016
+Sonol TOC 146321 Wed Nov  2 15:00:00 2016
+BAZAN_HPU NOx Dry 146321 Wed Nov  2 15:00:00 2016
+BAZAN_HPU NOx Dry 142721 Wed Nov  2 16:00:00 2016
+BAZAN_HPU NOx Dry 201391 Thu Dec  1 00:00:00 2016
+BAZAN_HPU NOx Dry 72897 Tue Nov 15 23:00:00 2016
+BAZAN_HPU NOx Dry 139121 Wed Nov  2 17:00:00 2016
+BAZAN_HPU NOx Dry 149921 Wed Nov  2 14:00:00 2016
+BAZAN_HPU HPU Stat 72897 Tue Nov 15 23:00:00 2016
+BAZAN_HPU HPU Stat 149921 Wed Nov  2 14:00:00 2016
+BAZAN_HPU HPU Stat 139121 Wed Nov  2 17:00:00 2016
+BAZAN_HPU HPU Stat 201391 Thu Dec  1 00:00:00 2016
+BAZAN_HPU HPU Stat 146321 Wed Nov  2 15:00:00 2016
+BAZAN_HPU HPU Stat 142721 Wed Nov  2 16:00:00 2016
+Kiryat Bialik SO2 142721 Wed Nov  2 16:00:00 2016
+Kiryat Bialik SO2 146321 Wed Nov  2 15:00:00 2016
+Kiryat Bialik SO2 139121 Wed Nov  2 17:00:00 2016
+Kiryat Bialik SO2 135521 Wed Nov  2 18:00:00 2016
+Kiryat Bialik NOX 139121 Wed Nov  2 17:00:00 2016
+Kiryat Bialik NOX 135521 Wed Nov  2 18:00:00 2016
+Kiryat Bialik NOX 142721 Wed Nov  2 16:00:00 2016
+Kiryat Bialik NOX 146321 Wed Nov  2 15:00:00 2016
+Kiryat Bialik WDS 146321 Wed Nov  2 15:00:00 2016
+Kiryat Bialik WDS 142721 Wed Nov  2 16:00:00 2016
+Kiryat Bialik WDS 135521 Wed Nov  2 18:00:00 2016
+Kiryat Bialik WDS 139121 Wed Nov  2 17:00:00 2016
+Kiryat Bialik NO2 142721 Wed Nov  2 16:00:00 2016
+Kiryat Bialik NO2 146321 Wed Nov  2 15:00:00 2016
+Kiryat Bialik NO2 139121 Wed Nov  2 17:00:00 2016
+Kiryat Bialik NO2 135521 Wed Nov  2 18:00:00 2016
+Kiryat Bialik NO 142721 Wed Nov  2 16:00:00 2016
+Kiryat Bialik NO 146321 Wed Nov  2 15:00:00 2016
+Kiryat Bialik NO 139121 Wed Nov  2 17:00:00 2016
+Kiryat Bialik NO 135521 Wed Nov  2 18:00:00 2016
+Kiryat Bialik WDD 146321 Wed Nov  2 15:00:00 2016
+Kiryat Bialik WDD 142721 Wed Nov  2 16:00:00 2016
+Kiryat Bialik WDD 135521 Wed Nov  2 18:00:00 2016
+Kiryat Bialik WDD 139121 Wed Nov  2 17:00:00 2016
+Gadiv-PAREX NOx Dry 146321 Wed Nov  2 15:00:00 2016
+Gadiv-PAREX NOx Dry 142721 Wed Nov  2 16:00:00 2016
+Gadiv-PAREX NOx Dry 72897 Tue Nov 15 23:00:00 2016
+Gadiv-PAREX NOx Dry 139121 Wed Nov  2 17:00:00 2016
+Gadiv-PAREX NOx Dry 149921 Wed Nov  2 14:00:00 2016
+Gadiv-PAREX NOx Dry 201391 Thu Dec  1 00:00:00 2016
+Gadiv new Benzene-Namal 146321 Wed Nov  2 15:00:00 2016
+Gadiv new Benzene-Namal 142721 Wed Nov  2 16:00:00 2016
+Gadiv new Benzene-Namal 201391 Thu Dec  1 00:00:00 2016
+Gadiv new Benzene-Namal 72897 Tue Nov 15 23:00:00 2016
+Gadiv new Benzene-Namal 139121 Wed Nov  2 17:00:00 2016
+Gadiv new Benzene-Namal 149921 Wed Nov  2 14:00:00 2016
+BAZAN-ISOM NOx Dry 201391 Thu Dec  1 00:00:00 2016
+BAZAN-ISOM NOx Dry 139121 Wed Nov  2 17:00:00 2016
+BAZAN-ISOM NOx Dry 149921 Wed Nov  2 14:00:00 2016
+BAZAN-ISOM NOx Dry 72897 Tue Nov 15 23:00:00 2016
+BAZAN-ISOM NOx Dry 142721 Wed Nov  2 16:00:00 2016
+BAZAN-ISOM NOx Dry 146321 Wed Nov  2 15:00:00 2016
+Gadiv-XYl2 NOx Dry 72897 Tue Nov 15 23:00:00 2016
+Gadiv-XYl2 NOx Dry 139121 Wed Nov  2 17:00:00 2016
+Gadiv-XYl2 NOx Dry 149921 Wed Nov  2 14:00:00 2016
+Gadiv-XYl2 NOx Dry 201391 Thu Dec  1 00:00:00 2016
+Gadiv-XYl2 NOx Dry 146321 Wed Nov  2 15:00:00 2016
+Gadiv-XYl2 NOx Dry 142721 Wed Nov  2 16:00:00 2016
+GADIV CTO BENZN 146321 Wed Nov  2 15:00:00 2016
+GADIV CTO BENZN 142721 Wed Nov  2 16:00:00 2016
+GADIV CTO BENZN 149921 Wed Nov  2 14:00:00 2016
+GADIV CTO BENZN 139121 Wed Nov  2 17:00:00 2016
+Haifa g-40 NG 146321 Wed Nov  2 15:00:00 2016
+Haifa g-40 NG 142721 Wed Nov  2 16:00:00 2016
+Haifa g-40 NG 135521 Wed Nov  2 18:00:00 2016
+Haifa g-40 NG 139121 Wed Nov  2 17:00:00 2016
+Haifa g-40 FO 142721 Wed Nov  2 16:00:00 2016
+Haifa g-40 FO 146321 Wed Nov  2 15:00:00 2016
+Haifa g-40 FO 139121 Wed Nov  2 17:00:00 2016
+Haifa g-40 FO 135521 Wed Nov  2 18:00:00 2016
+Haifa g-40 WIND-V6 142721 Wed Nov  2 16:00:00 2016
+Haifa g-40 WIND-V6 146321 Wed Nov  2 15:00:00 2016
+Haifa g-40 WIND-V6 139121 Wed Nov  2 17:00:00 2016
+Haifa g-40 WIND-V6 135521 Wed Nov  2 18:00:00 2016
+Haifa g-40 NOX 142721 Wed Nov  2 16:00:00 2016
+Haifa g-40 NOX 146321 Wed Nov  2 15:00:00 2016
+Haifa g-40 NOX 139121 Wed Nov  2 17:00:00 2016
+Haifa g-40 NOX 135521 Wed Nov  2 18:00:00 2016
+Haifa g-40 MW-AVG 142721 Wed Nov  2 16:00:00 2016
+Haifa g-40 MW-AVG 146321 Wed Nov  2 15:00:00 2016
+Haifa g-40 MW-AVG 139121 Wed Nov  2 17:00:00 2016
+Haifa g-40 MW-AVG 135521 Wed Nov  2 18:00:00 2016
+Haifa g-40 WIND-DIR 139121 Wed Nov  2 17:00:00 2016
+Haifa g-40 WIND-DIR 135521 Wed Nov  2 18:00:00 2016
+Haifa g-40 WIND-DIR 142721 Wed Nov  2 16:00:00 2016
+Haifa g-40 WIND-DIR 146321 Wed Nov  2 15:00:00 2016
+Bazan-CU3 NOx Dry 142721 Wed Nov  2 16:00:00 2016
+Bazan-CU3 NOx Dry 146321 Wed Nov  2 15:00:00 2016
+Bazan-CU3 NOx Dry 149921 Wed Nov  2 14:00:00 2016
+Bazan-CU3 NOx Dry 139121 Wed Nov  2 17:00:00 2016
+Bazan-CU3 NOx Dry 72897 Tue Nov 15 23:00:00 2016
+Bazan-CU3 NOx Dry 201391 Thu Dec  1 00:00:00 2016
+BAZAN-B31 Stack_NOx 139121 Wed Nov  2 17:00:00 2016
+BAZAN-B31 Stack_NOx 149921 Wed Nov  2 14:00:00 2016
+BAZAN-B31 Stack_NOx 72897 Tue Nov 15 23:00:00 2016
+BAZAN-B31 Stack_NOx 201391 Thu Dec  1 00:00:00 2016
+BAZAN-B31 Stack_NOx 142721 Wed Nov  2 16:00:00 2016
+BAZAN-B31 Stack_NOx 146321 Wed Nov  2 15:00:00 2016
+Gadiv-TOL NOx Dry 201391 Thu Dec  1 00:00:00 2016
+Gadiv-TOL NOx Dry 72897 Tue Nov 15 23:00:00 2016
+Gadiv-TOL NOx Dry 149921 Wed Nov  2 14:00:00 2016
+Gadiv-TOL NOx Dry 139121 Wed Nov  2 17:00:00 2016
+Gadiv-TOL NOx Dry 146321 Wed Nov  2 15:00:00 2016
+Gadiv-TOL NOx Dry 142721 Wed Nov  2 16:00:00 2016

@@ -1,0 +1,86 @@
+mahzam 40 NG 36600 Fri Jan 13 00:00:00 2017
+mahzam 40 WIND-DIR 36600 Fri Jan 13 00:00:00 2017
+mahzam 40 MW-AVG 36600 Fri Jan 13 00:00:00 2017
+mahzam 40 WIND-V6 36600 Fri Jan 13 00:00:00 2017
+mahzam 40 NOXEMISS 36600 Fri Jan 13 00:00:00 2017
+mahzam 40 NOX 36600 Fri Jan 13 00:00:00 2017
+mahzam 40 FO 36600 Fri Jan 13 00:00:00 2017
+Haifa g-40 FO 36600 Fri Jan 13 00:00:00 2017
+Haifa g-40 NOX 36600 Fri Jan 13 00:00:00 2017
+Haifa g-40 WIND-V6 36600 Fri Jan 13 00:00:00 2017
+Haifa g-40 MW-AVG 36600 Fri Jan 13 00:00:00 2017
+Haifa g-40 WIND-DIR 36600 Fri Jan 13 00:00:00 2017
+Haifa g-40 NG 36600 Fri Jan 13 00:00:00 2017
+Carmelia WDS 40200 Sun Jan  1 02:00:00 2017
+Carmelia WDS 47400 Sun Jan  1 00:00:00 2017
+Carmelia WDS 36600 Sun Jan  1 03:00:00 2017
+Carmelia WDS 43800 Sun Jan  1 01:00:00 2017
+Carmelia LAeq 40200 Sun Jan  1 02:00:00 2017
+Carmelia LAeq 47400 Sun Jan  1 00:00:00 2017
+Carmelia LAeq 36600 Sun Jan  1 03:00:00 2017
+Carmelia LAeq 43800 Sun Jan  1 01:00:00 2017
+Carmelia PM10 40200 Sun Jan  1 02:00:00 2017
+Carmelia PM10 47400 Sun Jan  1 00:00:00 2017
+Carmelia PM10 43800 Sun Jan  1 01:00:00 2017
+Carmelia PM10 36600 Sun Jan  1 03:00:00 2017
+Carmelia RH 40200 Sun Jan  1 02:00:00 2017
+Carmelia RH 47400 Sun Jan  1 00:00:00 2017
+Carmelia RH 36600 Sun Jan  1 03:00:00 2017
+Carmelia RH 43800 Sun Jan  1 01:00:00 2017
+Carmelia TEMP 40200 Sun Jan  1 02:00:00 2017
+Carmelia TEMP 47400 Sun Jan  1 00:00:00 2017
+Carmelia TEMP 36600 Sun Jan  1 03:00:00 2017
+Carmelia TEMP 43800 Sun Jan  1 01:00:00 2017
+Carmelia LXeq 47400 Sun Jan  1 00:00:00 2017
+Carmelia LXeq 43800 Sun Jan  1 01:00:00 2017
+Carmelia LXeq 36600 Sun Jan  1 03:00:00 2017
+Carmelia LXeq 40200 Sun Jan  1 02:00:00 2017
+Carmelia WDD 47400 Sun Jan  1 00:00:00 2017
+Carmelia WDD 43800 Sun Jan  1 01:00:00 2017
+Carmelia WDD 36600 Sun Jan  1 03:00:00 2017
+Carmelia WDD 40200 Sun Jan  1 02:00:00 2017
+Carmelia LAF_max 36600 Sun Jan  1 03:00:00 2017
+Carmelia LAF_max 43800 Sun Jan  1 01:00:00 2017
+Carmelia LAF_max 47400 Sun Jan  1 00:00:00 2017
+Carmelia LAF_max 40200 Sun Jan  1 02:00:00 2017
+Carmelia NO 47400 Sun Jan  1 00:00:00 2017
+Carmelia NO 36600 Sun Jan  1 03:00:00 2017
+Carmelia NO 43800 Sun Jan  1 01:00:00 2017
+Carmelia LXpk_max 43800 Sun Jan  1 01:00:00 2017
+Carmelia LXpk_max 36600 Sun Jan  1 03:00:00 2017
+Carmelia LXpk_max 47400 Sun Jan  1 00:00:00 2017
+Carmelia LXpk_max 40200 Sun Jan  1 02:00:00 2017
+Carmelia NOX 47400 Sun Jan  1 00:00:00 2017
+Carmelia NOX 36600 Sun Jan  1 03:00:00 2017
+Carmelia NOX 43800 Sun Jan  1 01:00:00 2017
+Carmelia CO 47400 Sun Jan  1 00:00:00 2017
+Carmelia CO 43800 Sun Jan  1 01:00:00 2017
+Carmelia CO 40200 Sun Jan  1 02:00:00 2017
+Carmelia LAim 47400 Sun Jan  1 00:00:00 2017
+Carmelia LAim 43800 Sun Jan  1 01:00:00 2017
+Carmelia LAim 36600 Sun Jan  1 03:00:00 2017
+Carmelia LAim 40200 Sun Jan  1 02:00:00 2017
+Carmelia LAF_min 40200 Sun Jan  1 02:00:00 2017
+Carmelia LAF_min 36600 Sun Jan  1 03:00:00 2017
+Carmelia LAF_min 43800 Sun Jan  1 01:00:00 2017
+Carmelia LAF_min 47400 Sun Jan  1 00:00:00 2017
+Carmelia ITemp 47400 Sun Jan  1 00:00:00 2017
+Carmelia ITemp 36600 Sun Jan  1 03:00:00 2017
+Carmelia ITemp 43800 Sun Jan  1 01:00:00 2017
+Carmelia ITemp 40200 Sun Jan  1 02:00:00 2017
+Carmelia NO2 47400 Sun Jan  1 00:00:00 2017
+Carmelia NO2 43800 Sun Jan  1 01:00:00 2017
+Carmelia NO2 36600 Sun Jan  1 03:00:00 2017
+Haifa g-30 WIND-V6 36600 Fri Jan 13 00:00:00 2017
+Haifa g-30 NOX 36600 Fri Jan 13 00:00:00 2017
+Haifa g-30 FO 36600 Fri Jan 13 00:00:00 2017
+Haifa g-30 NG 36600 Fri Jan 13 00:00:00 2017
+Haifa g-30 WIND-DIR 36600 Fri Jan 13 00:00:00 2017
+Haifa g-30 MW-AVG 36600 Fri Jan 13 00:00:00 2017
+mahzam 30 NOX 36600 Fri Jan 13 00:00:00 2017
+mahzam 30 FO 36600 Fri Jan 13 00:00:00 2017
+mahzam 30 NOXEMISS 36600 Fri Jan 13 00:00:00 2017
+mahzam 30 WIND-V6 36600 Fri Jan 13 00:00:00 2017
+mahzam 30 MW-AVG 36600 Fri Jan 13 00:00:00 2017
+mahzam 30 NG 36600 Fri Jan 13 00:00:00 2017
+mahzam 30 WIND-DIR 36600 Fri Jan 13 00:00:00 2017

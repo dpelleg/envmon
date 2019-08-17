@@ -1,0 +1,93 @@
+bazan NOx emission rate B11-Nox emission rate 118770 Thu Dec  1 23:00:00 2016
+bazan NOx emission rate CU3-Nox emission rate 118770 Thu Dec  1 23:00:00 2016
+bazan NOx emission rate IHDA-GO-Nox emission rate 118770 Thu Dec  1 23:00:00 2016
+bazan NOx emission rate B21-Nox emission rate 118770 Thu Dec  1 23:00:00 2016
+bazan NOx emission rate CU1-Nox emission rate 118770 Thu Dec  1 23:00:00 2016
+bazan NOx emission rate B201B-Nox emission rate 118770 Thu Dec  1 23:00:00 2016
+bazan NOx emission rate CCR-Nox emission rate 118770 Thu Dec  1 23:00:00 2016
+bazan NOx emission rate CU1-B4-Nox emission rate 118770 Thu Dec  1 23:00:00 2016
+bazan NOx emission rate ISOM-Nox emission rate 118770 Thu Dec  1 23:00:00 2016
+bazan NOx emission rate HDS-Nox emission rate 118770 Thu Dec  1 23:00:00 2016
+bazan NOx emission rate HPU-Nox emission rate 118770 Thu Dec  1 23:00:00 2016
+bazan NOx emission rate HCU-Nox emission rate 118770 Thu Dec  1 23:00:00 2016
+bazan NOx emission rate B31-Nox emission rate 118770 Thu Dec  1 23:00:00 2016
+bazan NOx emission rate CU4-Nox emission rate 118770 Thu Dec  1 23:00:00 2016
+Neve Yosef ITemp 40200 Thu Dec  1 04:00:00 2016
+Neve Yosef ITemp 40200 Mon Dec 26 04:00:00 2016
+Neve Yosef RH 40200 Thu Dec  1 04:00:00 2016
+Neve Yosef RH 40200 Mon Dec 26 04:00:00 2016
+Neve Yosef WDD 40200 Mon Dec 26 04:00:00 2016
+Neve Yosef WDD 40200 Thu Dec  1 04:00:00 2016
+Neve Yosef TEMP 40200 Thu Dec  1 04:00:00 2016
+Neve Yosef TEMP 40200 Mon Dec 26 04:00:00 2016
+Neve Yosef PM10 40200 Thu Dec  1 04:00:00 2016
+Neve Yosef WDS 40200 Mon Dec 26 04:00:00 2016
+Neve Yosef WDS 40200 Thu Dec  1 04:00:00 2016
+Carmelia CO 40201 Sat Dec 24 00:00:00 2016
+Carmelia CO 36601 Sat Dec 24 01:00:00 2016
+Carmelia RH 36601 Sat Dec 24 01:00:00 2016
+Carmelia RH 40201 Sat Dec 24 00:00:00 2016
+Carmelia TEMP 36601 Sat Dec 24 01:00:00 2016
+Carmelia TEMP 40201 Sat Dec 24 00:00:00 2016
+Carmelia LAF_min 36601 Sat Dec 24 01:00:00 2016
+Carmelia LAF_min 40201 Sat Dec 24 00:00:00 2016
+Carmelia WDS 36601 Sat Dec 24 01:00:00 2016
+Carmelia WDS 40201 Sat Dec 24 00:00:00 2016
+Carmelia LAF_max 40201 Sat Dec 24 00:00:00 2016
+Carmelia LAF_max 36601 Sat Dec 24 01:00:00 2016
+Carmelia ITemp 40201 Sat Dec 24 00:00:00 2016
+Carmelia ITemp 36601 Sat Dec 24 01:00:00 2016
+Carmelia LXeq 40201 Sat Dec 24 00:00:00 2016
+Carmelia LXeq 36601 Sat Dec 24 01:00:00 2016
+Carmelia LAeq 36601 Sat Dec 24 01:00:00 2016
+Carmelia LAeq 40201 Sat Dec 24 00:00:00 2016
+Carmelia WDD 36601 Sat Dec 24 01:00:00 2016
+Carmelia WDD 40201 Sat Dec 24 00:00:00 2016
+Carmelia LAim 40201 Sat Dec 24 00:00:00 2016
+Carmelia LAim 36601 Sat Dec 24 01:00:00 2016
+Carmelia LXpk_max 40201 Sat Dec 24 00:00:00 2016
+Carmelia LXpk_max 36601 Sat Dec 24 01:00:00 2016
+Carmelia PM10 40201 Sat Dec 24 00:00:00 2016
+Carmelia PM10 36601 Sat Dec 24 01:00:00 2016
+Delek TOC 40200 Tue Dec  6 03:00:00 2016
+Delek TOC 36600 Tue Dec  6 04:00:00 2016
+Delek TOC 51000 Tue Dec  6 00:00:00 2016
+Delek TOC 43800 Tue Dec  6 02:00:00 2016
+Delek TOC 47400 Tue Dec  6 01:00:00 2016
+Kiryat Ata NO 51001 Tue Dec 13 00:00:00 2016
+Kiryat Ata NO 47401 Tue Dec 13 01:00:00 2016
+Kiryat Ata NO 36601 Tue Dec 13 04:00:00 2016
+Kiryat Ata NO2 51001 Tue Dec 13 00:00:00 2016
+Kiryat Ata NO2 47401 Tue Dec 13 01:00:00 2016
+Kiryat Ata NO2 36601 Tue Dec 13 04:00:00 2016
+Kiryat Ata NOX 51001 Tue Dec 13 00:00:00 2016
+Kiryat Ata NOX 36601 Tue Dec 13 04:00:00 2016
+Kiryat Ata NOX 47401 Tue Dec 13 01:00:00 2016
+Paz TOC 61800 Sat Dec 24 07:00:00 2016
+Paz TOC 51000 Sat Dec 24 10:00:00 2016
+Paz TOC 54600 Sat Dec 24 09:00:00 2016
+Paz TOC 69000 Sat Dec 24 05:00:00 2016
+Paz TOC 76200 Sat Dec 24 03:00:00 2016
+Paz TOC 47400 Sat Dec 24 11:00:00 2016
+Paz TOC 83400 Sat Dec 24 01:00:00 2016
+Paz TOC 40200 Sat Dec 24 13:00:00 2016
+Paz TOC 79800 Sat Dec 24 02:00:00 2016
+Paz TOC 87000 Sat Dec 24 00:00:00 2016
+Paz TOC 43800 Sat Dec 24 12:00:00 2016
+Paz TOC 58200 Sat Dec 24 08:00:00 2016
+Paz TOC 65400 Sat Dec 24 06:00:00 2016
+Paz TOC 36600 Sat Dec 24 14:00:00 2016
+Paz TOC 72600 Sat Dec 24 04:00:00 2016
+Deshanim NOX 40200 Sun Dec 11 03:00:00 2016
+Deshanim NOX 43800 Sun Dec 11 02:00:00 2016
+Deshanim NOX 47400 Sun Dec 11 01:00:00 2016
+Deshanim NOX 36600 Sun Dec 11 04:00:00 2016
+Deshanim Status 40200 Sun Dec 11 03:00:00 2016
+Deshanim Status 47400 Sun Dec 11 01:00:00 2016
+Deshanim Status 36600 Sun Dec 11 04:00:00 2016
+Deshanim Status 43800 Sun Dec 11 02:00:00 2016
+Gadiv Nox emission rate As-Nox emission rate 118770 Thu Dec  1 23:00:00 2016
+Gadiv Nox emission rate Boiler-Nox emission rate 118770 Thu Dec  1 23:00:00 2016
+Gadiv Nox emission rate xyl-Nox emission rate 118770 Thu Dec  1 23:00:00 2016
+Gadiv Nox emission rate Parex-Nox emission rate 118770 Thu Dec  1 23:00:00 2016
+Gadiv Nox emission rate Toluene-Nox emission rate 118770 Thu Dec  1 23:00:00 2016

@@ -1,0 +1,218 @@
+min -13.7 Bazan-CU3 NOx Dry: mean -13.0 from Sun Jan 15 12:00:00 2017 to Sun Jan 15 15:00:00 2017 for 3 hours
+min -12.0 Bazan-CU3 NOx Dry: mean -7.5 from Tue Jan 17 16:00:00 2017 to Tue Jan 17 20:00:00 2017 for 4 hours
+min -8.8 Bazan-CU3 NOx Dry: mean -8.8 from Thu Feb 23 15:00:00 2017 to Thu Feb 23 17:00:00 2017 for 2 hours
+min -3.1 Bazan-CU3 NOx Dry: mean -3.1 from Mon Feb 27 08:00:00 2017 to Mon Feb 27 10:00:00 2017 for 2 hours
+min -15.0 TARO TOC: mean -11.2 from Sun Feb 26 09:00:00 2017 to Sun Feb 26 13:00:00 2017 for 4 hours
+min -5.9 Kiryat Ata pm(10-2.5): mean -5.9 from Tue Jan  3 13:00:00 2017 to Tue Jan  3 14:00:00 2017 for 1 hours
+min -4.2 Kiryat Ata pm(10-2.5): mean -4.2 from Wed Jan  4 12:00:00 2017 to Wed Jan  4 13:00:00 2017 for 1 hours
+min -2.6 Kiryat Ata pm(10-2.5): mean -2.6 from Thu Jan  5 12:00:00 2017 to Thu Jan  5 13:00:00 2017 for 1 hours
+min -1.8 Kiryat Ata pm(10-2.5): mean -1.8 from Mon Jan  9 16:00:00 2017 to Mon Jan  9 17:00:00 2017 for 1 hours
+min -7.6 Kiryat Ata pm(10-2.5): mean -7.6 from Sat Jan 21 12:00:00 2017 to Sat Jan 21 13:00:00 2017 for 1 hours
+min -3.2 Kiryat Ata pm(10-2.5): mean -3.2 from Sat Jan 28 00:00:00 2017 to Sat Jan 28 01:00:00 2017 for 1 hours
+min -10.4 Kiryat Ata pm(10-2.5): mean -10.4 from Tue Feb  7 03:00:00 2017 to Tue Feb  7 04:00:00 2017 for 1 hours
+min -1.8 Kiryat Ata pm(10-2.5): mean -1.8 from Sun Feb 12 05:00:00 2017 to Sun Feb 12 06:00:00 2017 for 1 hours
+min -22.8 Kiryat Ata pm(10-2.5): mean -13.7 from Sun Feb 12 09:00:00 2017 to Sun Feb 12 11:00:00 2017 for 2 hours
+min -29.4 Kiryat Ata pm(10-2.5): mean -29.4 from Mon Feb 13 11:00:00 2017 to Mon Feb 13 12:00:00 2017 for 1 hours
+min -12.4 Kiryat Ata pm(10-2.5): mean -12.4 from Mon Feb 13 15:00:00 2017 to Mon Feb 13 16:00:00 2017 for 1 hours
+min -5.6 Kiryat Ata pm(10-2.5): mean -5.6 from Tue Feb 14 02:00:00 2017 to Tue Feb 14 03:00:00 2017 for 1 hours
+min -13.1 Kiryat Ata pm(10-2.5): mean -13.1 from Tue Feb 14 13:00:00 2017 to Tue Feb 14 14:00:00 2017 for 1 hours
+min -4.8 Kiryat Ata pm(10-2.5): mean -4.8 from Tue Feb 14 16:00:00 2017 to Tue Feb 14 18:00:00 2017 for 2 hours
+min -1.6 Kiryat Ata pm(10-2.5): mean -1.6 from Tue Feb 14 22:00:00 2017 to Tue Feb 14 23:00:00 2017 for 1 hours
+min -2.6 Kiryat Ata pm(10-2.5): mean -2.6 from Wed Feb 15 06:00:00 2017 to Wed Feb 15 07:00:00 2017 for 1 hours
+min -29.8 Kiryat Ata pm(10-2.5): mean -29.8 from Wed Feb 15 09:00:00 2017 to Wed Feb 15 10:00:00 2017 for 1 hours
+min -19.4 Kiryat Ata pm(10-2.5): mean -19.4 from Wed Feb 15 12:00:00 2017 to Wed Feb 15 13:00:00 2017 for 1 hours
+min -2.3 Kiryat Ata pm(10-2.5): mean -2.3 from Wed Feb 15 18:00:00 2017 to Wed Feb 15 19:00:00 2017 for 1 hours
+min -2.2 Kiryat Ata pm(10-2.5): mean -2.2 from Wed Feb 15 20:00:00 2017 to Wed Feb 15 21:00:00 2017 for 1 hours
+min -3.8 Kiryat Ata pm(10-2.5): mean -3.8 from Thu Feb 16 10:00:00 2017 to Thu Feb 16 11:00:00 2017 for 1 hours
+min -17.7 Kiryat Ata pm(10-2.5): mean -11.1 from Thu Feb 16 14:00:00 2017 to Thu Feb 16 16:00:00 2017 for 2 hours
+min -6.2 Kiryat Ata pm(10-2.5): mean -6.2 from Fri Feb 17 11:00:00 2017 to Fri Feb 17 12:00:00 2017 for 1 hours
+min -1.4 Kiryat Ata pm(10-2.5): mean -1.4 from Tue Feb 21 17:00:00 2017 to Tue Feb 21 18:00:00 2017 for 1 hours
+min -22.0 Kiryat Ata pm(10-2.5): mean -22.0 from Sat Feb 25 06:00:00 2017 to Sat Feb 25 07:00:00 2017 for 1 hours
+min -6.3 Kiryat Ata pm(10-2.5): mean -6.3 from Sun Feb 26 15:00:00 2017 to Sun Feb 26 16:00:00 2017 for 1 hours
+min -37.4 Kiryat Ata pm(10-2.5): mean -28.4 from Mon Feb 27 01:00:00 2017 to Mon Feb 27 04:00:00 2017 for 3 hours
+min -2.2 Kiryat Ata PM10: mean -2.2 from Wed Jan  4 12:00:00 2017 to Wed Jan  4 13:00:00 2017 for 1 hours
+min -5.1 Kiryat Ata PM10: mean -5.1 from Sat Jan 28 00:00:00 2017 to Sat Jan 28 01:00:00 2017 for 1 hours
+min -2.6 Kiryat Ata PM10: mean -2.6 from Sun Feb 12 10:00:00 2017 to Sun Feb 12 11:00:00 2017 for 1 hours
+min -10.4 Kiryat Ata PM10: mean -10.4 from Mon Feb 13 15:00:00 2017 to Mon Feb 13 16:00:00 2017 for 1 hours
+min -5.0 Kiryat Ata PM10: mean -3.5 from Tue Feb 14 16:00:00 2017 to Tue Feb 14 18:00:00 2017 for 2 hours
+min -1.2 Kiryat Ata PM10: mean -1.2 from Wed Feb 15 06:00:00 2017 to Wed Feb 15 07:00:00 2017 for 1 hours
+min -5.1 Kiryat Ata PM10: mean -5.1 from Fri Feb 17 11:00:00 2017 to Fri Feb 17 12:00:00 2017 for 1 hours
+min -4.1 Kiryat Ata PM10: mean -4.1 from Tue Feb 21 17:00:00 2017 to Tue Feb 21 18:00:00 2017 for 1 hours
+min -4.1 Kiryat Ata PM10: mean -4.1 from Sat Feb 25 06:00:00 2017 to Sat Feb 25 07:00:00 2017 for 1 hours
+min -8.0 Kiryat Ata PM10: mean -8.0 from Sun Feb 26 15:00:00 2017 to Sun Feb 26 16:00:00 2017 for 1 hours
+min -5.1 Kiryat Ata PM2.5: mean -5.1 from Tue Jan  3 13:00:00 2017 to Tue Jan  3 14:00:00 2017 for 1 hours
+min -1.8 Kiryat Ata PM2.5: mean -1.8 from Tue Jan  3 15:00:00 2017 to Tue Jan  3 16:00:00 2017 for 1 hours
+min -1.8 Kiryat Ata PM2.5: mean -1.8 from Tue Jan  3 17:00:00 2017 to Tue Jan  3 18:00:00 2017 for 1 hours
+min -2.9 Kiryat Ata PM2.5: mean -2.9 from Wed Jan  4 13:00:00 2017 to Wed Jan  4 14:00:00 2017 for 1 hours
+min -1.3 Kiryat Ata PM2.5: mean -1.3 from Fri Jan 13 16:00:00 2017 to Fri Jan 13 17:00:00 2017 for 1 hours
+min -3.8 Kiryat Ata PM2.5: mean -3.8 from Sat Jan 21 12:00:00 2017 to Sat Jan 21 13:00:00 2017 for 1 hours
+min -1.8 Kiryat Ata PM2.5: mean -1.8 from Thu Jan 26 12:00:00 2017 to Thu Jan 26 13:00:00 2017 for 1 hours
+min -1.5 Kiryat Ata PM2.5: mean -1.5 from Fri Jan 27 04:00:00 2017 to Fri Jan 27 05:00:00 2017 for 1 hours
+min -1.9 Kiryat Ata PM2.5: mean -1.9 from Sat Jan 28 00:00:00 2017 to Sat Jan 28 01:00:00 2017 for 1 hours
+min -2.3 Kiryat Ata PM2.5: mean -2.3 from Tue Jan 31 16:00:00 2017 to Tue Jan 31 17:00:00 2017 for 1 hours
+min -5.5 Kiryat Ata PM2.5: mean -5.5 from Wed Feb 15 12:00:00 2017 to Wed Feb 15 13:00:00 2017 for 1 hours
+min -1.1 Kiryat Ata PM2.5: mean -1.1 from Sun Feb 19 07:00:00 2017 to Sun Feb 19 08:00:00 2017 for 1 hours
+min -1.5 Kiryat Ata PM2.5: mean -1.5 from Sun Feb 19 13:00:00 2017 to Sun Feb 19 14:00:00 2017 for 1 hours
+min -2.3 Kiryat Ata PM2.5: mean -2.3 from Mon Feb 20 01:00:00 2017 to Mon Feb 20 02:00:00 2017 for 1 hours
+min -3.6 Kiryat Ata PM2.5: mean -3.6 from Mon Feb 20 05:00:00 2017 to Mon Feb 20 06:00:00 2017 for 1 hours
+min -5.4 Kiryat Ata PM2.5: mean -5.4 from Mon Feb 20 07:00:00 2017 to Mon Feb 20 08:00:00 2017 for 1 hours
+min -2.7 Kiryat Ata PM2.5: mean -2.7 from Mon Feb 20 09:00:00 2017 to Mon Feb 20 10:00:00 2017 for 1 hours
+min -1.2 Kiryat Ata PM2.5: mean -1.2 from Mon Feb 20 11:00:00 2017 to Mon Feb 20 12:00:00 2017 for 1 hours
+min -4.1 Kiryat Ata PM2.5: mean -4.1 from Mon Feb 20 13:00:00 2017 to Mon Feb 20 14:00:00 2017 for 1 hours
+min -2.7 Kiryat Ata PM2.5: mean -2.7 from Tue Feb 21 17:00:00 2017 to Tue Feb 21 18:00:00 2017 for 1 hours
+min -2.3 Kiryat Ata PM2.5: mean -2.3 from Sat Feb 25 13:00:00 2017 to Sat Feb 25 14:00:00 2017 for 1 hours
+min -1.1 Kiryat Ata PM2.5: mean -1.1 from Sun Feb 26 05:00:00 2017 to Sun Feb 26 06:00:00 2017 for 1 hours
+min -4.4 Kiryat Ata PM2.5: mean -4.4 from Sun Feb 26 07:00:00 2017 to Sun Feb 26 08:00:00 2017 for 1 hours
+min -2.9 Kiryat Ata PM2.5: mean -2.9 from Sun Feb 26 11:00:00 2017 to Sun Feb 26 12:00:00 2017 for 1 hours
+min -1.6 Kiryat Ata PM2.5: mean -1.6 from Sun Feb 26 15:00:00 2017 to Sun Feb 26 16:00:00 2017 for 1 hours
+min -8.8 Kiryat Ata PM2.5: mean -8.8 from Mon Feb 27 03:00:00 2017 to Mon Feb 27 04:00:00 2017 for 1 hours
+min -6 Mobile_New PM10: mean -6.0 from Tue Jan  3 17:00:00 2017 to Tue Jan  3 18:00:00 2017 for 1 hours
+min -7 Mobile_New PM10: mean -7.0 from Fri Jan 13 12:00:00 2017 to Fri Jan 13 13:00:00 2017 for 1 hours
+min -3 Mobile_New PM10: mean -3.0 from Fri Jan 27 00:00:00 2017 to Fri Jan 27 01:00:00 2017 for 1 hours
+min -4 Mobile_New PM10: mean -3.0 from Fri Jan 27 02:00:00 2017 to Fri Jan 27 04:00:00 2017 for 2 hours
+min -2 Mobile_New PM10: mean -2.0 from Fri Jan 27 07:00:00 2017 to Fri Jan 27 08:00:00 2017 for 1 hours
+min -4 Mobile_New PM10: mean -4.0 from Wed Feb  1 01:00:00 2017 to Wed Feb  1 02:00:00 2017 for 1 hours
+min -2 Mobile_New PM10: mean -2.0 from Tue Feb  7 00:00:00 2017 to Tue Feb  7 01:00:00 2017 for 1 hours
+min -8 Mobile_New PM10: mean -8.0 from Tue Feb 14 03:00:00 2017 to Tue Feb 14 04:00:00 2017 for 1 hours
+min -8 Mobile_New PM10: mean -5.5 from Wed Feb 15 06:00:00 2017 to Wed Feb 15 08:00:00 2017 for 2 hours
+min -10 Mobile_New PM10: mean -10.0 from Wed Feb 15 16:00:00 2017 to Wed Feb 15 17:00:00 2017 for 1 hours
+min -3 Mobile_New PM2.5: mean -3.0 from Tue Jan  3 22:00:00 2017 to Tue Jan  3 23:00:00 2017 for 1 hours
+min -4 Mobile_New PM2.5: mean -4.0 from Fri Jan 13 12:00:00 2017 to Fri Jan 13 13:00:00 2017 for 1 hours
+min -9 Mobile_New PM2.5: mean -9.0 from Sat Jan 21 12:00:00 2017 to Sat Jan 21 13:00:00 2017 for 1 hours
+min -4 Mobile_New PM2.5: mean -3.5 from Thu Jan 26 13:00:00 2017 to Thu Jan 26 15:00:00 2017 for 2 hours
+min -7 Mobile_New PM2.5: mean -5.7 from Tue Jan 31 12:00:00 2017 to Tue Jan 31 15:00:00 2017 for 3 hours
+min -3 Mobile_New PM2.5: mean -3.0 from Mon Feb  6 13:00:00 2017 to Mon Feb  6 14:00:00 2017 for 1 hours
+min -3 Mobile_New PM2.5: mean -3.0 from Mon Feb 13 11:00:00 2017 to Mon Feb 13 12:00:00 2017 for 1 hours
+min -4 Mobile_New PM2.5: mean -4.0 from Tue Feb 14 14:00:00 2017 to Tue Feb 14 15:00:00 2017 for 1 hours
+min -3.0496 bazan NOx emission rate CU3-Nox emission rate: mean -3.0 from Sun Jan 15 10:00:00 2017 to Sun Jan 15 11:00:00 2017 for 1 hours
+min -1219.2780 bazan NOx emission rate CU1-B4-Nox emission rate: mean -1205.1 from Thu Jan 19 01:00:00 2017 to Thu Jan 19 05:00:00 2017 for 4 hours
+min -1178.2820 bazan NOx emission rate CU1-B4-Nox emission rate: mean -1171.1 from Thu Jan 19 10:00:00 2017 to Thu Jan 19 12:00:00 2017 for 2 hours
+min -1192.5310 bazan NOx emission rate CU1-B4-Nox emission rate: mean -1181.0 from Thu Jan 19 14:00:00 2017 to Thu Jan 19 18:00:00 2017 for 4 hours
+min -1193.2310 bazan NOx emission rate CU1-B4-Nox emission rate: mean -1193.2 from Thu Jan 19 19:00:00 2017 to Thu Jan 19 20:00:00 2017 for 1 hours
+min -1216.1280 bazan NOx emission rate CU1-B4-Nox emission rate: mean -1216.1 from Fri Jan 20 19:00:00 2017 to Fri Jan 20 20:00:00 2017 for 1 hours
+min -1211.1290 bazan NOx emission rate CU1-B4-Nox emission rate: mean -1196.0 from Sat Jan 21 02:00:00 2017 to Sat Jan 21 09:00:00 2017 for 7 hours
+min -1184.4820 bazan NOx emission rate CU1-B4-Nox emission rate: mean -1180.9 from Sat Jan 21 10:00:00 2017 to Sat Jan 21 12:00:00 2017 for 2 hours
+min -1246.8250 bazan NOx emission rate CU1-B4-Nox emission rate: mean -1246.8 from Sun Jan 22 10:00:00 2017 to Sun Jan 22 11:00:00 2017 for 1 hours
+min -402.5597 bazan NOx emission rate B201B-Nox emission rate: mean -264.2 from Sun Jan 15 10:00:00 2017 to Sun Jan 15 16:00:00 2017 for 6 hours
+min -696.7803 bazan NOx emission rate B201B-Nox emission rate: mean -265.7 from Tue Jan 17 02:00:00 2017 to Tue Jan 17 08:00:00 2017 for 6 hours
+min -2664.6830 bazan NOx emission rate B201B-Nox emission rate: mean -2664.7 from Tue Jan 17 19:00:00 2017 to Tue Jan 17 20:00:00 2017 for 1 hours
+min -74.5425 bazan NOx emission rate CU4-Nox emission rate: mean -74.5 from Mon Jan  2 05:00:00 2017 to Mon Jan  2 06:00:00 2017 for 1 hours
+min -155.9 Carmelia LXpk_max: mean -155.9 from Mon Jan  2 13:00:00 2017 to Mon Jan  2 14:00:00 2017 for 1 hours
+min -65.1 Carmelia LXpk_max: mean -65.1 from Wed Jan  4 03:00:00 2017 to Wed Jan  4 04:00:00 2017 for 1 hours
+min -316.5 Carmelia LXpk_max: mean -247.6 from Mon Jan  9 11:00:00 2017 to Mon Jan  9 15:00:00 2017 for 4 hours
+min -62.2 Carmelia LXpk_max: mean -62.2 from Mon Feb 13 07:00:00 2017 to Mon Feb 13 08:00:00 2017 for 1 hours
+min -65.3 Carmelia LXpk_max: mean -65.3 from Mon Feb 13 23:00:00 2017 to Tue Feb 14 00:00:00 2017 for 1 hours
+min -53.1 Carmelia LXpk_max: mean -32.6 from Tue Feb 14 09:00:00 2017 to Tue Feb 14 11:00:00 2017 for 2 hours
+min -12.1 Bazan-CU3-B201B NOx Dry: mean -6.6 from Sun Jan 15 20:00:00 2017 to Sun Jan 15 22:00:00 2017 for 2 hours
+min -27.4 Bazan-CU3-B201B NOx Dry: mean -21.8 from Thu Feb 23 19:00:00 2017 to Fri Feb 24 20:00:00 2017 for 25 hours
+min -3.3 Ahuza PM2.5: mean -3.3 from Sun Feb 26 21:00:00 2017 to Sun Feb 26 22:00:00 2017 for 1 hours
+min -1.9 Ahuza PM2.5: mean -1.9 from Mon Feb 27 00:00:00 2017 to Mon Feb 27 01:00:00 2017 for 1 hours
+min -12.6 BAZAN-CCR NOx Dry: mean -9.7 from Sun Jan 15 12:00:00 2017 to Sun Jan 15 17:00:00 2017 for 5 hours
+min -1.21 Deshanim NOX: mean -1.2 from Mon Jan 30 04:00:00 2017 to Mon Jan 30 05:00:00 2017 for 1 hours
+min -1.52 Deshanim NOX: mean -1.3 from Mon Jan 30 06:00:00 2017 to Mon Jan 30 09:00:00 2017 for 3 hours
+min -1.01 Deshanim NOX: mean -1.0 from Tue Jan 31 18:00:00 2017 to Tue Jan 31 19:00:00 2017 for 1 hours
+min -1.58 Deshanim NOX: mean -1.3 from Wed Feb  1 00:00:00 2017 to Wed Feb  1 05:00:00 2017 for 5 hours
+min -1.86 Deshanim NOX: mean -1.5 from Wed Feb  1 07:00:00 2017 to Wed Feb  1 14:00:00 2017 for 7 hours
+min -1.45 Deshanim NOX: mean -1.4 from Fri Feb  3 22:00:00 2017 to Fri Feb  3 23:00:00 2017 for 1 hours
+min -1.75 Deshanim NOX: mean -1.8 from Mon Feb  6 03:00:00 2017 to Mon Feb  6 04:00:00 2017 for 1 hours
+min -2.33 Deshanim NOX: mean -1.8 from Mon Feb  6 05:00:00 2017 to Mon Feb  6 09:00:00 2017 for 4 hours
+min -2.27 Deshanim NOX: mean -1.9 from Fri Feb 17 04:00:00 2017 to Fri Feb 17 09:00:00 2017 for 5 hours
+min -1.4 Kiryat Tivon PM2.5: mean -1.4 from Sat Jan 21 12:00:00 2017 to Sat Jan 21 13:00:00 2017 for 1 hours
+min -3.2 Igud (check-post) PM10: mean -3.2 from Thu Jan 26 20:00:00 2017 to Thu Jan 26 21:00:00 2017 for 1 hours
+min -4.0 Igud (check-post) PM10: mean -3.4 from Thu Jan 26 22:00:00 2017 to Fri Jan 27 00:00:00 2017 for 2 hours
+min -2.0 Igud (check-post) PM10: mean -2.0 from Fri Jan 27 23:00:00 2017 to Sat Jan 28 00:00:00 2017 for 1 hours
+min -2.7 Igud (check-post) PM10: mean -2.7 from Sat Jan 28 23:00:00 2017 to Sun Jan 29 00:00:00 2017 for 1 hours
+min -8.8 Igud (check-post) PM10: mean -8.8 from Sun Jan 29 10:00:00 2017 to Sun Jan 29 11:00:00 2017 for 1 hours
+min -3.4 Igud (check-post) PM10: mean -3.4 from Tue Jan 31 13:00:00 2017 to Tue Jan 31 14:00:00 2017 for 1 hours
+min -8.2 Igud (check-post) PM10: mean -8.2 from Sat Feb  4 09:00:00 2017 to Sat Feb  4 10:00:00 2017 for 1 hours
+min -8.6 Igud (check-post) PM10: mean -8.6 from Sat Feb  4 21:00:00 2017 to Sat Feb  4 22:00:00 2017 for 1 hours
+min -5.2 Igud (check-post) PM10: mean -5.2 from Mon Feb  6 12:00:00 2017 to Mon Feb  6 13:00:00 2017 for 1 hours
+min -1.6 Igud (check-post) PM10: mean -1.6 from Tue Feb  7 06:00:00 2017 to Tue Feb  7 07:00:00 2017 for 1 hours
+min -1.2 Igud (check-post) PM10: mean -1.2 from Tue Feb 14 23:00:00 2017 to Wed Feb 15 00:00:00 2017 for 1 hours
+min -7.7 Igud (check-post) PM10: mean -7.7 from Wed Feb 15 06:00:00 2017 to Wed Feb 15 07:00:00 2017 for 1 hours
+min -6.6 Igud (check-post) PM10: mean -6.6 from Wed Feb 15 09:00:00 2017 to Wed Feb 15 12:00:00 2017 for 3 hours
+min -7.1 BAZAN-ISOM NOx Dry: mean -7.1 from Sun Jan 15 14:00:00 2017 to Sun Jan 15 15:00:00 2017 for 1 hours
+min -2.9 Neve Shaanan pm(10-2.5): mean -2.9 from Sun Jan  1 06:00:00 2017 to Sun Jan  1 07:00:00 2017 for 1 hours
+min -2.0 Neve Shaanan pm(10-2.5): mean -1.6 from Mon Jan  2 03:00:00 2017 to Mon Jan  2 05:00:00 2017 for 2 hours
+min -4.5 Neve Shaanan pm(10-2.5): mean -4.5 from Mon Jan  2 07:00:00 2017 to Mon Jan  2 08:00:00 2017 for 1 hours
+min -1.6 Neve Shaanan pm(10-2.5): mean -1.6 from Mon Jan  2 22:00:00 2017 to Mon Jan  2 23:00:00 2017 for 1 hours
+min -4.3 Neve Shaanan pm(10-2.5): mean -3.4 from Wed Jan  4 05:00:00 2017 to Wed Jan  4 07:00:00 2017 for 2 hours
+min -2.9 Neve Shaanan pm(10-2.5): mean -2.9 from Wed Jan  4 14:00:00 2017 to Wed Jan  4 15:00:00 2017 for 1 hours
+min -1.5 Neve Shaanan pm(10-2.5): mean -1.5 from Sat Jan  7 15:00:00 2017 to Sat Jan  7 16:00:00 2017 for 1 hours
+min -3.0 Neve Shaanan pm(10-2.5): mean -3.0 from Sun Jan 15 12:00:00 2017 to Sun Jan 15 13:00:00 2017 for 1 hours
+min -5.8 Neve Shaanan pm(10-2.5): mean -5.8 from Sun Jan 15 14:00:00 2017 to Sun Jan 15 15:00:00 2017 for 1 hours
+min -1.7 Neve Shaanan pm(10-2.5): mean -1.5 from Mon Jan 16 05:00:00 2017 to Mon Jan 16 07:00:00 2017 for 2 hours
+min -10.1 Neve Shaanan pm(10-2.5): mean -10.0 from Thu Jan 19 15:00:00 2017 to Thu Jan 19 17:00:00 2017 for 2 hours
+min -4.3 Neve Shaanan pm(10-2.5): mean -4.3 from Fri Jan 20 17:00:00 2017 to Fri Jan 20 18:00:00 2017 for 1 hours
+min -12.5 Neve Shaanan pm(10-2.5): mean -9.7 from Fri Jan 20 23:00:00 2017 to Sat Jan 21 01:00:00 2017 for 2 hours
+min -21.5 Neve Shaanan pm(10-2.5): mean -10.5 from Sat Jan 21 10:00:00 2017 to Sat Jan 21 13:00:00 2017 for 3 hours
+min -9.3 Neve Shaanan pm(10-2.5): mean -6.8 from Sat Jan 21 18:00:00 2017 to Sat Jan 21 21:00:00 2017 for 3 hours
+min -14.9 Neve Shaanan pm(10-2.5): mean -7.0 from Sat Jan 21 23:00:00 2017 to Sun Jan 22 07:00:00 2017 for 8 hours
+min -13.2 Neve Shaanan pm(10-2.5): mean -8.0 from Sun Jan 22 12:00:00 2017 to Sun Jan 22 14:00:00 2017 for 2 hours
+min -2.6 Neve Shaanan pm(10-2.5): mean -2.6 from Sun Jan 22 20:00:00 2017 to Sun Jan 22 21:00:00 2017 for 1 hours
+min -4.2 Neve Shaanan pm(10-2.5): mean -4.2 from Mon Jan 23 03:00:00 2017 to Mon Jan 23 04:00:00 2017 for 1 hours
+min -10.0 Neve Shaanan pm(10-2.5): mean -6.2 from Mon Jan 23 05:00:00 2017 to Mon Jan 23 07:00:00 2017 for 2 hours
+min -2.1 Neve Shaanan pm(10-2.5): mean -2.1 from Mon Jan 23 20:00:00 2017 to Mon Jan 23 21:00:00 2017 for 1 hours
+min -6.0 Neve Shaanan pm(10-2.5): mean -5.9 from Mon Jan 23 22:00:00 2017 to Tue Jan 24 00:00:00 2017 for 2 hours
+min -5.0 Neve Shaanan pm(10-2.5): mean -5.0 from Mon Feb 13 03:00:00 2017 to Mon Feb 13 04:00:00 2017 for 1 hours
+min -1.4 Neve Shaanan pm(10-2.5): mean -1.4 from Mon Feb 13 13:00:00 2017 to Mon Feb 13 14:00:00 2017 for 1 hours
+min -5.3 Neve Shaanan pm(10-2.5): mean -3.2 from Tue Feb 14 17:00:00 2017 to Tue Feb 14 19:00:00 2017 for 2 hours
+min -1.2 Neve Shaanan pm(10-2.5): mean -1.2 from Wed Feb 15 08:00:00 2017 to Wed Feb 15 13:00:00 2017 for 5 hours
+min -4.4 Neve Shaanan PM10: mean -2.9 from Wed Jan  4 05:00:00 2017 to Wed Jan  4 07:00:00 2017 for 2 hours
+min -9.5 Neve Shaanan PM10: mean -6.9 from Fri Jan 20 23:00:00 2017 to Sat Jan 21 01:00:00 2017 for 2 hours
+min -1.8 Neve Shaanan PM10: mean -1.8 from Sat Jan 21 10:00:00 2017 to Sat Jan 21 13:00:00 2017 for 3 hours
+min -1.8 Neve Shaanan PM10: mean -1.8 from Sat Jan 21 18:00:00 2017 to Sat Jan 21 19:00:00 2017 for 1 hours
+min -6.3 Neve Shaanan PM10: mean -6.2 from Sat Jan 21 23:00:00 2017 to Sun Jan 22 01:00:00 2017 for 2 hours
+min -9.5 Neve Shaanan PM2.5: mean -7.9 from Sun Feb 19 13:00:00 2017 to Sun Feb 19 15:00:00 2017 for 2 hours
+min -2.2 Nesher PM10: mean -2.2 from Sun Jan  1 04:00:00 2017 to Sun Jan  1 05:00:00 2017 for 1 hours
+min -5.7 Nesher PM10: mean -5.7 from Sun Jan  1 12:00:00 2017 to Sun Jan  1 13:00:00 2017 for 1 hours
+min -6.3 Nesher PM10: mean -6.3 from Mon Jan  2 22:00:00 2017 to Mon Jan  2 23:00:00 2017 for 1 hours
+min -7.4 Nesher PM10: mean -7.4 from Tue Jan  3 12:00:00 2017 to Tue Jan  3 13:00:00 2017 for 1 hours
+min -10.2 Nesher PM10: mean -10.2 from Mon Jan  9 15:00:00 2017 to Mon Jan  9 16:00:00 2017 for 1 hours
+min -8.7 Nesher PM10: mean -8.7 from Wed Jan 11 23:00:00 2017 to Thu Jan 12 00:00:00 2017 for 1 hours
+min -1.2 Nesher PM10: mean -1.2 from Fri Jan 13 15:00:00 2017 to Fri Jan 13 16:00:00 2017 for 1 hours
+min -4.0 Nesher PM10: mean -4.0 from Fri Jan 13 18:00:00 2017 to Fri Jan 13 19:00:00 2017 for 1 hours
+min -5.9 Nesher PM10: mean -5.6 from Sat Jan 21 11:00:00 2017 to Sat Jan 21 13:00:00 2017 for 2 hours
+min -1.3 Nesher PM10: mean -1.3 from Thu Jan 26 12:00:00 2017 to Thu Jan 26 13:00:00 2017 for 1 hours
+min -1.8 Nesher PM10: mean -1.8 from Thu Jan 26 14:00:00 2017 to Thu Jan 26 15:00:00 2017 for 1 hours
+min -5.0 Nesher pm(10-2.5): mean -5.0 from Sun Jan  1 04:00:00 2017 to Sun Jan  1 05:00:00 2017 for 1 hours
+min -6.5 Nesher pm(10-2.5): mean -6.5 from Sun Jan  1 12:00:00 2017 to Sun Jan  1 13:00:00 2017 for 1 hours
+min -3.5 Nesher pm(10-2.5): mean -3.5 from Mon Jan  2 14:00:00 2017 to Mon Jan  2 15:00:00 2017 for 1 hours
+min -10.7 Nesher pm(10-2.5): mean -10.7 from Mon Jan  2 22:00:00 2017 to Mon Jan  2 23:00:00 2017 for 1 hours
+min -7.6 Nesher pm(10-2.5): mean -7.6 from Tue Jan  3 12:00:00 2017 to Tue Jan  3 13:00:00 2017 for 1 hours
+min -1.9 Nesher pm(10-2.5): mean -1.9 from Wed Jan  4 05:00:00 2017 to Wed Jan  4 06:00:00 2017 for 1 hours
+min -5.0 Nesher pm(10-2.5): mean -5.0 from Wed Jan  4 14:00:00 2017 to Wed Jan  4 15:00:00 2017 for 1 hours
+min -11.8 Nesher pm(10-2.5): mean -11.8 from Mon Jan  9 15:00:00 2017 to Mon Jan  9 16:00:00 2017 for 1 hours
+min -18.7 Nesher pm(10-2.5): mean -18.7 from Wed Jan 11 23:00:00 2017 to Thu Jan 12 00:00:00 2017 for 1 hours
+min -3.4 Nesher pm(10-2.5): mean -3.4 from Fri Jan 13 15:00:00 2017 to Fri Jan 13 16:00:00 2017 for 1 hours
+min -6.3 Nesher pm(10-2.5): mean -6.3 from Fri Jan 13 18:00:00 2017 to Fri Jan 13 19:00:00 2017 for 1 hours
+min -3.9 Nesher pm(10-2.5): mean -3.9 from Sat Jan 14 04:00:00 2017 to Sat Jan 14 05:00:00 2017 for 1 hours
+min -2.8 Nesher pm(10-2.5): mean -2.8 from Sat Jan 14 06:00:00 2017 to Sat Jan 14 07:00:00 2017 for 1 hours
+min -3.5 Nesher pm(10-2.5): mean -3.5 from Fri Jan 20 23:00:00 2017 to Sat Jan 21 00:00:00 2017 for 1 hours
+min -7.8 Nesher pm(10-2.5): mean -6.5 from Sat Jan 21 11:00:00 2017 to Sat Jan 21 13:00:00 2017 for 2 hours
+min -3.3 Nesher pm(10-2.5): mean -3.3 from Sat Jan 21 22:00:00 2017 to Sun Jan 22 00:00:00 2017 for 2 hours
+min -3.1 Nesher pm(10-2.5): mean -3.1 from Mon Jan 23 03:00:00 2017 to Mon Jan 23 04:00:00 2017 for 1 hours
+min -2.1 Nesher pm(10-2.5): mean -2.1 from Mon Jan 23 05:00:00 2017 to Mon Jan 23 06:00:00 2017 for 1 hours
+min -4.3 Nesher pm(10-2.5): mean -4.3 from Thu Jan 26 12:00:00 2017 to Thu Jan 26 13:00:00 2017 for 1 hours
+min -3.2 Nesher pm(10-2.5): mean -3.2 from Thu Jan 26 14:00:00 2017 to Thu Jan 26 15:00:00 2017 for 1 hours
+min -2.1 Nesher pm(10-2.5): mean -2.1 from Sun Feb 12 03:00:00 2017 to Sun Feb 12 04:00:00 2017 for 1 hours
+min -4.5 Nesher pm(10-2.5): mean -4.5 from Sun Feb 12 09:00:00 2017 to Sun Feb 12 10:00:00 2017 for 1 hours
+min -2.1 Gadiv-PAREX NOx Dry: mean -1.7 from Wed Jan 11 09:00:00 2017 to Wed Jan 11 14:00:00 2017 for 5 hours
+min -3.1 Kiryat Binyamin PM2.5: mean -3.1 from Sun Jan  1 09:00:00 2017 to Sun Jan  1 10:00:00 2017 for 1 hours
+min -2.0 Kiryat Binyamin PM2.5: mean -2.0 from Mon Jan  2 12:00:00 2017 to Mon Jan  2 13:00:00 2017 for 1 hours
+min -8.0 Kiryat Binyamin PM2.5: mean -6.6 from Wed Jan  4 11:00:00 2017 to Wed Jan  4 14:00:00 2017 for 3 hours
+min -3.3 Kiryat Binyamin PM2.5: mean -3.3 from Fri Jan  6 08:00:00 2017 to Fri Jan  6 09:00:00 2017 for 1 hours
+min -2.4 Kiryat Binyamin PM2.5: mean -2.4 from Sat Jan 21 12:00:00 2017 to Sat Jan 21 13:00:00 2017 for 1 hours
+min -3.6 Kiryat Binyamin PM2.5: mean -3.6 from Sun Jan 22 12:00:00 2017 to Sun Jan 22 13:00:00 2017 for 1 hours
+min -2.2 Kiryat Binyamin PM2.5: mean -2.2 from Thu Jan 26 12:00:00 2017 to Thu Jan 26 13:00:00 2017 for 1 hours
+min -4.2 Kiryat Binyamin PM2.5: mean -4.2 from Fri Jan 27 01:00:00 2017 to Fri Jan 27 02:00:00 2017 for 1 hours
+min -7.1 Kiryat Binyamin PM2.5: mean -7.1 from Sun Jan 29 09:00:00 2017 to Sun Jan 29 10:00:00 2017 for 1 hours
+min -4.9 Kiryat Binyamin PM2.5: mean -4.9 from Sun Jan 29 14:00:00 2017 to Sun Jan 29 15:00:00 2017 for 1 hours
+min -2.0 Kiryat Binyamin PM2.5: mean -2.0 from Wed Feb  1 12:00:00 2017 to Wed Feb  1 13:00:00 2017 for 1 hours
+min -1.3 Kiryat Binyamin PM2.5: mean -1.3 from Fri Feb  3 16:00:00 2017 to Fri Feb  3 17:00:00 2017 for 1 hours
+min -1.5 Kiryat Binyamin PM2.5: mean -1.4 from Tue Feb 14 13:00:00 2017 to Tue Feb 14 15:00:00 2017 for 2 hours
+min -4.8 Kiryat Binyamin PM2.5: mean -4.8 from Tue Feb 14 16:00:00 2017 to Tue Feb 14 17:00:00 2017 for 1 hours
+min -3.1 Kiryat Binyamin PM2.5: mean -3.1 from Wed Feb 15 09:00:00 2017 to Wed Feb 15 10:00:00 2017 for 1 hours
+min -3.0 Kiryat Binyamin PM2.5: mean -3.0 from Wed Feb 15 12:00:00 2017 to Wed Feb 15 13:00:00 2017 for 1 hours
+min -1.4 Kiryat Binyamin PM2.5: mean -1.4 from Fri Feb 17 16:00:00 2017 to Fri Feb 17 17:00:00 2017 for 1 hours
+min -2.7 Kiryat Binyamin PM2.5: mean -2.7 from Mon Feb 20 08:00:00 2017 to Mon Feb 20 09:00:00 2017 for 1 hours

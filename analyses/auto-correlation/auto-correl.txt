@@ -1,0 +1,490 @@
+Ref OP-BZN1 OpaGH:
+Values: 3, 3, 3, 3, 3, 3, 4, 3
+Values: 3, 3, 3, 3, 3, 3, 4, 3
+Best corr is 0.00, starting at Sat Dec 13 23:00:00 2014 (1418504400)
+
+Ref OP-BZN1 OPB31-Stat:
+Values: 111, 111, 111, 111, 111, 120, 201, 111
+Values: 111, 111, 111, 111, 111, 120, 201, 111
+Best corr is 0.00, starting at Fri Jul 18 06:00:00 2014 (1405652400)
+
+Ref OP-BZN1 cu1 B4:
+Values: 7.36, 7.25, 7.17, 7.19, 7.27, 7.29, 7.30, 7.24
+Values: 7.27, 7.22, 7.23, 7.23, 7.27, 7.28, 7.28, 7.29
+Best corr is 0.00, starting at Sun Jul 17 22:00:00 2016 (1468782000)
+
+Ref OP-BZN1 OpaV3:
+Values: 7, 7, 7, 8, 8, 8, 8, 8
+Values: 7, 7, 7, 8, 8, 8, 8, 8
+Best corr is 0.00, starting at Fri Sep 16 16:00:00 2016 (1474030800)
+
+Ref OP-BZN1 ISO:
+Values: 0.79, 0.79, 0.79, 0.79, 0.79, 2.92, 0.79, 0.79
+Values: 0.79, 0.79, 0.79, 0.79, 0.79, 2.92, 0.79, 0.79
+Best corr is 0.00, starting at Fri Aug  5 11:00:00 2016 (1470384000)
+
+Ref OP-BZN1 Opa11:
+Values: 1, 1, 1, 0, 0, 0, 1, 1
+Values: 1, 1, 1, 0, 0, 0, 1, 1
+Best corr is 0.00, starting at Sun Feb  9 10:00:00 2014 (1391932800)
+
+Ref OP-BZN1 OpaC4:
+Values: 3, 2, 2, 2, 2, 4, 3, 3
+Values: 3, 2, 2, 2, 2, 4, 3, 3
+Best corr is 0.00, starting at Wed Feb  3 14:00:00 2016 (1454500800)
+
+Ref OP-BZN1 OpaC3:
+Values: 4, 5, 6, 4, 4, 4, 4, 4
+Values: 4, 5, 6, 4, 4, 4, 4, 4
+Best corr is 0.00, starting at Fri Aug  5 00:00:00 2016 (1470344400)
+
+Ref OP-BZN1 B201B CU3:
+Values: 2.83, 2.72, 2.79, 2.74, 2.62, 2.56, 2.59, 2.60
+Values: 2.78, 2.72, 2.73, 2.70, 2.68, 2.65, 2.60, 2.61
+Best corr is 0.00, starting at Fri Sep 23 15:00:00 2016 (1474632000)
+
+Ref Romema TEMP:
+Values: 24.4, 25.1, 25.4, 25.5, 24.4, 23.6, 23.2, 22.9
+Values: 24.3, 25.3, 25.6, 25.2, 24.7, 23.9, 23.0, 22.6
+Best corr is 0.06, starting at Thu Oct 16 12:00:00 2014 (1413450000)
+
+Ref Romema ITemp:
+Values: 26.3, 27.0, 27.1, 27.1, 26.9, 26.6, 26.0, 25.0
+Values: 26.5, 27.3, 27.0, 26.9, 26.8, 26.7, 26.0, 25.3
+Best corr is 0.04, starting at Tue Sep 27 12:00:00 2016 (1474966800)
+
+Ref Romema WDS:
+Values: 0.2, 0.3, 0.3, 0.2, 0.5, 0.6, 0.7, 0.2
+Values: 0.2, 0.3, 0.2, 0.2, 0.5, 0.6, 0.8, 0.3
+Best corr is 0.00, starting at Sat May 21 12:00:00 2016 (1463821200)
+
+Ref Romema CO:
+Values: 0.30, 0.28, 0.25, 0.32, 0.29, 0.27, 0.26, 0.29
+Values: 0.28, 0.28, 0.27, 0.28, 0.29, 0.27, 0.27, 0.28
+Best corr is 0.00, starting at Mon Apr  6 04:00:00 2015 (1428282000)
+
+Ref mahzam 30 NOX:
+Values: 2, 3, 4, 4, 4, 3, 3, 4
+Values: 2, 3, 4, 4, 4, 3, 3, 4
+Best corr is 0.00, starting at Thu Apr  7 12:00:00 2016 (1460019600)
+
+Ref Neve Shaanan TEMP:
+Values: 25.0, 25.4, 25.8, 25.9, 25.3, 24.9, 24.6, 24.3
+Values: 24.8, 25.1, 25.6, 25.5, 25.0, 24.9, 24.6, 24.3
+Best corr is 0.05, starting at Thu Jun 11 11:00:00 2015 (1434009600)
+
+Ref Neve Shaanan SO2:
+Values: 0.0, 0.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Values: 0.0, 0.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Best corr is 0.00, starting at Mon May  9 20:00:00 2016 (1462813200)
+
+Ref Neve Shaanan WDS:
+Values: 1.1, 2.2, 2.5, 2.3, 2.5, 2.4, 2.4, 2.4
+Values: 1.4, 2.1, 2.7, 2.4, 2.5, 2.2, 2.3, 2.3
+Best corr is 0.03, starting at Sun May 11 10:00:00 2014 (1399791600)
+
+Ref Neve Shaanan ITemp:
+Values: 26.8, 26.3, 25.3, 24.5, 23.9, 23.6, 23.6, 24.4
+Values: 26.6, 26.2, 25.2, 24.8, 24.5, 23.9, 23.8, 24.0
+Best corr is 0.10, starting at Thu Apr 21 19:00:00 2016 (1461254400)
+
+Ref Neve Shaanan Filter:
+Values: 4, 3, 3, 3, 3, 3, 3, 3
+Values: 4, 3, 3, 3, 3, 3, 3, 3
+Best corr is 0.00, starting at Wed Jul 29 23:00:00 2015 (1438200000)
+
+Ref Neve Shaanan CO:
+Values: 0.00, 0.00, 0.00, 0.25, 0.60, 0.84, 0.95, 0.60
+Values: 0.00, 0.00, null, 0.26, 0.62, 0.85, 0.96, 0.75
+Best corr is 0.00, starting at Sat Jun 14 20:00:00 2014 (1402765200)
+
+Ref Neve Shaanan NO:
+Values: 0.7, 2.9, 0.7, 0.6, 0.4, 0.2, 0.1, 0.3
+Values: 1.0, 3.0, 1.0, 0.4, 0.0, 0.0, 0.0, 0.0
+Best corr is 0.07, starting at Thu Sep  1 12:00:00 2016 (1472720400)
+
+Ref Mobile_New EthylB:
+Values: 4.8, null, null, null, null, null, null, null
+Values: 4.4, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Best corr is 0.02, starting at Sun Aug 10 15:00:00 2014 (1407672000)
+
+Ref Mobile_New NO:
+Values: 0.5, 0.3, 1.3, 1.0, 0.6, 0.3, 0.4, 0.5
+Values: 0.1, 0.2, 1.2, 0.7, 0.7, 0.7, 0.6, 0.3
+Best corr is 0.07, starting at Mon Sep 12 12:00:00 2016 (1473670800)
+
+Ref Mobile_New O-Xyle:
+Values: 4.6, null, null, null, null, null, null, null
+Values: 4.8, null, null, null, null, null, null, null
+Best corr is 0.01, starting at Mon Sep 26 10:00:00 2016 (1474873200)
+
+Ref Mobile_New BENZN:
+Values: 0.8, null, null, null, null, null, null, null
+Values: 0.9, null, null, null, null, null, null, null
+Best corr is 0.00, starting at Sun Mar 16 04:00:00 2014 (1394935200)
+
+Ref Mobile_New CO:
+Values: 0.17, 0.12, 0.09, 0.08, 0.12, 0.12, 0.15, 0.18
+Values: 0.14, 0.11, 0.11, 0.10, 0.12, 0.13, 0.17, 0.17
+Best corr is 0.00, starting at Sun Sep 25 12:00:00 2016 (1474794000)
+
+Ref Mobile_New TOLUEN:
+Values: 4.1, null, null, null, null, null, null, null
+Values: 4.3, null, null, null, null, null, null, null
+Best corr is 0.01, starting at Sun Oct 18 02:00:00 2015 (1445122800)
+
+Ref Einstein WDS:
+Values: 1.2, 1.6, 1.9, 1.9, 2.2, 3.0, 2.6, 2.9
+Values: 1.1, 1.6, 1.8, 1.9, 2.0, 2.8, 2.8, 2.8
+Best corr is 0.02, starting at Thu Oct 30 08:00:00 2014 (1414648800)
+
+Ref Einstein NO:
+Values: 1.1, 2.0, 0.2, 0.2, 0.2, 0.1, -0.1, -0.3
+Values: 1.1, 2.0, 0.5, 0.4, 0.3, null, null, null
+Best corr is 0.03, starting at Thu Sep 15 14:00:00 2016 (1473937200)
+
+Ref Einstein ITemp:
+Values: 24.7, 24.6, 24.6, 24.7, 24.6, 24.7, 24.7, 24.9
+Values: 24.7, 24.6, 24.6, 24.7, 24.6, 24.7, 24.7, 25.0
+Best corr is 0.00, starting at Wed Jun 11 12:00:00 2014 (1402477200)
+
+Ref D.CARMEL NO:
+Values: 0.3, 0.0, 0.9, 0.9, 0.5, 0.9, 0.9, 0.3
+Values: 0.3, 0.5, 0.8, 0.6, 0.6, 0.8, 0.8, 0.4
+Best corr is 0.05, starting at Thu Sep  8 12:00:00 2016 (1473325200)
+
+Ref D.CARMEL WDS:
+Values: 0.3, 0.5, 1.1, 1.3, 0.9, 0.7, 0.7, 0.8
+Values: 0.4, 0.5, 1.0, 1.4, 1.0, 1.0, 0.7, 0.6
+Best corr is 0.02, starting at Fri Mar 11 12:00:00 2016 (1457690400)
+
+Ref D.CARMEL TEMP:
+Values: 27.3, 27.4, 27.2, 27.4, 27.3, 27.0, 26.7, 26.3
+Values: 27.3, 27.3, 27.2, 27.4, 27.5, 27.1, 26.9, 26.4
+Best corr is 0.01, starting at Sat Sep 24 12:00:00 2016 (1474707600)
+
+Ref Shprintzak ITemp:
+Values: 22.5, 22.5, 22.4, 22.5, 22.5, 22.5, 22.5, 22.3
+Values: 22.5, 22.5, 22.5, 22.5, 22.5, 22.5, 22.5, 22.4
+Best corr is 0.00, starting at Sat Sep  3 23:00:00 2016 (1472932800)
+
+Ref Shprintzak WDS:
+Values: 1.0, 1.8, 2.4, 2.7, 2.8, 2.8, 2.7, 2.4
+Values: 1.1, 1.8, 2.3, 2.6, 2.8, 2.7, 2.5, 2.4
+Best corr is 0.01, starting at Tue Jun 21 22:00:00 2016 (1466535600)
+
+Ref Kiryat Bialik NO:
+Values: 1.4, 1.0, 0.8, 0.8, 1.1, 1.0, 0.6, 0.1
+Values: 1.4, 1.0, 0.9, 0.8, 1.1, 0.6, 0.7, 0.2
+Best corr is 0.02, starting at Sun Aug  7 08:00:00 2016 (1470546000)
+
+Ref Kiryat Bialik WDS:
+Values: 1.3, 2.1, 2.3, 2.5, 2.1, 1.9, 1.7, 1.5
+Values: 1.5, 2.0, 2.2, 2.3, 2.0, 2.0, 1.6, 1.5
+Best corr is 0.02, starting at Fri Mar 14 11:00:00 2014 (1394787600)
+
+Ref Kiryat Bialik SO2:
+Values: 0.5, 0.5, 1.0, 0.7, 0.6, 0.5, 0.6, 0.6
+Values: 0.6, 0.6, 0.8, 0.7, 0.6, 0.6, 0.6, 0.6
+Best corr is 0.01, starting at Thu Sep  1 12:00:00 2016 (1472720400)
+
+Ref Kfar Hasidim ITemp:
+Values: 26.8, 26.9, 26.6, 26.7, 26.7, 26.7, 26.6, 26.7
+Values: 26.8, 26.8, 26.6, 26.7, 26.7, 26.7, 26.6, 26.7
+Best corr is 0.00, starting at Tue May  6 02:00:00 2014 (1399330800)
+
+Ref Kfar Hasidim SO2:
+Values: 0.5, 0.4, 0.6, 0.8, 0.6, 0.9, 1.0, 0.6
+Values: 0.7, 0.6, 0.7, 0.7, 0.6, 0.7, 0.9, 0.6
+Best corr is 0.02, starting at Sun Jul 17 12:00:00 2016 (1468746000)
+
+Ref Kfar Hasidim WDS:
+Values: 1.2, 2.4, 4.0, 4.2, 4.7, 4.7, 4.7, 4.6
+Values: 1.4, 2.7, 3.7, 4.5, 4.6, 5.1, 4.8, 4.5
+Best corr is 0.06, starting at Sun Jun  8 11:00:00 2014 (1402214400)
+
+Ref GADIV CTO BENZN:
+Values: 0.09, 0.06, 0.03, 0.01, 0.04, 0.07, 0.07, 0.07
+Values: 0.12, 0.05, 0.05, 0.05, 0.09, 0.06, 0.06, 0.05
+Best corr is 0.00, starting at Thu Mar 24 05:00:00 2016 (1458788400)
+
+Ref CAUL OPCB1:
+Values: 5, 5, 4, 5, 5, 6, 5, 5
+Values: 5, 5, 4, 5, 5, 6, 5, 5
+Best corr is 0.00, starting at Sat Oct 31 00:00:00 2015 (1446242400)
+
+Ref CAUL OPCB2:
+Values: 0, 0, 0, 0, 0, 0, 2, 0
+Values: 0, 0, 0, 0, 0, 0, 2, 0
+Best corr is 0.00, starting at Sat Jan 17 02:00:00 2015 (1421452800)
+
+Ref Dor chemicals formaldehyde:
+Values: 0.1, 0.1, 0.1, 0.3, 0.0, 0.3, 0.2, 0.1
+Values: 0.1, 0.2, 0.1, 0.2, 0.0, 0.2, 0.2, 0.1
+Best corr is 0.00, starting at Sun Aug  7 01:00:00 2016 (1470520800)
+
+Ref mahzam 40 NOX:
+Values: 7, 8, 8, 8, 8, 7, 7, 7
+Values: 7, 8, 8, 8, 8, 7, 7, 7
+Best corr is 0.00, starting at Fri Aug 12 12:00:00 2016 (1470992400)
+
+Ref Sonol TOC:
+Values: 0.0, 0.0, 0.1, 0.2, 0.1, 0.1, 0.0, 0.1
+Values: 0.0, 0.0, 0.1, 0.2, 0.2, 0.1, 0.0, 0.1
+Best corr is 0.00, starting at Sun Mar  6 10:00:00 2016 (1457251200)
+
+Ref Kiryat Binyamin BENZN:
+Values: 0.12, 0.09, 0.07, 0.06, 0.06, 0.06, 0.03, 0.05
+Values: 0.12, 0.09, 0.07, 0.07, 0.05, 0.05, 0.05, 0.05
+Best corr is 0.00, starting at Sat Jul  5 02:00:00 2014 (1404514800)
+
+Ref Kiryat Binyamin O-Xyle:
+Values: 0.2, 0.3, 0.2, 0.2, 0.1, 0.1, 0.1, 0.0
+Values: 0.2, 0.2, 0.2, 0.2, 0.1, 0.1, 0.1, 0.0
+Best corr is 0.00, starting at Sat Feb  8 06:00:00 2014 (1391832000)
+
+Ref Kiryat Binyamin NO:
+Values: 0.7, 0.5, 0.5, 0.6, 0.0, 0.8, 0.3, 0.1
+Values: 0.8, 0.4, 0.5, 0.7, 0.1, 0.5, 0.3, 0.3
+Best corr is 0.02, starting at Thu Dec 17 20:00:00 2015 (1450375200)
+
+Ref Kiryat Binyamin TOL:
+Values: 0.6, 1.7, 1.3, 1.0, 1.0, 0.2, 0.2, 0.2
+Values: 0.5, 1.8, 1.5, 1.1, 0.6, 0.2, 0.1, 0.2
+Best corr is 0.03, starting at Tue Aug  5 05:00:00 2014 (1407204000)
+
+Ref Kiryat Binyamin WDS:
+Values: 0.6, 1.8, 2.8, 2.8, 3.4, 2.9, 3.0, 2.5
+Values: 0.9, 1.8, 2.6, 3.1, 3.5, 3.3, 3.1, 2.4
+Best corr is 0.05, starting at Tue Aug 26 11:00:00 2014 (1409040000)
+
+Ref Kiryat Binyamin EthylB:
+Values: 0.1, 0.2, 0.1, 0.1, 0.1, 0.1, 0.0, 0.0
+Values: 0.1, 0.3, 0.1, 0.1, 0.1, 0.1, 0.0, 0.0
+Best corr is 0.00, starting at Fri Sep 23 06:00:00 2016 (1474599600)
+
+Ref Kiryat Binyamin SO2:
+Values: 0.5, 1.2, 2.1, 1.5, 0.7, 0.1, 0.3, 0.1
+Values: 1.1, 1.2, 1.8, 1.5, 0.7, 0.5, null, null
+Best corr is 0.09, starting at Fri Aug 19 21:00:00 2016 (1471629600)
+
+Ref Kiryat Binyamin TEMP:
+Values: 25.9, 25.9, 25.7, 25.9, 25.7, 25.3, 25.0, 24.3
+Values: 26.0, 25.8, 25.7, 25.7, 25.6, 25.4, 25.0, 24.1
+Best corr is 0.01, starting at Sat Jul 16 23:00:00 2016 (1468699200)
+
+Ref BAZAN VRU CONC:
+Values: 0.07, 0.05, 0.07, 0.12, 0.11, 0.01, 0.01, 0.01
+Values: 0.07, 0.04, 0.08, 0.12, 0.12, 0.04, 0.01, 0.01
+Best corr is 0.00, starting at Sun Aug 14 13:00:00 2016 (1471168800)
+
+Ref Nesher FILTER-2.5:
+Values: 10, 10, 10, 10, 10, 11, 11, 11
+Values: 10, 10, 10, 10, 10, 11, 11, 11
+Best corr is 0.00, starting at Tue May 27 07:00:00 2014 (1401163200)
+
+Ref Nesher BP:
+Values: 1011, 1010, 1010, 1010, 1009, 1009, 1009, 1009
+Values: 1011, 1010, 1010, 1010, 1009, 1009, 1009, 1009
+Best corr is 0.00, starting at Sat Feb  1 21:00:00 2014 (1391281200)
+
+Ref Nesher CO:
+Values: 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.03
+Values: 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.03
+Best corr is 0.00, starting at Sat May 31 19:00:00 2014 (1401552000)
+
+Ref Nesher Filter:
+Values: 33, 33, 33, 33, 33, 34, 34, 34
+Values: 33, 33, 33, 33, 33, 34, 34, 34
+Best corr is 0.00, starting at Sun Mar 23 17:00:00 2014 (1395586800)
+
+Ref Nesher ITemp:
+Values: 25.0, 25.2, 25.2, 25.2, 25.1, 24.8, 24.9, 24.7
+Values: 25.0, 25.1, 25.2, 25.1, 25.0, 25.0, 24.9, 24.7
+Best corr is 0.01, starting at Thu Jul 16 13:00:00 2015 (1437040800)
+
+Ref Nesher TEMP:
+Values: 25.0, 25.6, 25.7, 25.6, 25.0, 24.1, 22.9, 22.5
+Values: 25.4, 25.4, 25.4, 25.3, 24.9, 24.1, 23.0, 22.0
+Best corr is 0.08, starting at Mon Jun  2 12:00:00 2014 (1401699600)
+
+Ref OP-HCU OP_HPU:
+Values: 4, 3, 3, 3, 3, 3, 3, 3
+Values: 4, 3, 3, 3, 3, 3, 3, 3
+Best corr is 0.00, starting at Wed Oct  7 11:00:00 2015 (1444204800)
+
+Ref Paz TOC:
+Values: 0.0, 0.0, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2
+Values: 0.0, 0.0, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2
+Best corr is 0.00, starting at Sat Mar 19 10:00:00 2016 (1458374400)
+
+Ref BAZAN HCU NOx Dry:
+Values: 50.4, 50.6, 50.3, 48.7, 48.6, 48.4, 48.4, 48.4
+Values: 50.2, 50.3, 49.9, 48.6, 48.4, 48.4, 48.8, 48.9
+Best corr is 0.09, starting at Fri May 15 14:00:00 2015 (1431687600)
+
+Ref Igud (check-post) BENZN:
+Values: 0.08, 0.15, 0.28, 0.02, 0.00, 0.00, 0.00, 0.00
+Values: 0.00, 0.16, 0.29, 0.00, 0.00, 0.00, 0.00, 0.00
+Best corr is 0.00, starting at Wed Jun 17 03:00:00 2015 (1434499200)
+
+Ref Igud (check-post) NO:
+Values: 0.0, 0.3, 0.4, 0.0, 0.0, 0.0, 0.0, 0.0
+Values: 0.0, 0.3, 0.5, 0.0, 0.0, 0.0, 0.0, 0.0
+Best corr is 0.00, starting at Tue Aug  9 16:00:00 2016 (1470747600)
+
+Ref Igud (check-post) ITemp:
+Values: 25.4, 26.0, 26.5, 26.7, 26.9, 26.4, 27.2, 26.9
+Values: 25.7, 26.1, 26.5, 26.6, 26.7, 26.7, 27.0, 27.0
+Best corr is 0.04, starting at Wed Jul 16 09:00:00 2014 (1405490400)
+
+Ref Igud (check-post) WDS:
+Values: 1.0, 2.7, 2.8, 3.0, 2.4, 2.4, 2.5, 2.8
+Values: 1.1, 2.5, 2.7, 3.0, 2.4, 2.3, 2.0, 2.6
+Best corr is 0.04, starting at Wed Apr 13 11:00:00 2016 (1460534400)
+
+Ref Igud (check-post) SO2:
+Values: 1.3, 2.1, 2.8, 1.2, 0.0, 0.0, 0.0, 0.0
+Values: 1, 2, 2, 1, 0, 0, 0, 0
+Best corr is 0.10, starting at Sat Aug  2 06:00:00 2014 (1406948400)
+
+Ref Igud (check-post) TEMP:
+Values: 26.7, 25.8, 26.0, 25.7, 26.0, 25.6, 25.3, 24.3
+Values: 26.8, 26.0, 26.0, 26.1, 26.0, 25.4, 25.0, 24.6
+Best corr is 0.05, starting at Fri Mar 27 19:00:00 2015 (1427472000)
+
+Ref Kiryat Tivon SO2:
+Values: 0.3, 0.5, 0.1, 0.8, 0.7, 0.1, 1.2, 1.9
+Values: 0, 0, 0, 1, 1, 0, 1, 2
+Best corr is 0.07, starting at Sun Apr 10 11:00:00 2016 (1460275200)
+
+Ref Kiryat Tivon Filter:
+Values: 23, 23, 23, 23, 23, 23, 24, 24
+Values: 23, 23, 23, 23, 23, 23, 24, 24
+Best corr is 0.00, starting at Thu Apr 10 17:00:00 2014 (1397138400)
+
+Ref Kiryat Tivon NO:
+Values: 0.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Values: 0.2, null, null, null, null, null, null, null
+Best corr is 0.00, starting at Sun May 29 11:00:00 2016 (1464508800)
+
+Ref Kiryat Tivon ITemp:
+Values: 22.5, 22.5, 22.5, 22.5, 22.4, 22.2, 22.1, 22.0
+Values: 22.5, 22.5, 22.5, 22.5, 22.3, 22.2, 22.1, 22.1
+Best corr is 0.00, starting at Fri Jul  1 10:00:00 2016 (1467356400)
+
+Ref Kiryat Tivon WDS:
+Values: 0.7, 1.4, 1.8, 2.1, 2.2, 2.4, 2.5, 2.3
+Values: 0.7, 1.3, 1.7, 1.9, 2.3, 2.3, 2.5, 2.1
+Best corr is 0.01, starting at Tue Feb 18 11:00:00 2014 (1392714000)
+
+Ref Yizraelia LXeq:
+Values: 73.1, 72.9, 73.4, 74.6, 74.5, 73.6, 73.5, 73.4
+Values: 72.8, 73.1, 72.8, 74.4, 74.7, 73.5, 73.4, 73.6
+Best corr is 0.08, starting at Fri Nov 27 00:00:00 2015 (1448575200)
+
+Ref Yizraelia ITemp:
+Values: 26.0, 26.3, 27.0, 26.8, 26.9, 27.1, 27.1, 27.0
+Values: 26.3, 26.3, 26.8, 26.9, 26.9, 27.1, 27.1, 27.1
+Best corr is 0.02, starting at Sun Jan 17 13:00:00 2016 (1453028400)
+
+Ref Yizraelia LAeq:
+Values: 56.3, 55.8, 55.5, 56.4, 56.7, 56.4, 56.5, 57.1
+Values: 56.1, 56.2, 55.6, 56.1, 56.9, 56.9, 56.6, 56.9
+Best corr is 0.08, starting at Sun Dec 13 08:00:00 2015 (1449986400)
+
+Ref Yizraelia WDS:
+Values: 0.1, 0.2, 0.4, 0.4, 0.5, 0.3, 0.2, 0.1
+Values: 0.2, 0.2, 0.4, 0.4, 0.5, 0.2, 0.2, 0.2
+Best corr is 0.00, starting at Wed Jul 30 00:00:00 2014 (1406667600)
+
+Ref Yizraelia LAim:
+Values: 57.7, 57.2, 56.5, 57.7, 57.8, 57.5, 57.6, 58.8
+Values: 57.8, 56.8, 56.7, 58.2, 57.4, 57.4, 57.7, 58.7
+Best corr is 0.08, starting at Sun Feb 28 09:00:00 2016 (1456642800)
+
+Ref Yizraelia LAF_min:
+Values: 53.0, 52.5, 52.7, 53.3, 54.1, 53.8, 53.6, 53.4
+Values: 52.9, 52.6, 53.0, 53.4, 53.8, 53.4, 53.4, 53.5
+Best corr is 0.05, starting at Tue Feb 24 14:00:00 2015 (1424779200)
+
+Ref Yizraelia CO:
+Values: 0.53, 0.51, 0.17, 0.21, 0.30, 0.26, 0.24, 0.24
+Values: 0.63, 0.52, 0.22, 0.16, 0.23, 0.22, 0.25, 0.22
+Best corr is 0.00, starting at Tue Sep 29 09:00:00 2015 (1443506400)
+
+Ref OP-GADIV SPLHT:
+Values: 3, 2, 3, 3, 3, 3, 3, 3
+Values: 3, 2, 3, 3, 3, 3, 3, 3
+Best corr is 0.00, starting at Sun Feb 22 12:00:00 2015 (1424599200)
+
+Ref OP-GADIV XLNHT:
+Values: 2, 2, 2, 2, 2, 2, 3, 3
+Values: 2, 2, 2, 2, 2, 2, 3, 3
+Best corr is 0.00, starting at Sat Feb 15 19:00:00 2014 (1392483600)
+
+Ref OP-GADIV TLNHT:
+Values: 0, 1, 1, 1, 1, 1, 1, 1
+Values: 0, 1, 1, 1, 1, 1, 1, 1
+Best corr is 0.00, starting at Tue Feb 25 04:00:00 2014 (1393293600)
+
+Ref Ahuza CO TRAFIC:
+Values: 0.47, 0.30, 0.28, 0.29, 0.30, 0.37, 0.42, 0.30
+Values: 0.40, 0.32, 0.29, 0.28, 0.29, 0.41, 0.40, 0.34
+Best corr is 0.00, starting at Tue Nov 18 19:00:00 2014 (1416330000)
+
+Ref Ahuza SO2:
+Values: 0.0, 0.0, 1.2, 0.6, 0.4, 0.6, 0.1, 0.0
+Values: 0.0, 0.1, 1.1, 0.5, 0.3, 0.1, 0.0, 0.0
+Best corr is 0.04, starting at Mon Jun 13 17:00:00 2016 (1465826400)
+
+Ref Ahuza WDS:
+Values: 0.4, 1.7, 2.4, 2.4, 2.0, 2.1, 1.8, 1.6
+Values: 0.3, 1.6, 2.1, 2.1, 1.9, 1.7, 1.7, 1.5
+Best corr is 0.05, starting at Sun Feb 14 17:00:00 2016 (1455462000)
+
+Ref Ahuza Filter:
+Values: null, 19, 19, 19, 19, 19, 19, 19
+Values: null, 19, 19, 19, 19, 19, 19, 19
+Best corr is 0.00, starting at Thu Oct  8 15:00:00 2015 (1444305600)
+
+Ref Ahuza ITemp:
+Values: 22.8, 22.7, 22.7, 22.8, 23.0, 23.1, 23.1, 23.2
+Values: 22.7, 22.8, 22.7, 22.8, 22.9, 23.0, 23.1, 23.3
+Best corr is 0.01, starting at Thu Mar 10 09:00:00 2016 (1457593200)
+
+Ref BAZAN6-SO2 SO2S3:
+Values: 1.1, 0.9, 0.9, 1.0, 1.1, 1.1, 1.1, 1.3
+Values: 1.1, 1.0, 1.0, 1.0, 1.1, 1.1, 1.2, 1.2
+Best corr is 0.00, starting at Thu Sep 29 06:00:00 2016 (1475118000)
+
+Ref BAZAN6-SO2 SO2S4:
+Values: 3.0, 3.0, 2.9, 2.8, 2.0, 2.1, 1.9, 2.0
+Values: 3.1, 3.2, 3.1, 2.6, 2.2, 2.0, 2.0, 2.0
+Best corr is 0.02, starting at Sun Apr 19 22:00:00 2015 (1429470000)
+
+Ref Kiryat Haim-Degania WDS:
+Values: 0.6, 2.0, 3.1, 3.0, 3.1, 2.7, 2.8, 3.1
+Values: 0.4, 1.5, 3.0, 2.8, 2.6, 2.8, 3.1, 3.2
+Best corr is 0.09, starting at Mon Aug 29 06:00:00 2016 (1472439600)
+
+Ref Kiryat Haim-Degania NO:
+Values: 0.2, 0.7, 0.0, 0.0, 0.4, 0.1, 0.4, 0.0
+Values: 0.3, 0.7, 0.2, 0.1, 0.3, 0.2, 0.3, 0.2
+Best corr is 0.02, starting at Thu Jun 11 14:00:00 2015 (1434020400)
+
+Ref Kiryat Haim-Degania Filter:
+Values: 23, 23, 23, 23, 24, 24, 24, 24
+Values: 23, 23, 23, 23, 24, 24, 24, 24
+Best corr is 0.00, starting at Sat Apr  4 08:00:00 2015 (1428123600)
+
+Ref Kiryat Haim-Degania BENZN:
+Values: 0.24, 0.13, 0.09, 0.11, 0.25, 0.25, 0.24, 0.16
+Values: 0.18, 0.12, 0.11, 0.16, 0.22, 0.28, 0.17, 0.17
+Best corr is 0.00, starting at Tue Sep 20 20:00:00 2016 (1474390800)
+
+Ref Kiryat Haim-Degania TOLUEN:
+Values: 1.3, 0.5, 0.2, 0.4, 0.2, 0.1, 0.3, 0.3
+Values: 1.3, 0.5, 0.4, 0.5, 0.3, 0.2, 0.2, 0.2
+Best corr is 0.01, starting at Fri Oct 23 01:00:00 2015 (1445551200)
+
