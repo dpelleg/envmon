@@ -188,10 +188,26 @@ sub merge_two_tables {
 		       $sensor_v->{'units'} =~ m!(PPB|ug/m3)! && # match may occur in either direction
                        $ret{$station}->{$sensor}->{'units'} =~ m!(PPB|ug/m3)!);
     # Added 19 Jan 2018 to deal with some data from 2016
-	$ignore = 1 if($station eq 'Kiryat Haim-Degania"' &&
+	$ignore = 1 if($station eq 'Kiryat Haim-Degania' &&
 		       $sensor eq 'BENZN' &&
 		       $sensor_v->{'units'} =~ m!(mg|ug)/m3! &&
                    $ret{$station}->{$sensor}->{'units'} =~ m!(mg|ug)/m3!);
+	# Added 17 Nov 2019, I'm not sure what is happening
+	$ignore = 1 if($station eq 'Mobile_New' &&
+		       $sensor eq 'O3' &&
+		       $sensor_v->{'units'} =~ m!(mm|ug/m3)! &&
+		       $ret{$station}->{$sensor}->{'units'} =~ m!(mm|ug/m3)!);
+	# Added 29 Nov 2019
+	$ignore = 1 if($station eq 'BAZAN TO-4' &&
+		       $sensor eq 'Thermal_Oxydation Nox DRY' &&
+		       $sensor_v->{'units'} =~ m!(mm|mg/m3)! &&
+		       $ret{$station}->{$sensor}->{'units'} =~ m!(mm|ug/m3)!);
+	# Added 29 Nov 2019
+	$ignore = 1 if($station eq 'BAZAN TO-4' &&
+		       $sensor =~ 'SO2S[34]' &&
+		       $sensor_v->{'units'} =~ m!(mg/Nm3|Kg/Hr)! &&
+		       $ret{$station}->{$sensor}->{'units'} =~ m!(mg/Nm3|Kg/Hr)!);
+
     if(!$ignore) {
           warn join(" ?-? ", $station, $sensor, $sensor_v->{'units'}, $ret{$station}->{$sensor}->{'units'}) . "\n";
         }
