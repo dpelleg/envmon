@@ -201,7 +201,7 @@ sub merge_two_tables {
 	$ignore = 1 if($station eq 'BAZAN TO-4' &&
 		       $sensor eq 'Thermal_Oxydation Nox DRY' &&
 		       $sensor_v->{'units'} =~ m!(mm|mg/m3)! &&
-		       $ret{$station}->{$sensor}->{'units'} =~ m!(mm|ug/m3)!);
+		       $ret{$station}->{$sensor}->{'units'} =~ m!(mm|mg/m3)!);
 	# Added 29 Nov 2019
 	$ignore = 1 if($station eq 'BAZAN6-SO2' &&
 		       $sensor =~ 'SO2S[34]' &&
