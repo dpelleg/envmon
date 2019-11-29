@@ -391,7 +391,9 @@ for my $station (keys %$latest_data) {
 # send recent data for external processing of AQI
 {
   my $msgs = compute_AQI($latest_data);
-  push(@msgs, @$msgs);
+  if($msgs) {
+    push(@msgs, @$msgs);
+  }
 }
 
 #push alerts into message queue
@@ -1214,6 +1216,18 @@ sub dump_data {
 sub compute_AQI {
   my ($latest_data) = @_;
   my @ret = ();
+
+  my $has_data = 0;
+  # check that there'any data
+  for my $station (keys %{$latest_data}) {
+    for my $sensor (keys %{$latest_data->{$station}}) {
+      $has_data = 1;
+      next;
+    }
+    next if($has_data);
+  }
+
+  return unless($has_data);
 
   my ($risky_fh, $processed_data) = tempfile();
   close($risky_fh);
