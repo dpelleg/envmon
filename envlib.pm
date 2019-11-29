@@ -203,7 +203,11 @@ sub merge_two_tables {
 		       $sensor_v->{'units'} =~ m!(mm|mg/m3)! &&
 		       $ret{$station}->{$sensor}->{'units'} =~ m!(mm|ug/m3)!);
 	# Added 29 Nov 2019
+<<<<<<< HEAD
 	$ignore = 1 if($station eq 'BAZAN6-SO2' &&
+=======
+	$ignore = 1 if($station eq 'BAZAN TO-4' &&
+>>>>>>> f3958b2c899e1d14b81cd82ed963bd7a5d47090c
 		       $sensor =~ 'SO2S[34]' &&
 		       $sensor_v->{'units'} =~ m!(mg/Nm3|Kg/Hr)! &&
 		       $ret{$station}->{$sensor}->{'units'} =~ m!(mg/Nm3|Kg/Hr)!);
