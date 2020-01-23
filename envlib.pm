@@ -217,6 +217,12 @@ sub merge_two_tables {
 		       $sensor =~ 'SO2S[34]' &&
 		       $sensor_v->{'units'} =~ m!(mg/Nm3|Kg/Hr)! &&
 		       $ret{$station}->{$sensor}->{'units'} =~ m!(mg/Nm3|Kg/Hr)!);
+       # Added 8 Dec 2019
+       $ignore = 1 if($station eq 'Kfar Hasidim' &&
+                      $sensor =~ 'SO2' &&
+                      $sensor_v->{'units'} =~ m!(ug/m3|PPM)! &&
+                      $ret{$station}->{$sensor}->{'units'} =~ m!(ug/m3|PPM)!);
+
 
     if(!$ignore) {
           warn join(" ?-? ", $station, $sensor, $sensor_v->{'units'}, $ret{$station}->{$sensor}->{'units'}) . "\n";
