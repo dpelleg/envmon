@@ -203,7 +203,7 @@ sub merge_two_tables {
 		       $sensor_v->{'units'} =~ m!(mg|ug/m3)! &&
 		       $ret{$station}->{$sensor}->{'units'} =~ m!(mg|ug/m3)!);
 	# Added 23 Jan 2019
-	$ignore = 1 if($station =~ '^(HADAR|Ahuza transportation)$' &&
+	$ignore = 1 if($station =~ '^(Hadar|Ahuza transportation)$' &&
 		       $sensor eq 'CO' &&
 		       $sensor_v->{'units'} =~ m!(mg|ug/m3)! &&
 		       $ret{$station}->{$sensor}->{'units'} =~ m!(mg|ug/m3)!);
