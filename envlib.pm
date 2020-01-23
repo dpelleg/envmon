@@ -197,6 +197,16 @@ sub merge_two_tables {
 		       $sensor eq 'O3' &&
 		       $sensor_v->{'units'} =~ m!(mm|ug/m3)! &&
 		       $ret{$station}->{$sensor}->{'units'} =~ m!(mm|ug/m3)!);
+	# Added 23 Jan 2019
+	$ignore = 1 if($station eq 'Mobile_New' &&
+		       $sensor =~ '^(O3|NO|CO|NOX|NO2)$' &&
+		       $sensor_v->{'units'} =~ m!(mg|ug/m3)! &&
+		       $ret{$station}->{$sensor}->{'units'} =~ m!(mg|ug/m3)!);
+	# Added 23 Jan 2019
+	$ignore = 1 if($station =~ '^(HADAR|Ahuza transportation)$' &&
+		       $sensor eq 'CO' &&
+		       $sensor_v->{'units'} =~ m!(mg|ug/m3)! &&
+		       $ret{$station}->{$sensor}->{'units'} =~ m!(mg|ug/m3)!);
 	# Added 29 Nov 2019
 	$ignore = 1 if($station eq 'BAZAN TO-4' &&
 		       $sensor eq 'Thermal_Oxydation Nox DRY' &&
