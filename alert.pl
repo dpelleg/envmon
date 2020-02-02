@@ -330,8 +330,14 @@ my @skip_sensors_missing = (         #                   Encode as station:senso
                                      'OP-BZN1:(Opa21|Opa11|OpaFC|OPB31)', # OpaFC down before 1/1/2019; the others shut off 30/4/2019
                                      'Kiryat Bialik:.*',            # No data after June 2017. Name change?
                                      'Sonol:TOC',                   # 1/3/2019
-                                     'Kiryat Motzkin:SO2',          # unclear (rename?)
-                                     
+			    'Kiryat Motzkin:SO2',          # unclear (rename?)
+			    'BAZAN TO-1 2:.*',		   # 1/1/2020
+			    'BAZAN TO-4:.*',		   # 1/1/2020
+			    'BAZAN VRU:.*',		   # 1/1/2020
+			    'Bazan-CU1:(NOx Dry|NOX INS)', # 1/1/2020
+			    'Bazan-CU1-B4:(NOx Dry|NOX INS)', # 1/1/2020
+			    'BAZAN-CU4:(ST_NOx_INS|Stack_NOx|STACK_NH3|ST_NH3_INS)', # 1/1/2020
+
     );
 
 my $skip_sensors_missing = '^(' . join("|", @skip_sensors_missing) . ')$';
