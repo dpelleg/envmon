@@ -195,8 +195,8 @@ sub merge_two_tables {
 	# Added 17 Nov 2019, I'm not sure what is happening
 	$ignore = 1 if($station eq 'Mobile_New' &&
 		       $sensor eq 'O3' &&
-		       $sensor_v->{'units'} =~ m!(mm|ug/m3)! &&
-		       $ret{$station}->{$sensor}->{'units'} =~ m!(mm|ug/m3)!);
+		       $sensor_v->{'units'} =~ m!(mm|[mu]g/m3)! &&
+		       $ret{$station}->{$sensor}->{'units'} =~ m!(mm|[mu]g/m3)!);
 	# Added 23 Jan 2020
 	$ignore = 1 if($station eq 'Mobile_New' &&
 		       $sensor =~ '^(O3|NO|CO|NOX|NO2)$' &&
