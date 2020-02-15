@@ -334,28 +334,29 @@ my @skip_sensors_missing = (         #                   Encode as station:senso
                                      'BAZAN TO-1 2:.*',		   # 1/1/2020
                                      'BAZAN TO-4:.*',		   # 1/1/2020
                                      'BAZAN VRU:.*',		   # 1/1/2020
-                                     'Bazan-CU1:(NOx Dry|NOX INS)', # 1/1/2020
-                                     'Bazan-CU1-B4:(NOx Dry|NOX INS)', # 1/1/2020
-                                     'BAZAN-CU4:(ST_NOx_INS|Stack_NOx|STACK_NH3|ST_NH3_INS)', # 1/1/2020
-                                     'BAZAN6-SO2:(SO2S3-Stat|SO2S4-Stat|SO2S4)', # 1/1/2020
-                                     'BAZAN-B11:(SO2S4|Stack_NOx|ST_NOx_INS|Stack_PM|ST_PM_INS|STACK_NH3|ST_NH3_INS)', # 1/1/2020
-                                     'BAZAN-CCR:(ST_PM_INS|STACK_NH3|ST_NH3_INS|NOx Dry|NOX INS)', # 1/1/2020
-                                     'BAZAN HCU:(HCU Stat|NOX INS|NOx Dry)' # 1/1/2020
-                                     'BAZAN-B21:(NOx Dry|SCR21_NOX_INS|STACK_NH3|ST_NH3_INS|ST_PM_INS|Stack_PM)', # 1/1/2020
-                                     'BAZAN-B31:(ST_NOx_INS|Stack_NOx|Stack_PM)', # 1/1/2020
-                                     'BAZAN-FCC:(NOX INS|Stack_PM)', # 1/1/2020
-                                     'BAZAN-IHDS-GO:(NOX INS|NOx Dry)', # 1/1/2020
-                                     'BAZAN-ISOM:(NOx Dry|STACK_NH3|ST_NH3_INS)', # 1/1/2020
-                                     'BAZAN_HDS:NOx Dry', # 1/1/2020
-                                     'BAZAN_HPU:(NOX INS|NOx Dry)', # 1/1/2020
-                                     'BAZAN_OPER:(FGF_Active|HVGO HSD|SCR_B21|SNCR_CU1|SNCR_CU4|SNCR_HDS|SNCR_ISO|Virtual GasF)', # 1/1/2020
-                                     'BAZAN_Oper:(B11|B21|Benzine HDS|CCR|CU.4|HVGO HSD|Isomer|Vis3.)', # 1/1/2020
-                                     'Bazan-CU3:(NOX INS|NOx Dry)', # 1/1/2020
-                                     'Bazan-CU3-B201B:NOX INS', # 1/1/2020
-                                     'Bazan-VIS3:NOX INS', # 1/1/2020
+                                     'Bazan-CU1:.*', # 1/1/2020
+                                     'Bazan-CU1-B4:.*', # 1/1/2020
+                                     'BAZAN-CU4:.*', # 1/1/2020
+                                     'BAZAN6-SO2:.*', # 1/1/2020
+                                     'BAZAN-B11:.*', # 1/1/2020
+                                     'BAZAN-CCR:.*', # 1/1/2020
+                                     'BAZAN HCU:.*', # 1/1/2020
+                                     'BAZAN-B21:.*', # 1/1/2020
+                                     'BAZAN-B31:.*', # 1/1/2020
+                                     'BAZAN-FCC:.*', # 1/1/2020
+                                     'BAZAN-IHDS-GO:.*', # 1/1/2020
+                                     'BAZAN-ISOM:.*', # 1/1/2020
+                                     'BAZAN_HDS:.*', # 1/1/2020
+                                     'BAZAN_OPER:.*', # 1/1/2020
+                                     'BAZAN_Oper:.*', # 1/1/2020
+                                     'Bazan-CU3:.*', # 1/1/2020
+                                     'Bazan-CU3-B201B:.*', # 1/1/2020
+                                     'Bazan-VIS3:.*', # 1/1/2020
                                      'Kiryat Haim-Regavim:O3', # 1/1/2020
-                                     'OP-BZN1:cu1 B4', # 1/1/2020
-                                     'OP-HCU:(OP-HCU|Stat-HCU|Stat-HPU)', # 1/1/2020
+                                     'OP-BZN1:.*', # 1/1/2020
+                                     'OP-HCU:.*', # 1/1/2020
+                                     'BAZAN_HPU:.*', # 8/2/2020
+                                     'BAZAN.VRU:.*', # 1/1/2020
     );
 
 my $skip_sensors_missing = '^(' . join("|", @skip_sensors_missing) . ')$';
