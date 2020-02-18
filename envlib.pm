@@ -79,7 +79,8 @@ my %xlat = ( 'שפרינצק' => 'Shprintzak',
              'ניידת 5' => 'Mobile 5',# started Mar 2018
              'ניידת 4' => 'Mobile 4',# started Apr 2019
              'פארק כרמל' => 'Park Carmel', #started Apr 2018
-	     'מסופי ניפוק' => 'Masofei Nipuk', #started Aug 2018
+             'מסופי ניפוק' => 'Masofei Nipuk', #started Aug 2018
+             'תחנה ניידת איגוד' => 'Mobile Igud', # started Feb 2020
     );
 
 # we also add mapping form the UTF-8 encoded versions
