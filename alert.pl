@@ -360,13 +360,15 @@ my @skip_sensors_missing = (         #                   Encode as station:senso
                                      'CAOL.(RTO|B1|B2|B3):.*', # 15/2/2020
                                      'GADIV (RCO|PAREX):.*', # 15/2/2020
                                      'GADIV_OPER:.*', # 17/2/2020
-                                     'GADIV-(TOL|AS2XYL1|PAREX):.*', # 17/2/2020
+                                     'GADIV-(XYl2|TOL|AS2XYL1|PAREX):.*', # 17/2/2020
                                      'TOREN:.*', # 18/2/2020
                                      'Gadiv-(TOL|AS2XYL1|PAREX):.*', # 19/2/2020
-                                     'GADIV.(AROM|PARX|XYL):.*', # 18/2/2020
-                                     'BAZAN.(CCR|HCU|HPU|FCC|HDSGO|VRU|VIS3|SRU3|CU3|CU4|B201B|B11|B21|B31|SRU4|ISO|TO1|TO4|C120\(HDS\)):.*', # 15/2/2020
+                                     'GADIV.(TOL|AROM|PARX|XYL):.*', # 18/2/2020
+                                     'BAZAN.(CCR|HCU|HPU|FCC|HDSGO|VRU|VIS3|SRU3|CU1|CU3|CU4|B201B|B11|B21|B31|SRU4|ISO|TO1|TO4|C120\(HDS\)):.*', # 15/2/2020
                                      'HDS Hvgo down:.*', # 19/2/2020
                                      'CAOL_New:.*', # 19/2/2020
+                                     'Masofei Nipuk:.*', # 20/2/2020
+                                     
     );
 
 my $skip_sensors_missing = '^(' . join("|", @skip_sensors_missing) . ')$';
