@@ -229,6 +229,11 @@ sub merge_two_tables {
 		       $sensor_v->{'units'} =~ m!(Mg|ug/m3)! &&
 		       $ret{$station}->{$sensor}->{'units'} =~ m!(Mg|ug/m3)!);
 
+    # Added 23 Feb 2020
+    $ignore = 1 if($station eq 'Flares' &&
+                   $sensor eq 'HHPFlare' &&
+                   $sensor_v->{'units'} =~ m!(Ton/Hr|Kg/Hr)! &&
+                   $ret{$station}->{$sensor}->{'units'} =~ m!(Ton/Hr|Kg/Hr)!);
 
     if(!$ignore) {
           warn join(" ?-? ", $station, $sensor, $sensor_v->{'units'}, $ret{$station}->{$sensor}->{'units'}) . "\n";
