@@ -363,7 +363,7 @@ my @skip_sensors_missing = (         #                   Encode as station:senso
                                      'GADIV-(XYl2|TOL|AS2XYL1|PAREX):.*', # 17/2/2020
                                      'TOREN:.*', # 18/2/2020
                                      'Gadiv-(XYl2|TOL|AS2XYL1|PAREX):.*', # 19/2/2020
-                                     'GADIV.(AROM|PARX|XYL):.*', # 18/2/2020
+                                     'GADIV.(TOL|AROM|PARX|XYL):.*', # 18/2/2020
                                      'BAZAN.(CCR|HCU|HPU|FCC|HDSGO|VRU|VIS3|SRU3|CU1|CU3|CU4|B201B|B11|B21|B31|SRU4|ISO|TO1|TO4|C120\(HDS\)):.*', # 15/2/2020
                                      'HDS Hvgo down:.*', # 19/2/2020
                                      'CAOL_New:.*', # 19/2/2020
