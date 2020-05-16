@@ -562,11 +562,14 @@ sub fetch_sensor_internal {
   # reporting statistic: average
   $mech->field('ddlAvgType', 'ממוצע');
   sleep(1);
-  
+
+
   my $station_map = get_select_map('ddlStation', encode_utf8($mech->content()));
   my $station_key = $station_map->{$station};
   unless(defined($station_key)) {
-    warn "Unknown station $station\n";
+    my $inhibit;           # some stations are not in the database for historical views
+    $inhibit = 1 if($station_key =~ /Unit[34/);
+    warn "Unknown station $station\n" unless($inhibit);
     return undef;
   }
 
