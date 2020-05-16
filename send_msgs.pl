@@ -568,7 +568,7 @@ sub fetch_sensor_internal {
   my $station_key = $station_map->{$station};
   unless(defined($station_key)) {
     my $inhibit;           # some stations are not in the database for historical views
-    $inhibit = 1 if($station_key =~ /Unit[34/);
+    $inhibit = 1 if($station_key =~ /Unit[34]/);
     warn "Unknown station $station\n" unless($inhibit);
     return undef;
   }
