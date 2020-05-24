@@ -970,7 +970,7 @@ sub check_station_and_sensor_missing {
 
     my $rule;
     
-    if(($ratio_missing > 1/4) || ($longest_gap >= 6)) {
+    if($num_missing > 4 && (($ratio_missing > 1/4) || ($longest_gap >= 6))) {
       $rule = 'missing_data';
     }
     if($num_missing >= 18) {
