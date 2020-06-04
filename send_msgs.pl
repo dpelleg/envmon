@@ -288,20 +288,32 @@ sub typeset_messages {
   @messages = grep { $_->{'severity'} >= $paniclevel } @messages;
 
   # 4. Apply per-user mask
-  $user_event_mask = 'all' unless(defined($user_event_mask));
-  # represent as hash
-  my @evs = split(',', $user_event_mask);
   my %evs;
-  map {
-    my $ev = $_;
-    $evs{$ev} = 1;
-  } @evs;
+  my %evs_exclude;
+  my $mask_wantall;
+
+  if(defined($user_event_mask)) {
+    # represent as hash
+    my @evs = split(',', $user_event_mask);
+    map {
+      my $ev = $_;
+      if ($ev =~ /^-(.*)/) {
+        $evs_exclude{$1} = 1;
+      } elsif($ev eq 'all') {
+        $mask_wantall = 1;
+      } else {
+        $evs{$ev} = 1;
+      }
+    } @evs;
+  } else {
+    $mask_wantall = 1;
+  }
 
   @messages = grep {
     my $m = $_;
     my $r = $m->{'rule'};
     my $keep = 0;
-    if(($user_event_mask eq 'all') || defined($evs{$r})) {
+    if(($mask_wantall || defined($evs{$r})) && !defined($evs_exclude{$r})) {
       $keep = 1;
     }
     $keep;
