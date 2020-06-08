@@ -368,7 +368,7 @@ my @skip_sensors_missing = (         #                   Encode as station:senso
                                      'HDS Hvgo down:.*', # 19/2/2020
                                      'CAOL_New:.*', # 19/2/2020
                                      'Masofei Nipuk:.*', # 20/2/2020
-                                     'Haifa Power Unit 4:.*', # 1/6/2020
+                                     'Haifa Power Unit [34]:.*', # 1/6/2020
                                      'mahzam [34]0:.*', # 10/5/2020
                                      'Romema:PM10', # 10/2/2020
                                      'Carmelia:CO', # Before 11/2019
