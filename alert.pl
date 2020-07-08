@@ -303,6 +303,7 @@ my @skip_sensors_missing = (         #                   Encode as station:senso
                                      'Tashan fuel port:TOC',  # maybe 1 reading once a month
                                      'Neve Yosef:CO',         # stopped at 10/11/2016
                                      'Neve Yosef:PM10',         # stopped at 27/3/2017
+                                     'Neve Yosef:NOX',         # stopped on April 2020
                                      #'Igud \(check-post\):SO2', #stopped at 14/11/2016, back sometime before 3/2017
                                      'Igud \(check-post\):O-Xyle', #stopped at 5/1/2017
                                      'OP-BZN1:ISO', # stopped at 5/1/2017, back sometime before 4/2017
