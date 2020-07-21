@@ -42,6 +42,7 @@ my %xlat = ( 'שפרינצק' => 'Shprintzak',
              'קריית חיים-רגבים' => 'Kiryat Haim-Regavim',
              # name change 23 May 2017
              'קריית חיים' => 'Kiryat Haim-Regavim',
+             'קריית חיים מערבית' => 'Kiryat Haim-west', # Added 21 July 2020
              'קריית ביאליק' => 'Kiryat Bialik',
 	     'ק.ביאליק עופרים' => 'Kiryat Bialik Ofarim',
 	     'ק.מוצקין בגין' => 'Kiryat Motzkin Begin',
