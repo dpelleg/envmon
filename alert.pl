@@ -372,7 +372,8 @@ my @skip_sensors_missing = (         #                   Encode as station:senso
                                      'Haifa Power Unit [34]:.*', # 1/6/2020
                                      'mahzam [34]0:.*', # 10/5/2020
                                      'Romema:PM10', # 10/2/2020
-                                     'Carmelia:CO', # Before 11/2019
+			    'Carmelia:CO', # Before 11/2019
+			    'Kiryat Haim-Regavim:.*', # Moved to "Kiryat Haim-West" 21 July 2020
     );
 
 my $skip_sensors_missing = '^(' . join("|", @skip_sensors_missing) . ')$';
