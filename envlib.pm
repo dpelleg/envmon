@@ -185,7 +185,7 @@ sub merge_two_tables {
 		       $sensor_v->{'units'} =~ m!(Kg/Hr|mg/Nm3)! && # match may occur in either direction
                        $ret{$station}->{$sensor}->{'units'} =~ m!(Kg/Hr|mg/Nm3)!);
 	# Added 24 Dec 2017: change of units in Moztkin/Hadar
-	$ignore = 1 if($station =~ /(Kiryat Motzkin Begin)|(Hadar)$/ &&
+	$ignore = 1 if($station =~ /(Kiryat Motzkin Begin|Hadar|Kiryat Haim-west)$/ &&
 		       $sensor eq 'BENZN' &&
 		       $sensor_v->{'units'} =~ m!(PPB|ug/m3)! && # match may occur in either direction
                        $ret{$station}->{$sensor}->{'units'} =~ m!(PPB|ug/m3)!);
