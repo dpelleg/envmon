@@ -304,6 +304,7 @@ my @skip_sensors_missing = (         #                   Encode as station:senso
                                      'Neve Yosef:CO',         # stopped at 10/11/2016
                                      'Neve Yosef:PM10',         # stopped at 27/3/2017
                                      'Neve Yosef:NOX',         # stopped on April 2020
+                                     'Neve Yosef:NO(|2)',         # stopped late October 2020
                                      #'Igud \(check-post\):SO2', #stopped at 14/11/2016, back sometime before 3/2017
                                      'Igud \(check-post\):O-Xyle', #stopped at 5/1/2017
                                      'OP-BZN1:ISO', # stopped at 5/1/2017, back sometime before 4/2017
@@ -372,6 +373,9 @@ my @skip_sensors_missing = (         #                   Encode as station:senso
                                      'Haifa Power Unit [34]:.*', # 1/6/2020
                                      'mahzam [34]0:.*', # 10/5/2020
                                      'Romema:PM10', # 10/2/2020
+                                     'Romema:CO', # 1/9/2020
+                                     'Yizraelia:.*', # 20/10/2020
+                                     'TARO:.*', # 16/10/2020
 			    'Carmelia:CO', # Before 11/2019
 			    'Kiryat Haim-Regavim:.*', # Moved to "Kiryat Haim-West" 21 July 2020
     );
