@@ -376,7 +376,8 @@ my @skip_sensors_missing = (         #                   Encode as station:senso
                                      'Romema:CO', # 1/9/2020
                                      'Yizraelia:.*', # 20/10/2020
                                      'TARO:.*', # 16/10/2020
-			    'Carmelia:CO', # Before 11/2019
+                                     'Carmelia:CO', # Before 11/2019
+                                     'Carmelia:.*', # 9/11/2020
 			    'Kiryat Haim-Regavim:.*', # Moved to "Kiryat Haim-West" 21 July 2020
     );
 
