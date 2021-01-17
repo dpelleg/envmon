@@ -410,7 +410,7 @@ my $hist_root = 'envdata_hist';
 my $data_root = 'envdata';
 my $stats_file = 'db/weekstats';
 
-my $climate_sensors = '^(RH|BP|WDS|TEMP|WDD|SR|PREC|StWd|WIND-V6|ITemp|FILTER.*|Filter|WIND-DIR)$';
+my $climate_sensors = '^(RH|BP|WDS|TEMP|WDD|SR|PREC|StWd|WIND-V6|ITemp|FILTER.*|Filter|WIND-DIR|RAIN)$';
 
 my $users = load_userdb();
 if (!defined($users) || (scalar(keys %$users) == 0)) {
